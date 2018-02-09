@@ -1,0 +1,3419 @@
+#################### ROUND 1: random (X) vs malsalma@usc.edu (O): game 1 ####################
+##### game start! #####
+INPUT for malsalma@usc.edu:
+12
+4
+300
+122212302012
+212101031132
+021322232133
+231323021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### Killing malsalma@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python2] ***
+kill -9  65084 65092 65100
+##### GAME OVER: malsalma@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs malsalma@usc.edu (X): game 2 ####################
+##### game start! #####
+INPUT for random:
+13
+7
+300
+3442354244513
+1303311323531
+2434212101525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J3] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+13
+7
+300
+344235424*513
+1303311324531
+2434212103525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### Killing malsalma@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python2] ***
+kill -9  65084 105736 105749 105752
+##### GAME OVER: malsalma@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs malsalma@usc.edu (O): game 3 ####################
+##### game start! #####
+INPUT for malsalma@usc.edu:
+20
+5
+300
+22134113013333023311
+34300430203323211434
+41141222332103434314
+21320232421024421332
+32113311431430432212
+23313212331211021131
+11213313233301101121
+21031023130142412322
+20211322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [O14] in 37s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 49 on this move #####
+INPUT for random:
+20
+5
+300
+2213411301333*****11
+34300430203323*2*334
+41141222332103013414
+21320232421023231332
+32113311431434424312
+23313212331210431231
+11213313233301422121
+21031023130141001122
+20211322321222111334
+03322213111003402200
+13440434142303303214
+42342023101042212441
+40323210344442203423
+11034332131222123302
+01303112212403222023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G1] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+20
+5
+263
+22134**301333*****11
+34300430203323*2*334
+41141222332103013414
+21320232421023231332
+32113311431434424312
+23313212331210431231
+11213313233301422121
+21031023130141001122
+20211322321222111334
+03322213111003402200
+13440434142303303214
+42342023101042212441
+40323210344442203423
+11034332131222123302
+01303112212403222023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [M17] in 35.25s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 4 on this move #####
+INPUT for random:
+20
+5
+299.95
+22134**30133******11
+3430043020333**2*334
+41141222332123013414
+21320232421003231332
+32113311431423424312
+23313212331234431231
+11213313233310422121
+21031023130101001122
+20211322321241111334
+03322213111022402200
+13440434142303303214
+42342023101003212441
+40323210344442203423
+11034332131242123302
+01303112212422222023
+33132131310103202202
+42324141320222222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N18] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+20
+5
+227.75
+22134**30133******11
+3430043020333**2*334
+4114122233212*013414
+21320232421003231332
+32113311431423424312
+23313212331233431231
+11213313233314422121
+21031023130100001122
+20211322321241111334
+03322213111021402200
+13440434142302303214
+42342023101003212441
+40323210344443203423
+11034332131242123302
+01303112212422222023
+33132131310102202202
+42324141320223222313
+21133431321142322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [N14] in 35.39s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 256 on this move #####
+INPUT for random:
+20
+5
+299.91
+22134**30133******11
+343004302033******34
+4114122233213****314
+2132023242102****432
+3211331143140****312
+2331321233122*02*331
+11213313233333213221
+21031023130113431122
+20211322321203424134
+03322213111044431300
+13440434142320022214
+42342023101001101241
+40323210344401411423
+11034332131242302402
+01303112212443203323
+33132131310103212002
+42324141320223103313
+21133431321142303410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [S1] in 0.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+20
+5
+192.36
+22134**30133********
+343004302033******34
+4114122233213****314
+2132023242102****432
+3211331143140****312
+2331321233122*02*331
+11213313233333213221
+21031023130113431122
+20211322321203424134
+03322213111044431300
+13440434142320022214
+42342023101001101241
+40323210344401411423
+11034332131242302402
+01303112212443203323
+33132131310103212002
+42324141320223103313
+21133431321142303410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [J5] in 60.69s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 121 on this move #####
+INPUT for random:
+20
+5
+299.85
+22134**3************
+343004300*33******34
+411412222*33*****314
+213202323*213****432
+3211331141102****312
+2331321240140*02*331
+1121331323122*213221
+2103102312011*431122
+2021132232120*424134
+03322213111044431300
+13440434142320022214
+42342023101001101241
+40323210344401411423
+11034332131242302402
+01303112212443203323
+33132131310103212002
+42324141320223103313
+21133431321142303410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D8] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+20
+5
+131.67
+221*4**3************
+343304300*33******34
+411012222*33*****314
+213402323*213****432
+3212331141102****312
+2331321240140*02*331
+1121331323122*213221
+2101102312011*431122
+2021132232120*424134
+03322213111044431300
+13440434142320022214
+42342023101001101241
+40323210344401411423
+11034332131242302402
+01303112212443203323
+33132131310103212002
+42324141320223103313
+21133431321142303410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [Terminal State] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### GAME OVER: malsalma@usc.edu loses because of illegal move [Terminal State] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs malsalma@usc.edu (X): game 4 ####################
+##### game start! #####
+INPUT for random:
+11
+5
+300
+33122210301
+42013222100
+33230103234
+32242211422
+23221130133
+43330243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+11
+5
+300
+33*22210301
+42113222100
+33030103234
+32242211422
+23221130133
+43230243111
+20323123133
+14122432123
+22323241130
+01413311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### Killing malsalma@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python2] ***
+kill -9  65084 105736 106758 106766 106768
+##### GAME OVER: malsalma@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs malsalma@usc.edu (O): game 5 ####################
+##### game start! #####
+INPUT for malsalma@usc.edu:
+23
+4
+300
+31121210112330212111231
+13121121123003212311321
+11203320212330301211201
+32202212223222111113032
+00322132210132112100211
+23322222221122222202000
+12201222120122101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [I3] in 34.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 484 on this move #####
+INPUT for random:
+23
+4
+300
+311*******2330212111231
+131*******3003212311321
+1122**1***2330301211201
+3222122***3222111113032
+00301120110132112100211
+23303311121122222202000
+12201130110122101212011
+10212130111310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [R6] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 196 on this move #####
+INPUT for malsalma@usc.edu:
+23
+4
+265.56
+311*******2*******11231
+131*******33**21**11321
+1122**1***20**212111201
+3222122***333*302313032
+00301120110100111200211
+23303311121133111102000
+12201130110130101112011
+10212130111310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [B9] in 58.37s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 529 on this move #####
+INPUT for random:
+23
+4
+299.96
+**********2*******11231
+3*********33**21**11321
+1*****1***20**212111201
+1*****2***333*302313032
+31****20110100111200211
+03***211121133111102000
+211**130110130101112011
+121*1330111310101113221
+10221122132233330333111
+03223121333322331120100
+32301110312211132103221
+10302212323223221122133
+11202320313233211200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P12] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+23
+4
+207.19
+**********2*******11231
+3*********33******11321
+1*****1***20***12111201
+1*****2***333*212313032
+31****20110100201200211
+03***211121133311102000
+211**130110130111112011
+121*1330111310101113221
+10221122132233100333111
+03223121333322131120100
+32301110312211332103221
+10302212323223331122133
+11202320313233111200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [Q5] in 42.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 225 on this move #####
+INPUT for random:
+23
+4
+299.92
+**********2********1231
+3*********33*******1321
+1*****1***20******11201
+1*****2***333*****13032
+31****20110100*1**10211
+03***211121133*1*112000
+211**130110130*02302011
+121*1330111310202203221
+10221122132233200333111
+03223121333322331120100
+32301110312211332103221
+10302212323223331122133
+11202320313233111200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [V11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+23
+4
+164.75
+**********2********1**1
+3*********33*******1231
+1*****1***20******11321
+1*****2***333*****13202
+31****20110100*1**10031
+03***211121133*1*112210
+211**130110130*02302001
+121*1330111310202203011
+10221122132233200333221
+03223121333322331120110
+32301110312211332103101
+10302212323223331122133
+11202320313233111200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [J9] in 41.74s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 64 on this move #####
+INPUT for random:
+23
+4
+299.88
+*******************1**1
+3*********2********1231
+1*****1***33******11321
+1*****2***203*****13202
+31****20**3300*1**10031
+03***211**0133*1*112210
+211**130*11130*02302001
+121*1330*20110202203011
+10221122111333200333221
+03223121112222331120110
+32301110112211332103101
+10302212123223331122133
+11202320113233111200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 64 on this move #####
+INPUT for malsalma@usc.edu:
+23
+4
+123.01
+**********************1
+3*********2********1231
+1*****1***33*******1321
+1*****2***203******1202
+31****20**3300****13031
+03***211**0133*1**10210
+211**130*11130*1*112001
+121*1330*2011020*312011
+1022112211133320*203221
+03223121112222302303110
+32301110112211332130101
+10302212123223330123133
+11202320113233131102112
+31210110223011112220122
+21121100201200311103123
+21000002131331011012211
+11111132122121302020113
+33111112112211330022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [Terminal State] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### GAME OVER: malsalma@usc.edu loses because of illegal move [Terminal State] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs malsalma@usc.edu (X): game 6 ####################
+##### game start! #####
+INPUT for random:
+16
+3
+300
+2021111101212121
+1210122122101112
+1201121211112212
+2121200112111200
+1111120021022111
+1211001111111112
+2121220112220011
+1111122011012111
+1111112100200012
+0110010121111100
+2102102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+300
+**21111101212121
+2010122122101112
+1201121211112212
+1221200112111200
+2111120021022111
+1111001111111112
+1221220112220011
+2111122011012111
+1111112100200012
+1110010121111100
+0102102201122220
+2111122111001021
+0220010011102121
+2002011221110210
+1110212111012012
+1122010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [B3] in 2.87s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 9 on this move #####
+INPUT for random:
+16
+3
+299.96
+***1111101212121
+2*20122122101112
+1*11121211112212
+1001200112111200
+2111120021022111
+1111001111111112
+1221220112220011
+2111122011012111
+1111112100200012
+1110010121111100
+0102102201122220
+2111122111001021
+0220010011102121
+2002011221110210
+1110212111012012
+1122010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+297.13
+***111110121*121
+2*20122122102112
+1*11121211111212
+1001200112112200
+2111120021021111
+1111001111112112
+1221220112221011
+2111122011010111
+1111112100202012
+1110010121110100
+0102102201121220
+2111122111002021
+0220010011101121
+2002011221110210
+1110212111012012
+1122010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [K12] in 3.94s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 9 on this move #####
+INPUT for random:
+16
+3
+299.92
+***1111101***121
+2*201221222*2112
+1*11121211111212
+1001200112102200
+2111120021111111
+1111001111012112
+1221220112121011
+2111122011210111
+1111112100022012
+1110010121210100
+0102102201101220
+2111122111112021
+0220010011121121
+2002011221110210
+1110212111012012
+1122010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 25 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+293.19
+***1111101***121
+***01221222*2112
+**21121211111212
+2*11200112102200
+1*01120021111111
+1011001111012112
+2111220112121011
+1121122011210111
+1211112100022012
+2110010121210100
+1112102201101220
+1101122111112021
+0110010011121121
+2122011221110210
+0200212111012012
+2022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [I3] in 3.13s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1024 on this move #####
+INPUT for random:
+16
+3
+299.87
+***111**********
+***0121*********
+**21122*********
+2*112011****21*1
+1*011201*12*21*2
+1011000202002222
+2111220022121210
+1121122022210012
+1211112100022002
+2110010121210100
+1112102201101220
+1101122111112021
+0110010011121121
+2122011221110210
+0200212111012012
+2022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M4] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 64 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+290.06
+***111**********
+***0121*********
+**21122*********
+2*112011********
+1*011201*12*****
+101100020200*1*1
+2111220022121110
+1121122022210012
+1211112100022002
+2110010121210100
+1112102201101220
+1101122111112021
+0110010011121121
+2122011221110210
+0200212111012012
+2022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [J10] in 2.4s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 400 on this move #####
+INPUT for random:
+16
+3
+299.82
+***111**********
+***0121*********
+**21122*********
+2*11201*********
+1*01120*********
+1011000******1*1
+21112201****1110
+11211221****0012
+12111122**202002
+211001000*020100
+1112102021111220
+1101122122222021
+0110010102011121
+2122011222200210
+0200212000022012
+2022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E12] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+287.66
+*****1**********
+***1*21*********
+**20122*********
+2*11101*********
+1*01120*********
+1011200******1*1
+21111201****1110
+11210221****0012
+12112122**202002
+211111000*020100
+1110102021111220
+1102022122222021
+0110010102011121
+2122011222200210
+0200212000022012
+2022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [E3] in 5.38s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1089 on this move #####
+INPUT for random:
+16
+3
+299.78
+****************
+******1*********
+*****12*********
+*****21*********
+*****20*********
+*****00******1*1
+*****201****1110
+2****021****0012
+1**12222**202002
+1*2002000*020100
+2*00202021111220
+2*22022122222021
+0000010102011121
+2222011222200210
+0200212000022012
+2022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G7] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+282.28
+****************
+****************
+****************
+*****1**********
+*****21*********
+*****22******1*1
+*****211****1110
+2****021****0012
+1**12222**202002
+1*2002000*020100
+2*00202021111220
+2*22022122222021
+0000010102011121
+2222011222200210
+0200212000022012
+2022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [I11] in 1.78s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 121 on this move #####
+INPUT for random:
+16
+3
+299.73
+****************
+****************
+****************
+*****1**********
+*****21*********
+*****22******1*1
+*****21******110
+2****021****1012
+1**12221****0002
+1*200202***02100
+2*002020**220220
+2*220220**011021
+000001010*111121
+2222011101000210
+0200212000022012
+2022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B14] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 25 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+280.5
+****************
+****************
+****************
+*****1**********
+*****21*********
+*****22******1*1
+*****21******110
+*****021****1012
+2***2221****0002
+1**10202***02100
+1*202020**220220
+2*000220**011021
+2*2201010*111121
+0*00011101000210
+0000212000022012
+2022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [D11] in 1.42s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 196 on this move #####
+INPUT for random:
+16
+3
+299.68
+****************
+****************
+****************
+*****1**********
+*****21*********
+*****22******1*1
+*****21******110
+*****021****1012
+*****221****0002
+*****202***02100
+2****020**220220
+1***2220**011021
+1***01010*111121
+2*21211101000210
+2*22212000022012
+2*22010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F6] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+279.08
+****************
+****************
+****************
+****************
+****************
+******1******1*1
+*****11******110
+*****021****1012
+*****221****0002
+*****202***02100
+2****020**220220
+1***2220**011021
+1***01010*111121
+2*21211101000210
+2*22212000022012
+2*22010220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [F13] in 0.75s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 49 on this move #####
+INPUT for random:
+16
+3
+299.64
+****************
+****************
+****************
+****************
+****************
+*************1*1
+******1******110
+******1*****1012
+******2*****0002
+******21***02100
+2****101**220220
+1***2022**011021
+1***02200*111121
+2*21220001000210
+2*22202000022012
+2*22020220101112
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 25 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+278.33
+****************
+****************
+****************
+****************
+****************
+***************1
+******1******1*0
+******1******1*2
+******2*****10*2
+******21***00010
+2****101**222110
+1***2022**010201
+1***02200*111001
+2*21220001001120
+2*22202000020222
+2*22020220102022
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [H13] in 0.87s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 144 on this move #####
+INPUT for random:
+16
+3
+299.6
+****************
+****************
+****************
+****************
+****************
+***************1
+*************1*0
+******1******1*2
+******1*****10*2
+******2*****0010
+2****12****02110
+1***200****20201
+1***0221**211001
+2*212221**011120
+2*222022**120222
+2*22020221102022
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+277.46
+****************
+****************
+****************
+****************
+****************
+***************1
+*************1*0
+******1******1*2
+******1*****10*2
+******2*****0010
+2****12****02110
+1***200****20201
+1***0221***11001
+2*212221***11120
+2*222022**220222
+2*2202022*002022
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [O14] in 4.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 36 on this move #####
+INPUT for random:
+16
+3
+299.56
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+******1******1*1
+******1*****11*0
+******2*****00*2
+2****12****020*2
+1***200****201*0
+1***0221***11210
+2*212221***11011
+2*222022**220101
+2*2202022*002000
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G8] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+273.02
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1*1
+************11*0
+******2*****00*2
+2****12****020*2
+1***200****201*0
+1***0221***11210
+2*212221***11011
+2*222022**220101
+2*2202022*002000
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [F13] in 3.16s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 225 on this move #####
+INPUT for random:
+16
+3
+299.52
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1*1
+************11*0
+************00*2
+2**********020*2
+1**********201*0
+1****12****11210
+2***202****11011
+2***0001**220101
+2**10201**002000
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.86
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1*1
+************11*0
+************00*2
+***********020*2
+***********201*0
+*****12****11210
+2***202****11011
+1***0001**220101
+1**10201**002000
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [O13] in 0.22s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 16 on this move #####
+INPUT for random:
+16
+3
+299.48
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1**
+************11**
+************00*1
+***********020*0
+***********201*2
+*****12****112*2
+2***202****110*0
+1***0001**220100
+1**10201**002000
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.64
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************11**
+************01**
+***********020**
+***********200**
+*****12****111*1
+2***202****112*0
+1***0001**2200*2
+1**10201**0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [L13] in 0.2s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 25 on this move #####
+INPUT for random:
+16
+3
+299.44
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1**
+************11**
+************00**
+*****12****020*1
+2***202****202*0
+1***0001**2200*2
+1**10201**0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.44
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1**
+************11**
+************00**
+*****1*****020*1
+2***20*****202*0
+1***0001**2200*2
+1**10201**0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [M12] in 0.12s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 9 on this move #####
+INPUT for random:
+16
+3
+299.4
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************11**
+*****1*****021*1
+2***20*****202*0
+1***0001**2200*2
+1**10201**0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F13] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.32
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************11**
+***********021*1
+2***20*****202*0
+1***0001**2200*2
+1**10201**0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [F14] in 0.12s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 36 on this move #####
+INPUT for random:
+16
+3
+299.35
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************11**
+***********021*1
+2**********202*0
+1******1**2200*2
+1**122*1**0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.2
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************11**
+***********021*1
+2**********202*0
+1*********2200*2
+1**122****0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [L14] in 0.08s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 9 on this move #####
+INPUT for random:
+16
+3
+299.31
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************11**
+************21*1
+2***********02*0
+1**********000*2
+1**122****0021*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.12
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************1***
+************21*1
+2***********01*0
+1**********002*2
+1**122****0020*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [M14] in 0.07s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 25 on this move #####
+INPUT for random:
+16
+3
+299.27
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1*1
+2***********11*0
+1***********22*2
+1**122******20*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E16] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.05
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1*1
+2***********11*0
+1***********22*2
+1**1********20*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [A15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 4 on this move #####
+INPUT for random:
+16
+3
+299.25
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************1*1
+************11*0
+************22*2
+2**1********20*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M16] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+269.01
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+***************1
+*************1*0
+*************1*2
+2**1********10*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [N14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 4 on this move #####
+INPUT for random:
+16
+3
+299.2
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+***************1
+***************0
+***************2
+2**1********10*2
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+268.97
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+***************1
+2**1********10*0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [P15] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+16
+3
+299.16
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+2**1********10*0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D16] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+268.95
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+2***********10*0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [A16] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+16
+3
+299.11
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+************10*0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M16] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+16
+3
+268.92
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+*************0*0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [N16] in 0.01s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+16
+3
+299.06
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+****************
+***************0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P16] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+##### GAME OVER: malsalma@usc.edu (X) wins 3433 to 273 #####
+#################### ROUND 1: random (X) vs malsalma@usc.edu (O): game 7 ####################
+##### game start! #####
+INPUT for malsalma@usc.edu:
+24
+4
+300
+223112331223322130102230
+110231320011021111321212
+032211201231000122122000
+111221121121130322112132
+022221011113120011222202
+123202222222321321012120
+112322233203211212322230
+000202231102011122020230
+212222022101321122231201
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [E10] in 108.72s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+24
+4
+300
+2231*2331223322130102230
+110211320011021111321212
+032231201231000122122000
+111211121121130322112132
+022221011113120011222202
+123222222222321321012120
+112302233203211212322230
+000222231102011122020230
+212202022101321122231201
+121022311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [X5] in 0.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+24
+4
+191.28
+2231*233122332213010223*
+11021132001102111132121*
+032231201231000122122000
+111211121121130322112132
+022221011113120011222200
+123222222222321321012120
+112302233203211212322230
+000222231102011122020230
+212202022101321122231201
+121022311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### Killing malsalma@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python2] ***
+kill -9  65084 105736 106758 169840 169843 169854
+##### GAME OVER: malsalma@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs malsalma@usc.edu (X): game 8 ####################
+##### game start! #####
+INPUT for random:
+15
+3
+300
+121111111111211
+022212112122120
+211102100121222
+120222112120111
+102102101111211
+021112111011011
+120110121111121
+100220022020110
+212200101211011
+211001101001212
+111211011011111
+211012111111111
+001211221010010
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D12] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+300
+121*11111111211
+022112112122120
+211202100121222
+120122112120111
+102202101111211
+021112111011011
+120110121111121
+100120022020110
+212200101211011
+211201101001212
+111011011011111
+211212111111111
+001211221010010
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [B9] in 2.58s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 625 on this move #####
+INPUT for random:
+15
+3
+299.96
+*******11111211
+*******12122120
+1*****100121222
+0**1*1112120111
+2**212101111211
+1**112111011011
+121202121111121
+022122122020110
+111102101211011
+120110001001212
+202210011011111
+221220111111111
+220002221010010
+000202000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K5] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 3600 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+297.42
+***************
+***************
+1**************
+0**1**********1
+2**212******2*0
+1**112******1*2
+121202*0****211
+022122*0*0**121
+111102*2*022221
+120110*22221011
+202210000020010
+221220002020212
+220002222000020
+000202000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [F10] in 4.62s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 361 on this move #####
+INPUT for random:
+15
+3
+299.92
+***************
+***************
+1**************
+0**1**********1
+2**21*********0
+1**11*********2
+12120********11
+022122******221
+111102*0****121
+120112*0**2*211
+202212*2202*110
+221222*2202*212
+220002222222220
+000202000221101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+292.8
+***************
+***************
+1**************
+0**1**********1
+2**21*********0
+1**11*********2
+12120*********1
+022122********1
+111102*0****111
+120112*0**2*211
+202212*2202*110
+221222*2202*212
+220002222222220
+000202000221101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [C13] in 3.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 81 on this move #####
+INPUT for random:
+15
+3
+299.87
+***************
+***************
+***************
+**************1
+1**1**********0
+0**2**********2
+2**11*********1
+1**212********1
+121102*0****111
+022122*0**2*211
+111102*2202*110
+120212*2202*212
+202212222222220
+221222000221101
+222221021102212
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+289.76
+***************
+***************
+***************
+**************1
+1**1**********0
+0**2**********2
+2**11*********1
+1**212********1
+121102*0****1*1
+022122*0**2*211
+111102*2202*110
+120212*2202*212
+202212222222210
+221222000221121
+222221021102202
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [C9] in 2.38s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 64 on this move #####
+INPUT for random:
+15
+3
+299.83
+***************
+***************
+***************
+**************1
+**************0
+**************2
+1***1*********1
+0**112********1
+2**202*0****1*1
+12*122*0**2*211
+122202*2202*110
+020212*2202*212
+202212222222210
+221222000221121
+222221021102202
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N10] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 81 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+287.38
+***************
+***************
+***************
+***************
+***************
+***************
+1***1**********
+0**112********1
+2**202*0******0
+12*122*0**2*1*2
+122202*2202*2*0
+020212*2202*2*2
+2022122222222*0
+221222000221121
+222221021102202
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [F8] in 0.59s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1936 on this move #####
+INPUT for random:
+15
+3
+299.78
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+**************1
+**************0
+1***1*********2
+0***1*********0
+2***0**0******2
+1**10**0*0**1*0
+1*021*0000*1121
+001111021102202
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O14] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.79
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+**************1
+1***1*********0
+0***1*********2
+2***0**0******0
+1**10**0*0**1*2
+1*021*0000*1120
+001111021102202
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [H12] in 0.31s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 64 on this move #####
+INPUT for random:
+15
+3
+299.73
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+**************1
+1***1*********0
+0***1*********2
+2***0*********0
+1**10*******1*2
+1*021******1120
+001111*21102202
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.48
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1***1*********1
+0***1*********0
+2***0*********2
+1**10*******1*0
+1*021******1122
+001111*21102200
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [E12] in 0.17s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 4 on this move #####
+INPUT for random:
+15
+3
+299.68
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1*************1
+0*************0
+2***1*********2
+1**11*******1*0
+1*021******1122
+001111*21102200
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O11] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.31
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1**************
+0*************1
+2***1*********2
+1**11*******1*0
+1*021******1122
+001111*21102200
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [E12] in 0.08s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 64 on this move #####
+INPUT for random:
+15
+3
+299.63
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1**************
+0*************1
+2*************2
+1***********1*0
+1**********1122
+0002***21102200
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.23
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1**************
+0**************
+2*************1
+1***********1*2
+1**********11*0
+0002***21102222
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [M13] in 0.07s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 9 on this move #####
+INPUT for random:
+15
+3
+299.58
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1**************
+0**************
+2*************1
+1*************2
+1*************0
+0002***21102222
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.16
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1**************
+0**************
+2*************1
+1*************2
+1*************0
+0002***211*2222
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [A15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 9 on this move #####
+INPUT for random:
+15
+3
+299.54
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1**************
+0*************1
+2*************2
+1*************0
+1**2***211*2222
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.11
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1**************
+0**************
+2*************1
+1*************2
+1**2***211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [A14] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 4 on this move #####
+INPUT for random:
+15
+3
+299.49
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1*************1
+0*************2
+2**2***211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.08
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+**************1
+1*************2
+0**2***211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [O13] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+15
+3
+299.44
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+1*************2
+0**2***211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A14] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.05
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+**************2
+0**2***211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [O14] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+15
+3
+299.41
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+0**2***211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.03
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+0******211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [A15] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+15
+3
+299.37
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+*******211****0
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+15
+3
+286.01
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+*******211*****
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [H15] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 1 on this move #####
+INPUT for random:
+15
+3
+299.33
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+********11*****
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+##### GAME OVER: random (O) wins 3724 to 3225 #####
+#################### ROUND 1: random (X) vs malsalma@usc.edu (O): game 9 ####################
+##### game start! #####
+INPUT for malsalma@usc.edu:
+22
+5
+300
+1021112000321014143212
+3023144233132332133423
+0213222213132112221403
+2022211214224423320221
+2240334130211323332201
+4143414210410130134313
+3030331222401204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [P4] in 53.45s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 144 on this move #####
+INPUT for random:
+22
+5
+300
+102111200032101***3212
+302314423313233***3423
+0213222213132114**1403
+2022211214224422**0221
+2240334130211322*42201
+4143414210410130*34313
+3030331222401204121303
+3101324312200042121014
+0241423242324234224310
+2142120222124110112123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [S15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+22
+5
+246.55
+102111200032101****212
+302314423313233****423
+0213222213132114**3403
+2022211214224422**3221
+2240334130211322*41201
+4143414210410130*30313
+3030331222401204122303
+3101324312200042124014
+0241423242324234221310
+2142120222124110111123
+4323432304422312124131
+1203403130113302132414
+4211111202342203431313
+2344133303333141243131
+1131234201112214320134
+4221124023423221112443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [H6] in 51.26s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 121 on this move #####
+INPUT for random:
+22
+5
+299.95
+1021112****2101****212
+3023144***33233****423
+0213222*0*132114**3403
+2022211*3*124422**3221
+2240334010211322*41201
+4143414213210130*30313
+3030331233401204122303
+3101324214400042124014
+0241423110324234221310
+2142120340124110111123
+4323432304422312124131
+1203403130113302132414
+4211111202342203431313
+2344133303333141243131
+1131234201112214320134
+4221124023423221112443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+22
+5
+195.29
+1021112******01****212
+3023144***3*133****423
+0213222*0*122114**3403
+2022211*3*132422**3221
+2240334010234322*41201
+4143414213221130*30313
+3030331233410204122303
+3101324214411042124014
+0241423110300234221310
+2142120340104110111123
+4323432304424312124131
+1203403130122302132414
+4211111202323203431313
+2344133303312141243131
+1131234201143214320134
+4221124023432221112443
+4142331034313133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [G17] in 77.99s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 169 on this move #####
+INPUT for random:
+22
+5
+299.91
+102111*******01****212
+302314******133****423
+021322******2114**3403
+2022212*0*3*2422**3221
+2240334*3*1*4322*41201
+414341201*1*1130*30313
+3030331210220204122303
+3101324233231042124014
+0241424213430234221310
+2142121114424110111123
+4323434340314312124131
+1203403300112302132414
+4211110134403203431313
+2344132200102141243131
+1131233302323214320134
+4221121203322221112443
+4142333021123133012021
+1330034033413103442222
+4424204234343331010042
+2223343232330220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L19] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+22
+5
+117.3
+102111*******01****212
+302314******133****423
+021322******2114**3403
+2022212*0*3*2422**3221
+2240334*3*1*4322*41201
+414341201*1*1130*30313
+30303312102*0204122303
+3101324233221042124014
+0241424213430234221310
+2142121114434110111123
+4323434340324312124131
+1203403300112302132414
+4211110134413203431313
+2344132200102141243131
+1131233302303214320134
+4221121203322221112443
+4142333021123133012021
+1330034033423103442222
+4424204234313331010042
+2223343232330220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [Terminal State] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### GAME OVER: malsalma@usc.edu loses because of illegal move [Terminal State] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs malsalma@usc.edu (X): game 10 ####################
+##### game start! #####
+INPUT for random:
+23
+4
+300
+10322011122130200122100
+21133212112202111113110
+21011213010313022202212
+11220312310312100333023
+02112212113123221212023
+11311121122313111011021
+12103013112223222230211
+11200222122121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K4] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for malsalma@usc.edu:
+23
+4
+300
+1032201112*130200122100
+2113321211*202111113110
+21011213012313022202212
+11220312312312100333023
+02112212113123221212023
+11311121122313111011021
+12103013112223222230211
+11200222122121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [G1] in 109.75s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 324 on this move #####
+INPUT for random:
+23
+4
+299.95
+103220*****130200122100
+211332*****202111113110
+210112*2**2313022202212
+112203*3**2312100333023
+021122*2**3123221212023
+11311122*22313111011021
+12103013022223222230211
+11200222322121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [R14] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for malsalma@usc.edu:
+23
+4
+190.25
+103220*****13020**22100
+211332*****202110*13110
+210112*2**2313021102212
+112203*3**2312102133023
+021122*2**3123220212023
+11311122*22313111311021
+12103013022223221230211
+11200222322121232002110
+31311032213210222221312
+32012122022022213132332
+12220222211310131121132
+13122220222322013113210
+22212321132310022331213
+12211201213021311323223
+21221212121301311021010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### Killing malsalma@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python2] ***
+*** Killing lingering child process [sh] ***
+kill -9  65084 105736 106758 119692 119704 119714 169840
+##### GAME OVER: malsalma@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs malsalma@usc.edu (O): game 11 ####################
+##### game start! #####
+INPUT for malsalma@usc.edu:
+25
+5
+300
+3230134313333142312011333
+2222010334430430422210211
+2013320413310403142333242
+3221342103213111132113131
+2100011422043111223031232
+2102322312041330131141312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [T10] in 124.42s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 49 on this move #####
+INPUT for random:
+25
+5
+300
+323013431333314231****333
+2222010334430430422**1211
+20133204133104031420*0242
+3221342103213111132213131
+2100011422043111222313232
+2102322312041330133131312
+2123212324122423241011312
+3223312033321210131132000
+3301243241323003300244103
+3224402321333323103233142
+0420012041343211323111122
+3131223410403422231110140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O3] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for malsalma@usc.edu:
+25
+5
+175.58
+32301343133331*231****333
+2222010334430440422**1211
+20133204133104331420*0242
+3221342103213111132213131
+2100011422043111222313232
+2102322312041330133131312
+2123212324122423241011312
+3223312033321210131132000
+3301243241323003300244103
+3224402321333323103233142
+0420012041343211323111122
+3131223410403422231110140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [I8] in 137.18s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### malsalma@usc.edu scores 225 on this move #####
+INPUT for random:
+25
+5
+299.95
+32301343*******231****333
+2222010313***140422**1211
+2013320434***4331420*0242
+3221342113*3*411132213131
+210001140333*111222313232
+2102322322413130133131312
+2123212312310323241011312
+3223312024240410131132000
+3301243241043203300244103
+3224402321023023103233142
+0420012041121211323111122
+3131223410422422231110140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q22] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### random scores 81 on this move #####
+INPUT for malsalma@usc.edu:
+25
+5
+38.4
+32301343*******2******333
+2222010313***140*****1211
+2013320434***433*1*0*0242
+3221342113*3*41132*213131
+210001140333*11144*313232
+2102322322413130132131312
+2123212312310323122011312
+3223312024240410232132000
+3301243241043203142244103
+3224402321023023233233142
+0420012041121211101111122
+3131223410422422301110140
+4444332022441411120341110
+2303222322000321333233141
+4102442034101101213302333
+1333430244301404011201101
+1412231321330411021132321
+3121011041220002311211013
+3204233212123043320133222
+2121403020113230444134141
+2341232103230301231300021
+1301323123213131411113313
+3422203124222213231031414
+2432132013312134333124430
+1214213411301341141130123
+
+##### Running: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_malsalma@usc.edu.txt -f "%U" python2 homework.py > /dev/null 2>&1 on malsalma@usc.edu #####
+##### malsalma@usc.edu plays [Terminal State] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_malsalma@usc.edu #####
+##### GAME OVER: malsalma@usc.edu loses because of illegal move [Terminal State] #####
+Server said: FAIL
+
+
+########## GRAND WINNER ROUND 1 IS random BY 10 vs 1 GAMES ##########

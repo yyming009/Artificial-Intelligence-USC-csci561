@@ -1,0 +1,18 @@
+package hw2;
+
+public class homework {
+
+	public static void main(String[] args) {
+		
+		InputStream input = new InputStream();
+		int rows = input.getRows();
+		int cols = input.getCols();
+		int numOfFruit = input.getNumOfFruit();
+		double timeRemain = input.getTimeRamain();
+		int[][] board = input.getBoard();
+		
+		gameAgent agent = new gameAgent(rows, cols, numOfFruit, timeRemain, board);
+		System.out.println(agent.getResultBoard());
+	}
+
+}

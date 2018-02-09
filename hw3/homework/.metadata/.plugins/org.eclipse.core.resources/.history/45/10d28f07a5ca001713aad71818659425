@@ -1,0 +1,63 @@
+package homework;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.InputStream;
+import java.util.Scanner;
+
+public class homework {
+	
+	static int numOfQuery;
+	static int numOfKb;
+	static String[] query;
+	static String[] kb;
+
+	public static void main(String[] args) {
+		
+		String pathName = "input.txt";
+		File file = new File(pathName);		
+		
+		Scanner input = null;
+		try {
+			input = new Scanner(file);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		
+		//get the number of queries
+		numOfQuery = Integer.parseInt(input.nextLine());
+		query = new String[numOfQuery];
+		//store each query of each line into query array
+		for (int i = 0; i < numOfQuery && input.hasNextLine(); ++i) {
+			query[i] = input.nextLine();
+		}
+//	
+//		//get the number of kb
+//		numOfKb = Integer.parseInt(input.nextLine());
+//		//store each kb of each line into query array
+//		for(int j = 0; j < numOfKb && input.hasNextLine(); ++j) { 
+//		    kb[j] = input.nextLine();
+//		}
+		
+		System.out.println(numOfQuery);
+		System.out.println(query);
+		System.out.println(numOfKb);
+		System.out.println(kb);
+
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

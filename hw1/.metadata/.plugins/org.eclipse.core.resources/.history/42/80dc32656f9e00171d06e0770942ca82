@@ -1,0 +1,240 @@
+package homework;
+
+public class Check {
+	
+//	public static boolean check(int[][] stateArray) {
+//		int numOfRange = stateArray.length;
+//		
+//	    for (int k = 0; k < numOfRange * numOfRange; k++) {
+//	        if (stateArray[k/numOfRange][k%numOfRange] == 1) {
+//	        	
+//	        	//同一行
+//	        	int[] rowCheck = new int[numOfRange];
+//	        	int p0 = 0;
+//	            for (int j = 0; j < numOfRange; j++){     	            	
+//	                if (stateArray[k/numOfRange][j] != 0) {
+//	                	rowCheck[p0++] = stateArray[k/numOfRange][j];
+//	                }
+//	            }
+//	            for (int n = 0; n < p0 - 1; n++) {
+//					if (rowCheck[n] == 1 && rowCheck[n+1] == 1) {
+//	                	return false;
+//					}
+//				}
+//	            
+//	        	// 同一列
+//	        	int[] colCheck = new int[numOfRange];
+//	        	int p = 0;
+//	            for (int i = 0; i < numOfRange; i++){     	            	
+//	                if (stateArray[i][k%numOfRange] != 0) {
+//	                	colCheck[p++] = stateArray[i][k%numOfRange];
+//	                }
+//	            }
+//	            for (int n = 0; n < p - 1; n++) {
+//					if (colCheck[n] == 1 && colCheck[n+1] == 1) {
+//	                	return false;
+//					}
+//				}
+//	                	
+//	            // 右下方
+//	            int[] diaCheck1 = new int[numOfRange];
+//            	int p1 = 0;
+//	            for (int i = k/numOfRange, j = k%numOfRange; i < numOfRange && j < numOfRange; i++, j++) {
+//	            	if (stateArray[i][j] != 0) {
+//	            		diaCheck1[p1++] = stateArray[i][j];
+//	                	
+//	            	}
+//	            }
+//	            for (int n = 0; n < p1 - 1; n++) {
+//					if (diaCheck1[n] == 1 && diaCheck1[n+1] == 1) {
+//						return false;
+//					}
+//				}
+//	                	            
+//	            // 左上方	
+//	            int[] diaCheck2 = new int[numOfRange];
+//            	int p2 = 0;
+//	            for (int i = k/numOfRange, j = k%numOfRange; i >= 0 && j >= 0; i--, j--) {  
+//	            	if (stateArray[i][j] != 0) {
+//	            		diaCheck2[p2++] = stateArray[i][j];
+//	            	}
+//	            }
+//	            for (int n = 0; n < p2 - 1; n++) {
+//					if (diaCheck2[n] == 1 && diaCheck2[n+1] == 1) {
+//						return false;
+//					}
+//				}
+//	            
+//	            // 左下方
+//	            int[] diaCheck3 = new int[numOfRange];
+//            	int p3 = 0;
+//	            for (int i = k/numOfRange, j = k%numOfRange; i < numOfRange && j >= 0; i++, j--)  {
+//	            	if (stateArray[i][j] != 0) {
+//	            		diaCheck3[p3++] = stateArray[i][j];
+//	            	}
+//	            }
+//	            for (int n = 0; n < p3 - 1; n++) {
+//					if (diaCheck3[n] == 1 && diaCheck3[n+1] == 1) {
+//						return false;
+//					}
+//				}
+//	            
+//	            // 右上方
+//	            int[] diaCheck4 = new int[numOfRange];
+//            	int p4 = 0;
+//	            for (int i = k/numOfRange, j = k%numOfRange; i >= 0 && j < numOfRange; i--, j++) {   
+//	            	if (stateArray[i][j] != 0) {
+//	            		diaCheck4[p4++] = stateArray[i][j];
+//	            	}
+//	            }
+//	            for (int n = 0; n < p4 - 1; n++) {
+//					if (diaCheck4[n] == 1 && diaCheck4[n+1] == 1) {
+//						return false;
+//					}
+//				}
+//	        }
+//	    }
+//	    
+//	    return true;
+//		
+//	}
+
+	
+	public static boolean check(int[][] stateArray) {
+		
+		for (int i = 0; i < stateArray.length; i++) {
+			int[] rowCheck = new int[stateArray.length];
+			int k = 0;
+			
+			for (int j = 0; j < stateArray[i].length; j++) {
+				if (stateArray[i][j] != 0) {
+					rowCheck[k] = stateArray[i][j];
+					k++;
+				}
+			}
+			if (k > 1) {
+				for (int n = 0; n < k - 1; n++) {
+					if (rowCheck[n] == 1 && rowCheck[n+1] == 1) {
+						return false;
+					}
+				}
+			}
+			
+		}
+		
+		for (int j = 0; j < stateArray.length; j++) {
+			int[] colCheck = new int[stateArray.length];
+			int k = 0;
+			
+			for (int i = 0; i < stateArray[j].length; i++) {
+				if (stateArray[i][j] != 0) {
+					colCheck[k] = stateArray[i][j];
+					k++;
+				}
+			}
+			if (k > 1) {
+				for (int n = 0; n < k - 1; n++) {
+					if (colCheck[n] == 1 && colCheck[n+1] == 1) {
+						return false;
+					}
+				}
+			}
+			
+		}
+		
+		//incline < 0
+		int irow = 0, icol = 0;
+		while (irow < stateArray.length) {
+			int i = irow, j = 0;
+			int[] diagCheck = new int[stateArray.length];
+			int k = 0;
+			while (i < stateArray.length && j < stateArray.length) {			
+				if (stateArray[i][j] != 0) {
+					diagCheck[k++] = stateArray[i][j];
+				}
+				
+				i++;
+				j++;
+			}
+			if (k > 1) {
+				for (int n = 0; n < k - 1; n++) {
+					if (diagCheck[n] == 1 && diagCheck[n+1] == 1) {
+						return false;
+					}
+				}
+			}
+			irow++;
+		}
+		
+		while (icol < stateArray.length) {
+			int i = 0, j = icol;
+			int[] diagCheck = new int[stateArray.length];
+			int k = 0;
+			while (j < stateArray.length && i < stateArray.length) {			
+				if (stateArray[i][j] != 0) {
+					diagCheck[k++] = stateArray[i][j];
+				}
+				
+				i++;
+				j++;
+			}
+			if (k > 1) {
+				for (int n = 0; n < k - 1; n++) {
+					if (diagCheck[n] == 1 && diagCheck[n+1] == 1) {
+						return false;
+					}
+				}
+			}
+			icol++;
+		}
+		
+		//incline > 0
+		int iirow = 0, iicol = stateArray.length - 1;
+		while (iirow < stateArray.length) {
+			int i = iirow, j = stateArray.length - 1;
+			int[] diagCheck = new int[stateArray.length];
+			int k = 0;
+			while (j >= iirow && i < stateArray.length) {			
+				if (stateArray[i][j] != 0) {
+					diagCheck[k++] = stateArray[i][j];
+				}
+				
+				i++;
+				j--;
+			}
+			if (k > 1) {
+				for (int n = 0; n < k - 1; n++) {
+					if (diagCheck[n] == 1 && diagCheck[n+1] == 1) {
+						return false;
+					}
+				}
+			}
+			iirow++;
+		}
+		
+		while (iicol >= 0) {
+			int i = 0, j = iicol;
+			int[] diagCheck = new int[stateArray.length];
+			int k = 0;
+			while (j >= 0 && i < stateArray.length) {			
+				if (stateArray[i][j] != 0) {
+					diagCheck[k++] = stateArray[i][j];
+				}
+				
+				i++;
+				j--;
+			}
+			if (k > 1) {
+				for (int n = 0; n < k - 1; n++) {
+					if (diagCheck[n] == 1 && diagCheck[n+1] == 1) {
+						return false;
+					}
+				}
+			}
+			iicol--;
+		}
+		
+		return true;		
+	}
+
+}

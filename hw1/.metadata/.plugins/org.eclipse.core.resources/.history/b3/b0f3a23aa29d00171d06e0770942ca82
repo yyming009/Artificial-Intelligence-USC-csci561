@@ -1,0 +1,283 @@
+package homework;
+
+import java.util.Random;
+
+public class CA {
+	
+	private int numOfLizard = new InputStream().getNumOfLizard();
+	private int numOfRange = new InputStream().getNumOfRange();
+	private Interval[] intervals;
+	private int numOfIntervals;
+	
+	Node node = new Node();
+	int[][] nursery = node.getNode();	
+	int[][] temp = new int[numOfRange][numOfRange];
+	int totalTrial;   // 统计移动步数
+	
+	public CA() {
+		
+		numOfIntervals = 0;
+		for (int i = 0; i < numOfRange; i++) {	
+			int numOfBlank = 0;
+			for (int j = 0; j < numOfRange; j++) {				
+				if (nursery[i][j] == 2) {
+					if ((j != 0) && (nursery[i][j-1] == 0)) {
+						numOfBlank++;
+					}					
+				}
+				if ((j == numOfRange - 1) && (nursery[i][j] == 0)) {
+					numOfBlank++;
+				}
+			}
+			numOfIntervals += numOfBlank;		
+		}
+		
+		//System.out.println(numOfIntervals);
+		
+		//add interval into intervals array
+		intervals = new Interval[numOfIntervals];
+		int temp = 0;
+		for (int i = 0; i < numOfRange; i++) {	
+			int start = 0;
+			for (int j = 0; j < numOfRange; j++) {				
+				int end = numOfRange - 1;
+				if (nursery[i][j] == 2) {
+					end = j - 1;
+					if (end != -1 && (nursery[i][start] != 2)) {
+						intervals[temp++] = new Interval(i, start, end);
+					}
+					start = j + 1;
+				}
+				if (j == end && start != numOfRange) {
+					intervals[temp++] = new Interval(i, start, end);
+				}
+			}
+			
+		}
+	}
+	
+	public void printSolution(){
+		if (caSimulated()) {
+			System.out.println("OK");
+
+			for (int i = 0; i < numOfRange; i++){
+	            for (int j = 0; j < numOfRange; j++) {
+	            	System.out.print(nursery[i][j]);
+	            }    
+	            System.out.println();
+	        }
+		} else {
+			System.out.println("FAIL");
+		}
+    }
+	
+	// 随机生成初始状态
+	public boolean initial() {
+		
+		Random rand = new Random();
+	    for (int i = 0; i < numOfIntervals; i++) {
+	    	
+	    	Interval inte = intervals[i];
+	    	int start = inte.start;
+			int end = inte.end;
+			int row = inte.row;
+			
+			int num = rand.nextInt(end)%(end-start+1) + start;
+			//System.out.println(num);
+	        nursery[row][num] = 1;
+	        
+	        if (i == numOfLizard) {
+	        	break;
+	        }
+	        
+	        if (i == numOfIntervals - 1 && i < numOfLizard) {
+	        	return false;
+	        }
+	    }
+	    
+	    return true;
+	}
+
+	// 统计在该位置下所有皇后的冲突个数
+	private int findCollision(int row, int col) {
+	    int count = 0;
+	    // 该位置为1
+	    temp[row][col] = 1;
+	    for (int k = 0; k < numOfRange * numOfRange; k++) {
+	        if (temp[k/numOfRange][k%numOfRange] == 1) {
+	        	
+	        	// 同一列
+	        	int[] colCheck = new int[numOfRange];
+	        	int p = 0;
+	            for (int i = 0; i < numOfRange; i++){     	            	
+	                if (temp[i][k%numOfRange] != 0) {
+	                	colCheck[p++] = temp[i][k%numOfRange];
+	                }
+	            }
+	            for (int n = 0; n < p - 1; n++) {
+					if (colCheck[n] == 1 && colCheck[n+1] == 1) {
+	                	count++;
+					}
+				}
+	                	
+	            // 右下方
+	            int[] diaCheck1 = new int[numOfRange];
+            	int p1 = 0;
+	            for (int i = k/numOfRange, j = k%numOfRange; i < numOfRange && j < numOfRange; i++, j++) {
+	            	if (temp[i][j] != 0) {
+	            		diaCheck1[p1++] = temp[i][j];
+	                	
+	            	}
+	            }
+	            for (int n = 0; n < p1 - 1; n++) {
+					if (diaCheck1[n] == 1 && diaCheck1[n+1] == 1) {
+	                	count++;
+					}
+				}
+	                	            
+	            // 左上方	
+	            int[] diaCheck2 = new int[numOfRange];
+            	int p2 = 0;
+	            for (int i = k/numOfRange, j = k%numOfRange; i >= 0 && j >= 0; i--, j--) {  
+	            	if (temp[i][j] != 0) {
+	            		diaCheck2[p2++] = temp[i][j];
+	            	}
+	            }
+	            for (int n = 0; n < p2 - 1; n++) {
+					if (diaCheck2[n] == 1 && diaCheck2[n+1] == 1) {
+	                	count++;
+					}
+				}
+	            
+	            // 左下方
+	            int[] diaCheck3 = new int[numOfRange];
+            	int p3 = 0;
+	            for (int i = k/numOfRange, j = k%numOfRange; i < numOfRange && j >= 0; i++, j--)  {
+	            	if (temp[i][j] != 0) {
+	            		diaCheck3[p3++] = temp[i][j];
+	            	}
+	            }
+	            for (int n = 0; n < p3 - 1; n++) {
+					if (diaCheck3[n] == 1 && diaCheck3[n+1] == 1) {
+	                	count++;
+					}
+				}
+	            
+	            // 右上方
+	            int[] diaCheck4 = new int[numOfRange];
+            	int p4 = 0;
+	            for (int i = k/numOfRange, j = k%numOfRange; i >= 0 && j < numOfRange; i--, j++) {   
+	            	if (temp[i][j] != 0) {
+	            		diaCheck4[p4++] = temp[i][j];
+	            	}
+	            }
+	            for (int n = 0; n < p4 - 1; n++) {
+					if (diaCheck4[n] == 1 && diaCheck4[n+1] == 1) {
+	                	count++;
+					}
+				}
+	        }
+	    }
+	    temp[row][col] = 0;  // 复原位置
+	    return count;
+	}
+
+	private boolean checkResult(int[][] h) {
+	    for (int i = 0; i < numOfRange; i++) {
+	        boolean flag = false;
+	        for (int j = 0; j < numOfRange; j++) {
+	            if (nursery[i][j] == 1 && h[i][j] == 0) { //皇后所在位置没有冲突
+	                flag = true;
+	                break;
+	            }
+	        }
+	        if (!flag) { // 皇后所在位置仍有冲突，还需要继续查找
+	            return false;
+	        }
+	    }
+	    return true;
+	}
+	
+	public boolean caSimulated() {
+	    double temperature = 5;
+	    int trial = 0;
+	    while (temperature > 0.00001) {
+	        // 拷贝原始棋盘数据到temp
+	        for (int i = 0; i < numOfRange; i++) {
+	            for (int j = 0; j < numOfRange; j++) {
+	                temp[i][j] = nursery[i][j];
+	            }
+	        }
+	        
+	        int[][] h = new int[numOfRange][numOfRange];
+	        int	curState = 0;
+	        for (int i = 0; i < numOfIntervals; i++) {
+	        	
+	        	Interval inte = intervals[i];
+		    	int start = inte.start;
+				int end = inte.end;
+				int row = inte.row;
+				
+	            for (int j = start; j <= end; j++) {
+	                // 在计算h(i, j)之前，对i行所有位置赋值为0
+	                for (int k = start; k <= end; k++) {
+		                    temp[row][k] = 0;
+	                }
+	                // 查找h(i, j)
+	                h[row][j] = findCollision(row, j);
+	     
+	                // 当前状态的h值
+	                if (nursery[row][j] == 1) {
+	                    curState = h[row][j];
+	                }
+	                // 计算h(i,j)之后要复原数据，避免计算错误
+	                for (int k = start; k <= end ; k++)
+	                    temp[row][k] = nursery[row][k];
+	            }
+	        }
+	        
+	        System.out.println(h[3][5]);
+	        System.out.println(curState);
+	        // 随机选取一个下一状态
+	        boolean better = false;
+	        int next, nextState = 0, times = 0;
+	        
+	        Random rand = new Random();
+	        int num = rand.nextInt(Integer.MAX_VALUE);	
+	        next = num % (numOfRange * numOfRange);
+	        while (nursery[next/numOfRange][next%numOfRange] == 2) {
+	        	num = rand.nextInt(Integer.MAX_VALUE);	
+		        next = num % (numOfRange * numOfRange);
+	        }
+	        nextState = h[next/numOfRange][next%numOfRange];
+	        
+	        //比较两个状态
+	        int E = nextState - curState;
+	        if (E < 0) {
+	            better = true;
+	        } else if (Math.exp((-1)*E/temperature) > ((double)(rand.nextInt(Integer.MAX_VALUE) % 1000) / 1000)) {
+	            better = true;
+	        }
+
+	        if (better) {
+	            for (int i = 0; i < numOfRange; i++) {
+	            	if(nursery[next/numOfRange][i] != 2) {
+		            	nursery[next/numOfRange][i] = 0;
+	            	}
+	            }	                
+	            nursery[next/numOfRange][next%numOfRange] = 1;  // 放置皇后
+	            trial++;
+	        }
+            
+	        // 判断是否找到解, 有解则返回值为真
+	        if (checkResult(h)) {
+	            totalTrial += trial;
+	            return true;
+	        }
+
+	        temperature *= 0.99;      
+	    }
+	    return false;
+	}
+
+}

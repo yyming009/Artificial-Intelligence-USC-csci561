@@ -1,0 +1,25 @@
+package homework;
+
+public class Run {
+	
+	
+	public static void main(String[] args) {
+		
+		String way = new InputStream().getWayOfSearch();
+		if (way.equals("BFS")) {
+			BFS bfs = new BFS();
+			bfs.bfsSearch();
+			if (bfs.getResult().size() == 0) {
+				System.out.println("FAIL");
+			} else {
+				System.out.println("OK");
+				System.out.println(bfs.getResult().get(0)[5][5]);
+			}
+		} else {
+			System.out.println("something error");
+		}
+		
+		
+	}	
+
+}

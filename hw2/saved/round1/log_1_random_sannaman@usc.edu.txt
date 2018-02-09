@@ -1,0 +1,2416 @@
+#################### ROUND 1: random (O) vs sannaman@usc.edu (X): game 1 ####################
+##### game start! #####
+INPUT for random:
+12
+4
+300
+122212302012
+212101031132
+021322232133
+231323021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H12] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+12
+4
+300
+1222123*2012
+212101001132
+021322232133
+231323031111
+210012222021
+322303022200
+210210003222
+333111312322
+231101020221
+312113002122
+220121212032
+112332222102
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [F5] in 280.08s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 324 on this move #####
+INPUT for random:
+12
+4
+299.97
+12221*******
+2121023*****
+0213210*2***
+2313222010**
+21001303211*
+322303031132
+210210003132
+333111312013
+231101020321
+312113002101
+220121212030
+112332222101
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B10] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+12
+4
+19.92
+1*221*******
+2221023*****
+0113210*2***
+2213222010**
+23001303211*
+312303031132
+220210003132
+313111312013
+231101020321
+332113002101
+220121212030
+112332222101
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [E7] in 4.85s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 100 on this move #####
+INPUT for random:
+12
+4
+299.92
+1***********
+222***3*****
+012***0*2***
+221*122010**
+23120103211*
+310122031132
+222323003132
+310313312013
+233000020321
+332303002101
+220221212030
+112332222101
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for sannaman@usc.edu:
+12
+4
+15.07
+1***********
+222*********
+012*********
+221*1*3**0**
+23120200*11*
+310121232132
+222322031132
+310313002013
+233003011321
+332300323101
+220223002030
+112331010101
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [J5] in 0.07s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 25 on this move #####
+INPUT for random:
+12
+4
+299.88
+1***********
+222*********
+012*********
+221*1*3*****
+23120200****
+31012123**32
+222322032032
+310313002013
+233003011321
+332300323101
+220223002030
+112331010101
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for sannaman@usc.edu:
+12
+4
+15
+1***********
+222*********
+012*********
+221***3*****
+231***00****
+31021223**32
+222101032032
+310322002013
+233323011321
+332313323101
+220223002030
+112331010101
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs sannaman@usc.edu (O): game 2 ####################
+##### game start! #####
+INPUT for sannaman@usc.edu:
+13
+7
+300
+3442354244513
+1303311323531
+2434212101525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [D12] in 282.79s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 16 on this move #####
+INPUT for random:
+13
+7
+300
+3***354244513
+144*311323531
+2302212101525
+4433455155046
+5654056536011
+5323231546151
+2521323433203
+2455223532511
+6101431611455
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D12] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+13
+7
+17.21
+3***354244513
+144*311323531
+230*212101525
+4432455155046
+5653056536011
+5324231546151
+2523323433203
+2451223532511
+6105431611455
+6221515323163
+2453131463105
+2053243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [L5] in 2.19s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.95
+3***3542445**
+144*31132351*
+230*212101533
+4432455155021
+5653056536045
+5324231546156
+2523323433203
+2451223532511
+6105431611455
+6221515323163
+2453131463105
+2053243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E7] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+13
+7
+15.02
+3****542445**
+144*31132351*
+230*312101533
+443*255155021
+5652456536045
+5323031546156
+2524223433203
+2451223532511
+6105431611455
+6221515323163
+2453131463105
+2053243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [E7] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 16 on this move #####
+INPUT for random:
+13
+7
+299.9
+3*****42445**
+144***132351*
+230**52101533
+443*315155021
+5652316536045
+5323251546156
+2524453433203
+2451033532511
+6105431611455
+6221515323163
+2453131463105
+2053243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+13
+7
+15
+3*****42445**
+144***132351*
+230**5210153*
+443*315155023
+5652316536041
+5323251546155
+2524453433206
+2451033532513
+6105431611451
+6221515323165
+2453131463103
+2053243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs sannaman@usc.edu (X): game 3 ####################
+##### game start! #####
+INPUT for random:
+20
+5
+300
+22134113013333023311
+34300430203323211434
+41141222332103434314
+21320232421024421332
+32113311431430432212
+23313212331211021131
+11213313233301101121
+21031023130142412322
+20211322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q2] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+20
+5
+300
+221341130133330**311
+34300430203323223434
+41141222332103434314
+21320232421024421332
+32113311431430432212
+23313212331211021131
+11213313233301101121
+21031023130142412322
+20211322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [M16] in 283.24s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 100 on this move #####
+INPUT for random:
+20
+5
+299.96
+221341130133******11
+34300430203333***334
+411412223321230**414
+2132023242100322*332
+32113311431424433312
+23313212331230424231
+11213313233311431121
+21031023130101022122
+20211322321242101334
+03322213111023411200
+13440434142303302214
+42342023101002203441
+40323210344442212423
+11034332131242103302
+01303112212423223123
+33132131310101122002
+42324141320233111313
+21133431321140301410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G1] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+20
+5
+16.76
+22134**30133******11
+34300430203333***334
+411412223321230**414
+2132023242100322*332
+32113311431424433312
+23313212331230424231
+11213313233311431121
+21031023130101022122
+20211322321242101334
+03322213111023411200
+13440434142303302214
+42342023101002203441
+40323210344442212423
+11034332131242103302
+01303112212423223123
+33132131310101122002
+42324141320233111313
+21133431321140301410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [N16] in 1.75s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 81 on this move #####
+INPUT for random:
+20
+5
+299.92
+22134**30133******11
+3430043020333*****34
+41141222332123***314
+21320232421003***432
+3211331143142302*312
+2331321233123423*331
+1121331323331042*221
+2103102313010143*122
+20211322321241423134
+03322213111022004300
+13440434142303111214
+42342023101003402241
+40323210344442301423
+11034332131242211402
+01303112212422202323
+33132131310103123102
+42324141320233222013
+21133431321140303310
+44241311221232333432
+33123241104421322210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B5] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+20
+5
+15.01
+2*134**30133******11
+3230043020333*****34
+44141222332123***314
+21320232421003***432
+3111331143142302*312
+2331321233123423*331
+1121331323331042*221
+2103102313010143*122
+20211322321241423134
+03322213111022004300
+13440434142303111214
+42342023101003402241
+40323210344442301423
+11034332131242211402
+01303112212422202323
+33132131310103123102
+42324141320233222013
+21133431321140303310
+44241311221232333432
+33123241104421322210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [H16] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 49 on this move #####
+INPUT for random:
+20
+5
+299.88
+2*134****133******11
+323004**00333*****34
+4414123*232123***314
+2132022*321003***432
+3111333*43142302*312
+2331321343123423*331
+1121331033331042*221
+2103101223010143*122
+20211322121241423134
+03322221311022004300
+13440412142303111214
+42342033101003402241
+40323223144442301423
+11034312331242211402
+01303133112422202323
+33132114210103123102
+42324133320233222013
+21133440321140303310
+44241332321232333432
+33123242204421322210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for sannaman@usc.edu:
+20
+5
+15.01
+2*134****133******11
+323004**0033******34
+4414123*23213****314
+2132022*32102****432
+3111333*43140**2*312
+23313213431223*3*331
+1121331033333302*221
+2103101223011323*122
+20211322121204423134
+03322221311040404300
+13440412142321411214
+42342033101001002241
+40323223144402101423
+11034312331243411402
+01303133112443302323
+33132114210103123102
+42324133320233222013
+21133440321140303310
+44241332321232333432
+33123242204421322210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [J5] in 0.01s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 121 on this move #####
+INPUT for random:
+20
+5
+299.84
+2*134*************11
+323004****33******34
+4414123*0*33*****314
+2132022*2*213****432
+3111333*31102**2*312
+2331321340140**3*331
+1121331043122*02*221
+2103101222011*23*122
+20211322121204423134
+03322221311040404300
+13440412142321411214
+42342033101001002241
+40323223144402101423
+11034312331243411402
+01303133112443302323
+33132114210103123102
+42324133320233222013
+21133440321140303310
+44241332321232333432
+33123242204421322210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E20] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+20
+5
+15
+2*13**************11
+323044****33******34
+4414023*0*33*****314
+2132122*2*213****432
+3111033*31102**2*312
+2331321340140**3*331
+1121331043122*02*221
+2103301222011*23*122
+20211322121204423134
+03321221311040404300
+13442412142321411214
+42340033101001002241
+40322223144402101423
+11033312331243411402
+01304133112443302323
+33133114210103123102
+42322133320233222013
+21134440321140303310
+44243332321232333432
+33121242204421322210
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs sannaman@usc.edu (O): game 4 ####################
+##### game start! #####
+INPUT for sannaman@usc.edu:
+11
+5
+300
+33122210301
+42013222100
+33230103234
+32242211422
+23221130133
+43330243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [I5] in 279.38s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 100 on this move #####
+INPUT for random:
+11
+5
+300
+331222*****
+4201321**01
+33230120*00
+32242202*34
+23221113*22
+43330231333
+20123140133
+14322423223
+22423233430
+01313342241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F6] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+11
+5
+20.62
+33122******
+4201321**01
+33230220*00
+32242102*34
+23221213*22
+43330131333
+20123140133
+14322423223
+22423233430
+01313342241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [I6] in 5.51s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 36 on this move #####
+INPUT for random:
+11
+5
+299.96
+33122******
+4201321****
+33230220***
+32242102*0*
+23221213*01
+43330131*30
+20123140124
+14322423222
+22423233430
+01313342241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+11
+5
+15.11
+33122******
+42013*1****
+33230220***
+32242202*0*
+23221113*01
+43330231*30
+20123140124
+14322123222
+22423433430
+01313242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [J7] in 0.1s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 16 on this move #####
+INPUT for random:
+11
+5
+299.92
+33122******
+42013*1****
+33230220***
+32242202***
+23221113***
+43330231*01
+20123140*00
+14322123134
+22423433430
+01313242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+11
+5
+15.01
+331********
+42022*1****
+33213220***
+32230202***
+23242113***
+43321231*01
+20130140*00
+14323123134
+22422433430
+01323242241
+34213323113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [E10] in 0.01s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 9 on this move #####
+INPUT for random:
+11
+5
+299.88
+331********
+4202**1****
+3321**20***
+32232202***
+23243213***
+43320131*01
+20132240*00
+14321123134
+22420133430
+01323442241
+34212223113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for sannaman@usc.edu:
+11
+5
+15
+331********
+4202*******
+3321**10***
+3223**22***
+23242203***
+43323211*01
+20130130*00
+14322243134
+22421123430
+01320132241
+34213443113
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs sannaman@usc.edu (X): game 5 ####################
+##### game start! #####
+INPUT for random:
+23
+4
+300
+31121210112330212111231
+13121121123003212311321
+11203320212330301211201
+32202212223222111113032
+00322132210132112100211
+23322222221122222202000
+12201222120122101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [U3] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+23
+4
+300
+31121210112330212111*31
+13121121123003212311221
+11203320212330301211301
+32202212223222111113032
+00322132210132112100211
+23322222221122222202000
+12201222120122101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [B9] in 283.24s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 529 on this move #####
+INPUT for random:
+23
+4
+299.96
+******10112330212111*31
+3*****21123003212311221
+1****220212330301211301
+1****112223222111113032
+31**1332210132112100211
+03**1222221122222202000
+21123122120122101212011
+12122230121310101113221
+10202222132233330333111
+03202121333322331120100
+32321110312211132103221
+10322212323223221122133
+11202320313233211200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 100 on this move #####
+INPUT for sannaman@usc.edu:
+23
+4
+16.76
+********112330212111*31
+3******0123003212311221
+1*****11212330301211301
+1*****20223222111113032
+31***222210132112100211
+03***112221122222202000
+211**332120122101212011
+121*1222121310101113221
+10201120132233330333111
+03203131333322331120100
+32321110312211132103221
+10322212323223221122133
+11202320313233211200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [A12] in 1.74s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 324 on this move #####
+INPUT for random:
+23
+4
+299.91
+********112330212111*31
+*******0123003212311221
+*******1212330301211301
+******10223222111113032
+3*****22210132112100211
+1*****22221122222202000
+1****212120122101212011
+3****132121310101113221
+0****320132233330333111
+211*1221333322331120100
+13101130312211132103221
+11203112323223221122133
+02221110313233211200112
+30322220223011112113122
+33302310201200310022123
+22210102131331001011211
+20221102122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+23
+4
+15.02
+********112330212111*31
+*******0123003212311221
+*******1212330301211301
+*******0223222111113032
+3******2210132112100211
+1*****12221122222202000
+1****222120122101212011
+3****122121310101113221
+0****310132233330333111
+211*1231333322331120100
+13101120312211132103221
+11203122323223221122133
+02221130313233211200112
+30322210223011112113122
+33302310201200310022123
+22210122131331001011211
+20221112122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [L4] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 196 on this move #####
+INPUT for random:
+23
+4
+299.87
+********112*******11*31
+*******01233**21**11221
+*******12120**212111301
+*******022333*302313032
+3******2210100111200211
+1*****12221133111102000
+1****222120130101112011
+3****122121310101113221
+0****310132233330333111
+211*1231333322331120100
+13101120312211132103221
+11203122323223221122133
+02221130313233211200112
+30322210223011112113122
+33302310201200310022123
+22210122131331001011211
+20221112122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [R18] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+23
+4
+15
+********112*******11*31
+*******01233**21**11221
+*******12120**212*11301
+*******022333*302113032
+3******2210100111300211
+1*****12221133111202000
+1****222120130101112011
+3****122121310101113221
+0****310132233330133111
+211*1231333322331320100
+13101120312211132103221
+11203122323223221122133
+02221130313233211100112
+30322210223011112213122
+33302310201200310122123
+22210122131331001011211
+20221112122121331010113
+33000032112211311122222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs sannaman@usc.edu (O): game 6 ####################
+##### game start! #####
+INPUT for sannaman@usc.edu:
+16
+3
+300
+2021111101212121
+1210122122101112
+1201121211112212
+2121200112111200
+1111120021022111
+1211001111111112
+2121220112220011
+1111122011012111
+1111112100200012
+0110010121111100
+2102102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [D1] in 283.58s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 1296 on this move #####
+INPUT for random:
+16
+3
+300
+********01212121
+******2*22101112
+******1211112212
+*****20112111200
+2****20021022111
+1*2**01111111112
+1*1*220112220011
+200*002011012111
+2220222100200012
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K5] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+16
+3
+16.42
+********01*12121
+******2*22201112
+******1211112212
+*****20112111200
+2****20021122111
+1*2**01111111112
+1*1*220112220011
+200*002011012111
+2220222100200012
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [I3] in 1.4s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 1089 on this move #####
+INPUT for random:
+16
+3
+299.95
+****************
+****************
+******2*****2***
+*****21****111*1
+2****20**1*021*2
+1*2**00202222222
+1*1*220022220210
+200*002022012012
+2220222100200002
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M4] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for sannaman@usc.edu:
+16
+3
+15.02
+****************
+****************
+******2*********
+*****21*****2**1
+2****20**1*02**2
+1*2**00202222222
+1*1*220022220210
+200*002022012012
+2220222100200002
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [J10] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 484 on this move #####
+INPUT for random:
+16
+3
+299.9
+****************
+****************
+******2*********
+*****21********1
+2****20*****2**2
+1*2**00*****2*22
+1*1*220*****2210
+200*002****00212
+22202222***22002
+022002000*220000
+2202102021212220
+0211122122001021
+2020010102222121
+1102011222000210
+1110212000002012
+0022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A9] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 81 on this move #####
+INPUT for sannaman@usc.edu:
+16
+3
+15
+****************
+****************
+******2*********
+*****21********1
+*****20*****2**2
+*****00*****2*22
+****220*****2210
+2*2*002****00212
+1*102222***22002
+1*0002000*220000
+0*02102021212220
+0011122122001021
+2020010102222121
+1102011222000210
+1110212000002012
+0022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs sannaman@usc.edu (X): game 7 ####################
+##### game start! #####
+INPUT for random:
+24
+4
+300
+223112331223322130102230
+110231320011021111321212
+032211201231000122122000
+111221121121130322112132
+022221011113120011222202
+123202222222321321012120
+112322233203211212322230
+000202231102011122020230
+212222022101321122231201
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N3] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for sannaman@usc.edu:
+24
+4
+300
+223112331223****30102230
+110231320011*2*111321212
+03221120123132*122122000
+111221121121132122112132
+022221011113121311222202
+123202222222321321012120
+112322233203211212322230
+000202231102011122020230
+212222022101321122231201
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [F6] in 284.33s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 361 on this move #####
+INPUT for random:
+24
+4
+299.95
+22**************30102230
+113****31*23*2*111321212
+03011**2021132*122122000
+11223*301031132122112132
+02121*321221121311222202
+122222211113321321012120
+113221133103211212322230
+002201031102011122020230
+210301022101321122231201
+121011311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [U18] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for sannaman@usc.edu:
+24
+4
+15.67
+22**************30****30
+113****31*23*2*1111***12
+03011**2021132*122302200
+11223*301031132122121232
+02121*321221121311122002
+122222211113321321212120
+113221133103211212022230
+002201031102011122312130
+210301022101321122022201
+121011311133112122220210
+201223302103311322131202
+322223110312201230223322
+202103032311313210323212
+210202321033231121113321
+012202212222101312212211
+102012323103123030223212
+220312323312211323011122
+302122221211211201102303
+112111212223211101110131
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [T4] in 0.67s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 576 on this move #####
+INPUT for random:
+24
+4
+299.91
+22********************30
+113****31*23*2*1******12
+03011**2021132*1**1***00
+11223*3010311321**3***32
+02121*32122112133*1***02
+1222222111133213101***20
+1132211331032112212**230
+002201031102011122002230
+210301022101321112311001
+121011311133112121010110
+201223302103311311131102
+322223110312201230223322
+202103032311313210323212
+210202321033231121113321
+012202212222101312212211
+102012323103123030223212
+220312323312211323011122
+302122221211211201102303
+112111212223211101110131
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [T10] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for sannaman@usc.edu:
+24
+4
+15
+22********************30
+113****31*23*2*1******12
+03011**2021132*1**1***00
+11223*3010311321**3***32
+02121*32122112133*1***02
+1222222111133213101***20
+1132211331032112212**230
+0022010311020111220**230
+2103010221013211123*2001
+121011311133112121000110
+201223302103311311131102
+322223110312201230223322
+202103032311313210323212
+210202321033231121113321
+012202212222101312212211
+102012323103123030223212
+220312323312211323011122
+302122221211211201102303
+112111212223211101110131
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs sannaman@usc.edu (O): game 8 ####################
+##### game start! #####
+INPUT for sannaman@usc.edu:
+15
+3
+300
+121111111111211
+022212112122120
+211102100121222
+120222112120111
+102102101111211
+021112111011011
+120110121111121
+100220022020110
+212200101211011
+211001101001212
+111211011011111
+211012111111111
+001211221010010
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [C1] in 279.95s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 4096 on this move #####
+INPUT for random:
+15
+3
+300
+12*************
+0222*2*********
+211102*********
+120222********1
+102102******2*0
+021112******1*2
+120110*0****211
+100220*0*0**121
+21220002*022221
+211001122221011
+111211100020010
+211012002020212
+001211222000020
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F12] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+15
+3
+20.05
+12*************
+0222***********
+211102*********
+120222********1
+102102******2*0
+021112******1*2
+120112*0****211
+100220*0*0**121
+21220002*022221
+211000122221011
+111211100020010
+211011002020212
+001211222000020
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [B9] in 4.98s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 625 on this move #####
+INPUT for random:
+15
+3
+299.96
+***************
+***************
+1**************
+0**2**********1
+2**1********2*0
+1**2*2******1*2
+12*102*0****211
+022122*0*0**121
+111102*2*022221
+120212*22221011
+202210000020010
+221020002020212
+220200222000020
+000002000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B12] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 25 on this move #####
+INPUT for sannaman@usc.edu:
+15
+3
+15.07
+***************
+***************
+***************
+***2**********1
+***1********2*0
+1**2*2******1*2
+0**102*0****211
+2*2122*0*0**121
+121102*2*022221
+120212*22221011
+012210000020010
+121020002020212
+100200222000020
+000002000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [N7] in 0.07s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 64 on this move #####
+INPUT for random:
+15
+3
+299.91
+***************
+***************
+***************
+***2***********
+***1********2**
+1**2*2******1**
+0**102*0****2**
+2*2122*0*0**1*1
+121102*2*0222*0
+120212*222210*2
+012210000020020
+121020002020222
+100200222000020
+000002000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for sannaman@usc.edu:
+15
+3
+15
+***************
+***************
+***************
+***************
+***2********2**
+1**1*2******1**
+0**2*2*0****2**
+2**102*0*0**1*1
+122122*2*0222*0
+121102*222210*2
+010210000020020
+122210002020222
+101020222000020
+000202000220101
+000001021102212
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs sannaman@usc.edu (X): game 9 ####################
+##### game start! #####
+INPUT for random:
+22
+5
+300
+1021112000321014143212
+3023144233132332133423
+0213222213132112221403
+2022211214224423320221
+2240334130211323332201
+4143414210410130134313
+3030331222401204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F13] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for sannaman@usc.edu:
+22
+5
+300
+10*****000321014143212
+3021*12233132332133423
+0223144213132112221403
+2013122214224423320221
+2222211130211323332201
+4140234210410130134313
+3043314222401204331303
+3130431312200042321014
+0201324242324234334310
+2141323222124110312123
+4342420304422312121131
+1223132130113302133414
+4203403202342203430313
+2344433303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [G17] in 284.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 144 on this move #####
+INPUT for random:
+22
+5
+299.95
+10**********1014143212
+3021*1*00***2332133423
+022314*2303*2112221403
+201312*213124423320221
+2222212213131323332201
+4140234134230130134313
+3043312210221204331303
+3130431220410042321014
+0201324312414234334310
+2141324242204110312123
+4342421222302312121131
+1223134302123302133414
+4203403134422203430313
+2344430200123141242131
+1131232302312214323134
+4221123203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+22
+5
+15.56
+10**********1014143212
+3021*1*00***2332133423
+022314*230**2112221403
+201312*213*24423320221
+2222212213331323332201
+4140234134130130134313
+3043312210121204331303
+3130431220210042321014
+0201324312214234334310
+2141324242204110312123
+4342421222302312121131
+1223134302123302133414
+4203403134422203430313
+2344430200123141242131
+1131232302312214323134
+4221123203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [P4] in 0.56s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 144 on this move #####
+INPUT for random:
+22
+5
+299.9
+10**********101***3212
+3021*1*00***233***3423
+022314*230**2114**1403
+201312*213*24422**0221
+2222212213331322*42201
+4140234134130130*34313
+3043312210121204121303
+3130431220210042121014
+0201324312214234224310
+2141324242204110112123
+4342421222302312121131
+1223134302123302133414
+4203403134422203430313
+2344430200123141242131
+1131232302312214323134
+4221123203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A15] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+22
+5
+15
+************101***3212
+1021*1*00***233***3423
+302314*230**2114**1403
+021312*213*24422**0221
+2022212213331322*42201
+2240234134130130*34313
+4143312210121204121303
+3030431220210042121014
+3101324312214234224310
+0241324242204110112123
+2142421222302312121131
+4323134302123302133414
+1203403134422203430313
+4244430200123141242131
+2331232302312214323134
+4221123203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs sannaman@usc.edu (O): game 10 ####################
+##### game start! #####
+INPUT for sannaman@usc.edu:
+23
+4
+300
+10322011122130200122100
+21133212112202111113110
+21011213010313022202212
+11220312310312100333023
+02112212113123221212023
+11311121122313111011021
+12103013112223222230211
+11200222122121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [F8] in 284.18s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 625 on this move #####
+INPUT for random:
+23
+4
+300
+1**********130200122100
+2*3******2*202111113110
+20122****12313022202212
+110330**112312100333023
+012112*1110123221212023
+11120212010313111011021
+12312313323223222230211
+11111212112121232102110
+32203112122210223121312
+31300011112022211132332
+11011023123310133321132
+13112110012322012313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [S20] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+23
+4
+15.82
+1**********1302001*2100
+2*3******2*202111123110
+20122****12313022212212
+110330**112312100303023
+012112*1110123221232023
+11120212010313111011021
+12312313323223222210211
+11111212112121232132110
+32203112122210223101312
+31300011112022211122332
+11011023123310133331132
+13112110012322012323210
+22210331131310021011213
+12211201213021313333223
+21221212121301311321010
+32013320200213002222022
+00021113021121012213320
+12032113223110122311032
+01220321031111200122220
+31222223021221211013020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [O19] in 0.82s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 169 on this move #####
+INPUT for random:
+23
+4
+299.96
+1**********13*******100
+2*3******2*200*0***2110
+20122****12312*1*1*3212
+110330**112313220122023
+012112*1110122101213023
+11120212010313022302021
+12312313323223110231211
+11111212112123221010110
+32203112122211131212312
+31300011112020222131332
+11011023123312212102132
+13112110012320233121210
+22210331131312211333213
+12211201213020123321223
+21221212121301012013010
+32013320200211011331022
+00021113021123303322320
+12032113223111311223032
+01220321031110022211220
+31222223021221002312020
+23103022322311112123302
+13122102323121110011333
+21113212123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q4] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+23
+4
+15
+1**********13*******100
+2*3******2*200*0***2110
+20122****12312*1*1*3212
+110330**11231322*122023
+012112*1110122101213023
+11120212010313022302021
+12312313323223110231211
+11111212112123221010110
+32203112122211131212312
+31300011112020222131332
+11011023123312212102132
+13112110012320233121210
+22210331131312211333213
+12211201213020123321223
+21221212121301012013010
+32013320200211011331022
+00021113021123303322320
+12032113223111311223032
+01220321031110022211220
+31222223021221002312020
+23103022322311112123302
+13122102323121110011333
+21113212123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs sannaman@usc.edu (X): game 11 ####################
+##### game start! #####
+INPUT for random:
+25
+5
+300
+3230134313333142312011333
+2222010334430430422210211
+2013320413310403142333242
+3221342103213111132113131
+2100011422043111223031232
+2102322312041330131141312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H5] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for sannaman@usc.edu:
+25
+5
+300
+3230134*13333142312011333
+2222010334430430422210211
+2013320313310403142333242
+3221342403213111132113131
+2100011122043111223031232
+2102322312041330131141312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [I8] in 284.49s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 225 on this move #####
+INPUT for random:
+25
+5
+299.96
+3230134*******42312011333
+2222010313***130422210211
+2013320334***403142333242
+3221342413*3*411132113131
+210001110333*111223031232
+2102322322413130131141312
+2123212312310323241232312
+3223312024240410130214000
+3301243241043203303113103
+3224402321023023103221142
+0420012041121211321120122
+3131223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q5] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+25
+5
+15.51
+3230134*******42**2011333
+2222010313***130312210211
+2013320334***403422333242
+3221342413*3*411142113131
+210001110333*111133031232
+2102322322413130131141312
+2123212312310323241232312
+3223312024240410130214000
+3301243241043203303113103
+3224402321023023103221142
+0420012041121211321120122
+3131223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [O4] in 0.5s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 81 on this move #####
+INPUT for random:
+25
+5
+299.92
+3230134***********2011333
+2222010313*******12210211
+2013320334****42*22333242
+3221342413*3*130*42113131
+210001110333*403333031232
+2102322322413430431141312
+2123212312310323241232312
+3223312024240410130214000
+3301243241043203303113103
+3224402321023023103221142
+0420012041121211321120122
+3131223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [W7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+25
+5
+15.01
+3230134***********2011*33
+2222010313*******12210*11
+2013320334****42*22333342
+3221342413*3*130*42113231
+210001110333*403333031232
+2102322322413430431141112
+2123212312310323241232212
+3223312024240410130214000
+3301243241043203303113103
+3224402321023023103221142
+0420012041121211321120122
+3131223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [W9] in 0.01s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### sannaman@usc.edu scores 81 on this move #####
+INPUT for random:
+25
+5
+299.88
+3230134***********201***3
+2222010313*******1221**31
+2013320334****42*22331*12
+3221342413*3*130*42110*41
+210001110333*403333033*32
+2102322322413430431143*32
+2123212312310323241231*12
+3223312024240410130211*10
+3301243241043203303112303
+3224402321023023103224202
+0420012041121211321123242
+3131223410422422232220120
+4444332022441411011342240
+2303222322000321011233041
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B21] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for sannaman@usc.edu:
+25
+5
+15
+3*30134***********201***3
+2*22010313*******1221**31
+2213320334****42*22331*12
+3221342413*3*130*42110*41
+200001110333*403333033*32
+2202322322413430431143*32
+2123212312310323241231*12
+3123312024240410130211*10
+3101243241043203303112303
+3224402321023023103224202
+0320012041121211321123242
+3231223410422422232220120
+4444332022441411011342240
+2103222322000321011233041
+4402442034101101320302333
+1333430244301404314201101
+1112231321330411421132321
+3321011041220002241211013
+3404233212123043431133222
+2121403020113230213134141
+2241232103230301331300021
+1101323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_1_random_sannaman@usc.edu.txt -f "%U" ./homework > /dev/null 2>&1 on sannaman@usc.edu #####
+##### sannaman@usc.edu plays [] in 0s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_sannaman@usc.edu #####
+##### GAME OVER: sannaman@usc.edu loses because of illegal move [] #####
+Server said: FAIL
+
+
+########## GRAND WINNER ROUND 1 IS random BY 11 vs 0 GAMES ##########

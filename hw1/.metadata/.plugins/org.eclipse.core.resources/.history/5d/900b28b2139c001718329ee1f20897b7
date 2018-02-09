@@ -1,0 +1,170 @@
+package homework;
+
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
+public class BFS {
+	
+	private int numOfRange = new InputStream().getNumOfRange();
+//	private Queue<int[][]> queue = new LinkedList<int[][]>();
+	private List<int[][]> list = new LinkedList<int[][]>();
+	
+	public void bfsSearch() {
+				
+		Node node = new Node();
+		int[][] nursery = node.getNode();
+		
+		list.add(nursery);		
+		
+		//find the number of trees
+		int numOfIntervals = 0;
+		for (int i = 0; i < numOfRange; i++) {	
+			int numOfTree = 0;
+			for (int j = 0; j < numOfRange; j++) {
+				if (nursery[i][j] == 2) {
+					numOfTree++;
+				}
+			}
+			
+			numOfIntervals += (numOfTree + 1);
+		}
+		
+		//add interval into intervals array
+		Interval[] intervals = new Interval[numOfIntervals];
+		int temp = 0;
+		for (int i = 0; i < numOfRange; i++) {	
+			int start = 0;
+			for (int j = 0; j < numOfRange; j++) {				
+				int end = numOfRange - 1;
+				if (nursery[i][j] == 2) {
+					end = j - 1;
+					if (end != -1) {
+						intervals[temp++] = new Interval(i, start, end);
+					}
+					start = j + 1;
+				}
+				if (j == end && start != numOfRange) {
+					intervals[temp++] = new Interval(i, start, end);
+				}
+			}
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+//		Queue<int[][]> rowQueue = new LinkedList<int[][]>();
+
+//		queue.add(nursery);
+//		rowQueue.add(nursery);
+		
+//		for (int i = 0; i < numOfRange; i++) {	
+//			int numOfTree = 0;
+//			for (int j = 0; j < numOfRange; j++) {
+//				if (nursery[i][j] == 2) {
+//					numOfTree++;
+//				}
+//			}
+//			
+//			int[] positionOfTree = new int[numOfTree];
+//			for (int j = 0; j < numOfRange; j++) {
+//				int k = 0;
+//				if (nursery[i][j] == 2) {
+//					positionOfTree[k++] = j;
+//				}
+//			}
+//			
+//			if (numOfTree == 0) {
+//				for (int j = 0; j < numOfRange; j++) {
+//					nursery[i][j] = 1;
+//					if (Check.check(nursery)) {
+//						queue.add(nursery);
+//						rowQueue.add(nursery);
+//					}
+//					nursery[i][j] = 0;
+//				}
+//			} else {
+//				Queue<int[][]> tempQueue = new LinkedList<int[][]>();
+//				for (int j = 0; j < positionOfTree[0]; j++) {
+//					nursery[i][j] = 1;
+//					if (Check.check(nursery)) {
+//						queue.add(nursery);
+//						tempQueue.add(nursery);
+//					}
+//					nursery[i][j] = 0;
+//				}
+//				
+//				if(numOfTree > 1) {
+//					for (int k = 1; k < numOfTree; k++) {
+//						
+//						for (int j = positionOfTree[k-1]; j < positionOfTree[k]; j++) {
+//							nursery[i][j] = 1;
+//							if (Check.check(nursery)) {
+//								queue.add(nursery);
+//								rowQueue.add(nursery);
+//							}
+//							nursery[i][j] = 0;
+//						}
+//					}
+//				}
+//				
+//				for (int j = positionOfTree[numOfTree-1]; j < numOfRange; j++) {
+//					nursery[i][j] = 1;
+//					if (Check.check(nursery)) {
+//						queue.add(nursery);
+//						rowQueue.add(nursery);
+//					}
+//					nursery[i][j] = 0;
+//				}
+//			}
+//						
+//			
+//		}
+//		
+		
+		
+		
+	}
+}

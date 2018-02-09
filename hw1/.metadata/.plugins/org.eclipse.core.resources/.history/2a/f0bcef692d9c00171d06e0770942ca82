@@ -1,0 +1,75 @@
+package homework;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class InputStream {
+	
+	private String wayOfSearch;
+	private int numOfRange;
+	private int numOfLizard;
+	private int[][] nursery;
+	
+	public String getWayOfSearch() {
+		return wayOfSearch;
+	}
+	
+	public int getNumOfRange() {
+		return numOfRange;
+	}
+	
+	public int getNumOfLizard() {
+		return numOfLizard;
+	}
+	
+	public int[][] getNursery() {
+		return nursery;
+	}
+	
+	public InputStream() {
+			
+		ArrayList<String> inputList = new ArrayList<String>();
+		
+		String pathName = "input.txt";
+		File file = new File(pathName);
+		
+		System.out.println(file);
+		
+		
+		Scanner input = null;
+		try {
+			input = new Scanner(file);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		
+		while (input.hasNextLine()) {
+		    String text = input.nextLine();
+		    inputList.add(text);
+		}
+		
+		//get all argument from input file
+		wayOfSearch = inputList.get(0);
+		//System.out.println(wayOfSearch);
+
+		numOfRange = Integer.parseInt(inputList.get(1));
+		//System.out.println(numOfRange);
+
+		numOfLizard = Integer.parseInt(inputList.get(2));
+		//System.out.println(numOfLizard);
+		
+		nursery = new int[numOfRange][numOfRange];
+		
+		//System.out.println(Character.getNumericValue(inputList.get(3).charAt(3)));
+		
+		for (int i = 0; i < numOfRange; i++) {
+			for (int j = 0; j < numOfRange; j++) {
+				nursery[i][j] = Character.getNumericValue(inputList.get(3+i).charAt(j));
+			}
+		}
+	}
+
+}

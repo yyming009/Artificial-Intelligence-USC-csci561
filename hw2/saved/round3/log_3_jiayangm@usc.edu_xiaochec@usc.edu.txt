@@ -1,0 +1,819 @@
+#################### ROUND 3: jiayangm@usc.edu (X) vs xiaochec@usc.edu (O): game 1 ####################
+##### game start! #####
+INPUT for xiaochec@usc.edu:
+12
+4
+300
+122212302012
+212101031132
+021322232133
+231323021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [H4] in 0.77s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 324 on this move #####
+INPUT for jiayangm@usc.edu:
+12
+4
+300
+12221*******
+2121023*****
+021321002***
+2313222310**
+21001303211*
+322303001132
+210210013132
+333111322013
+231101000321
+312113012101
+220121222030
+112332202101
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [B1] in 3.08s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [B1] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (O) vs xiaochec@usc.edu (X): game 2 ####################
+##### game start! #####
+INPUT for jiayangm@usc.edu:
+13
+7
+300
+3442354244513
+1303311323531
+2434212101525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [A1] in 30.46s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### jiayangm@usc.edu scores 1 on this move #####
+INPUT for xiaochec@usc.edu:
+13
+7
+300
+*442354244513
+1303311323531
+2434212101525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [D12] in 1.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 16 on this move #####
+INPUT for jiayangm@usc.edu:
+13
+7
+269.54
+****354244513
+144*311323531
+2302212101525
+4433455155046
+5654056536011
+5323231546151
+2521323433203
+2455223532511
+6101431611455
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [E1] in 9.25s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [E1] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (X) vs xiaochec@usc.edu (O): game 3 ####################
+##### game start! #####
+INPUT for xiaochec@usc.edu:
+20
+5
+300
+22134113013333023311
+34300430203323211434
+41141222332103434314
+21320232421024421332
+32113311431430432212
+23313212331211021131
+11213313233301101121
+21031023130142412322
+20211322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [M16] in 2.93s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 100 on this move #####
+INPUT for jiayangm@usc.edu:
+20
+5
+300
+221341130133******11
+34300430203333***334
+4114122233212302*414
+21320232421003213332
+32113311431424431312
+23313212331230424231
+11213313233311431121
+21031023130101022122
+20211322321242101334
+03322213111023411200
+13440434142303302214
+42342023101002203441
+40323210344442212423
+11034332131242103302
+01303112212423223123
+33132131310101122002
+42324141320233111313
+21133431321140301410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [K1] in 0.11s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [K1] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (O) vs xiaochec@usc.edu (X): game 4 ####################
+##### game start! #####
+INPUT for jiayangm@usc.edu:
+11
+5
+300
+33122210301
+42013222100
+33230103234
+32242211422
+23221130133
+43330243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [K11] in 4.74s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### jiayangm@usc.edu scores 1 on this move #####
+INPUT for xiaochec@usc.edu:
+11
+5
+300
+3312221030*
+42013222101
+33230103230
+32242211424
+23221130132
+43330243113
+20123123131
+14322432123
+22423241133
+01313311240
+34244123111
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [I5] in 0.93s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 81 on this move #####
+INPUT for jiayangm@usc.edu:
+11
+5
+295.26
+331222*****
+4201321**01
+33230120*00
+32242202*34
+23221113*22
+43330231333
+20123140131
+14322423223
+22423233433
+01313342240
+34244123111
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [I3] in 5.35s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [I3] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (X) vs xiaochec@usc.edu (O): game 5 ####################
+##### game start! #####
+INPUT for xiaochec@usc.edu:
+23
+4
+300
+31121210112330212111231
+13121121123003212311321
+11203320212330301211201
+32202212223222111113032
+00322132210132112100211
+23322222221122222202000
+12201222120122101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [B9] in 3.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 529 on this move #####
+INPUT for jiayangm@usc.edu:
+23
+4
+300
+******10112330212111231
+3*****21123003212311321
+1****220212330301211201
+1****112223222111113032
+31**1332210132112100211
+03**1222221122222202000
+21123122120122101212011
+12122230121310101113221
+10202222132233330333111
+03202121333322331120100
+32321110312211132103221
+10322212323223221122133
+11202320313233211200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [K1] in 0.08s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [K1] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (O) vs xiaochec@usc.edu (X): game 6 ####################
+##### game start! #####
+INPUT for jiayangm@usc.edu:
+16
+3
+300
+2021111101212121
+1210122122101112
+1201121211112212
+2121200112111200
+1111120021022111
+1211001111111112
+2121220112220011
+1111122011012111
+1111112100200012
+0110010121111100
+2102102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [D1] in 7.83s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### jiayangm@usc.edu scores 1296 on this move #####
+INPUT for xiaochec@usc.edu:
+16
+3
+300
+********01212121
+******2*22101112
+******1211112212
+*****20112111200
+2****20021022111
+1*2**01111111112
+1*1*220112220011
+200*002011012111
+2220222100200012
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [J5] in 0.93s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 529 on this move #####
+INPUT for jiayangm@usc.edu:
+16
+3
+292.17
+****************
+**********212***
+******2***101***
+*****21*011121*1
+2****202221111*2
+1*2**00111022222
+1*1*220012220210
+200*002022012012
+2220222100200002
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [M2] in 24.45s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [M2] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (X) vs xiaochec@usc.edu (O): game 7 ####################
+##### game start! #####
+INPUT for xiaochec@usc.edu:
+24
+4
+300
+223112331223322130102230
+110231320011021111321212
+032211201231000122122000
+111221121121130322112132
+022221011113120011222202
+123202222222321321012120
+112322233203211212322230
+000202231102011122020230
+212222022101321122231201
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [F6] in 5.23s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 361 on this move #####
+INPUT for jiayangm@usc.edu:
+24
+4
+300
+22**********322130102230
+113****31*23021111321212
+03011**20211000122122000
+11223*301031130322112132
+02121*321221120011222202
+122222211113321321012120
+113221133103211212322230
+002201031102011122020230
+210301022101321122231201
+121011311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [A6] in 0.09s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [A6] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (O) vs xiaochec@usc.edu (X): game 8 ####################
+##### game start! #####
+INPUT for jiayangm@usc.edu:
+15
+3
+300
+121111111111211
+022212112122120
+211102100121222
+120222112120111
+102102101111211
+021112111011011
+120110121111121
+100220022020110
+212200101211011
+211001101001212
+111211011011111
+211012111111111
+001211221010010
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [C1] in 3.58s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### jiayangm@usc.edu scores 4096 on this move #####
+INPUT for xiaochec@usc.edu:
+15
+3
+300
+12*************
+0222*2*********
+211102*********
+120222********1
+102102******2*0
+021112******1*2
+120110*0****211
+100220*0*0**121
+21220002*022221
+211001122221011
+111211100020010
+211012002020212
+001211222000020
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [B9] in 0.59s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 625 on this move #####
+INPUT for jiayangm@usc.edu:
+15
+3
+296.42
+***************
+***************
+1**************
+0**2**********1
+2**1*2******2*0
+1**2*2******1*2
+12*102*0****211
+022122*0*0**121
+111102*2*022221
+120210*22221011
+202210000020010
+221020002020212
+220202222000020
+000002000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [F11] in 204.28s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [F11] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (X) vs xiaochec@usc.edu (O): game 9 ####################
+##### game start! #####
+INPUT for xiaochec@usc.edu:
+22
+5
+300
+1021112000321014143212
+3023144233132332133423
+0213222213132112221403
+2022211214224423320221
+2240334130211323332201
+4143414210410130134313
+3030331222401204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [G17] in 4.79s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 144 on this move #####
+INPUT for jiayangm@usc.edu:
+22
+5
+300
+102111******1014143212
+302314*00***2332133423
+021322*2303*2112221403
+2022212213124423320221
+2240334213131323332201
+4143412134230130134313
+3030331210221204331303
+3101324220410042321014
+0241424312414234334310
+2142121242204110312123
+4323434222302312121131
+1203403302123302133414
+4211110134422203430313
+2344132200123141242131
+1131233302312214323134
+4221121203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [G3] in 0.1s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [G3] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (O) vs xiaochec@usc.edu (X): game 10 ####################
+##### game start! #####
+INPUT for jiayangm@usc.edu:
+23
+4
+300
+10322011122130200122100
+21133212112202111113110
+21011213010313022202212
+11220312310312100333023
+02112212113123221212023
+11311121122313111011021
+12103013112223222230211
+11200222122121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [F8] in 0.09s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### jiayangm@usc.edu scores 625 on this move #####
+INPUT for xiaochec@usc.edu:
+23
+4
+300
+1**********130200122100
+2*3******2*202111113110
+20122****12313022202212
+110330**112312100333023
+012112*1110123221212023
+11120212010313111011021
+12312313323223222230211
+11111212112121232102110
+32203112122210223121312
+31300011112022211132332
+11011023123310133321132
+13112110012322012313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [A4] in 4.28s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 169 on this move #####
+INPUT for jiayangm@usc.edu:
+23
+4
+299.91
+***********130200122100
+*********2*202111113110
+*********12313022202212
+**3*20**112312100333023
+1*1232*1110123221212023
+2*031212010313111011021
+20210313323223222230211
+02322212112121232102110
+32203112122210223121312
+31300011112022211132332
+11011023123310133321132
+13112110012322012313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [P19] in 0.11s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [P19] #####
+Server said: FAIL
+#################### ROUND 3: jiayangm@usc.edu (X) vs xiaochec@usc.edu (O): game 11 ####################
+##### game start! #####
+INPUT for xiaochec@usc.edu:
+25
+5
+300
+3230134313333142312011333
+2222010334430430422210211
+2013320413310403142333242
+3221342103213111132113131
+2100011422043111223031232
+2102322312041330131141312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on xiaochec@usc.edu #####
+##### xiaochec@usc.edu plays [I8] in 9.67s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### xiaochec@usc.edu scores 225 on this move #####
+INPUT for jiayangm@usc.edu:
+25
+5
+300
+32301343******42312011333
+2222010313***130422210211
+2013320434***403142333242
+3221342113*3*411132113131
+210001140333*111223031232
+2102322322413130131141312
+2123212312310323241232312
+3223312024240410130214000
+3301243241043203303113103
+3224402321023023103221142
+0420012041121211321120122
+3131223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_3_jiayangm@usc.edu_xiaochec@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on jiayangm@usc.edu #####
+##### jiayangm@usc.edu plays [S3] in 0.1s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_3_jiayangm@usc.edu_xiaochec@usc.edu #####
+##### GAME OVER: jiayangm@usc.edu loses because of illegal move [S3] #####
+Server said: FAIL
+
+
+########## GRAND WINNER ROUND 3 IS xiaochec@usc.edu BY 11 vs 0 GAMES ##########

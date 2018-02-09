@@ -1,0 +1,575 @@
+#################### ROUND 1: random (O) vs alhafni@usc.edu (X): game 1 ####################
+##### game start! #####
+INPUT for random:
+12
+4
+300
+122212302012
+212101031132
+021322232133
+231323021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F4] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for alhafni@usc.edu:
+12
+4
+300
+12221*302012
+212102031132
+021321232133
+231322021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs alhafni@usc.edu (O): game 2 ####################
+##### game start! #####
+INPUT for alhafni@usc.edu:
+13
+7
+300
+3442354244513
+1303311323531
+2434212101525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs alhafni@usc.edu (X): game 3 ####################
+##### game start! #####
+INPUT for random:
+20
+5
+300
+22134113013333023311
+34300430203323211434
+41141222332103434314
+21320232421024421332
+32113311431430432212
+23313212331211021131
+11213313233301101121
+21031023130142412322
+20211322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E9] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for alhafni@usc.edu:
+20
+5
+300
+221**113013333023311
+3433*430203323211434
+41104222332103434314
+21340232421024421332
+32121311431430432212
+23310212331211021131
+11213313233301101121
+21013023130142412322
+20233322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs alhafni@usc.edu (O): game 4 ####################
+##### game start! #####
+INPUT for alhafni@usc.edu:
+11
+5
+300
+33122210301
+42013222100
+33230103234
+32242211422
+23221130133
+43330243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs alhafni@usc.edu (X): game 5 ####################
+##### game start! #####
+INPUT for random:
+23
+4
+300
+31121210112330212111231
+13121121123003212311321
+11203320212330301211201
+32202212223222111113032
+00322132210132112100211
+23322222221122222202000
+12201222120122101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L6] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for alhafni@usc.edu:
+23
+4
+300
+3112121011**30212111231
+13121121122*03212311321
+11203320213*30301211201
+32202212222322111113032
+00322132213032112100211
+23322222220322222202000
+12201222120222101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs alhafni@usc.edu (O): game 6 ####################
+##### game start! #####
+INPUT for alhafni@usc.edu:
+16
+3
+300
+2021111101212121
+1210122122101112
+1201121211112212
+2121200112111200
+1111120021022111
+1211001111111112
+2121220112220011
+1111122011012111
+1111112100200012
+0110010121111100
+2102102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs alhafni@usc.edu (X): game 7 ####################
+##### game start! #####
+INPUT for random:
+24
+4
+300
+223112331223322130102230
+110231320011021111321212
+032211201231000122122000
+111221121121130322112132
+022221011113120011222202
+123202222222321321012120
+112322233203211212322230
+000202231102011122020230
+212222022101321122231201
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [X12] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for alhafni@usc.edu:
+24
+4
+300
+2231123312233221301022**
+11023132001102111132123*
+03221120123100012212201*
+111221121121130322112100
+022221011113120011222232
+123202222222321321012100
+112322233203211212322222
+000202231102011122020232
+212222022101321122231230
+121012311133112122123300
+201223302103311322223210
+322223110312201230313301
+202103032311313210112210
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs alhafni@usc.edu (O): game 8 ####################
+##### game start! #####
+INPUT for alhafni@usc.edu:
+15
+3
+300
+121111111111211
+022212112122120
+211102100121222
+120222112120111
+102102101111211
+021112111011011
+120110121111121
+100220022020110
+212200101211011
+211001101001212
+111211011011111
+211012111111111
+001211221010010
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs alhafni@usc.edu (X): game 9 ####################
+##### game start! #####
+INPUT for random:
+22
+5
+300
+1021112000321014143212
+3023144233132332133423
+0213222213132112221403
+2022211214224423320221
+2240334130211323332201
+4143414210410130134313
+3030331222401204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for alhafni@usc.edu:
+22
+5
+300
+102111200032*014143212
+3023144233131332133423
+0213222213132112221403
+2022211214222423320221
+2240334130214323332201
+4143414210411130134313
+3030331222400204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs alhafni@usc.edu (O): game 10 ####################
+##### game start! #####
+INPUT for alhafni@usc.edu:
+23
+4
+300
+10322011122130200122100
+21133212112202111113110
+21011213010313022202212
+11220312310312100333023
+02112212113123221212023
+11311121122313111011021
+12103013112223222230211
+11200222122121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs alhafni@usc.edu (X): game 11 ####################
+##### game start! #####
+INPUT for random:
+25
+5
+300
+3230134313333142312011333
+2222010334430430422210211
+2013320413310403142333242
+3221342103213111132113131
+2100011422043111223031232
+2102322312041330131141312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I11] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for alhafni@usc.edu:
+25
+5
+300
+32301343*3333142312011333
+2222010314430430422210211
+2013320433310403142333242
+3221342113213111132113131
+2100011402043111223031232
+2102322322041330131141312
+2123212314122423241232312
+3223312023321210130214000
+3301243231323003303113103
+3224402341333323103221142
+0420012021343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_random_alhafni@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on alhafni@usc.edu #####
+##### alhafni@usc.edu plays [A0] in 0s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_alhafni@usc.edu #####
+##### GAME OVER: alhafni@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+
+
+########## GRAND WINNER ROUND 1 IS random BY 11 vs 0 GAMES ##########

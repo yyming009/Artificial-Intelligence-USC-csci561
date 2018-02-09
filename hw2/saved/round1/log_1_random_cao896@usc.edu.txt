@@ -1,0 +1,4282 @@
+#################### ROUND 1: random (O) vs cao896@usc.edu (X): game 1 ####################
+##### game start! #####
+INPUT for random:
+12
+4
+300
+122212302012
+212101031132
+021322232133
+231323021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D3] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+300
+122*12302012
+212*01031132
+021222232133
+231123021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [H4] in 3.72s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 324 on this move #####
+INPUT for random:
+12
+4
+299.96
+122*1*******
+212*023*****
+021221002***
+2311222310**
+21001303211*
+322303001132
+210210013132
+333111322013
+231101000321
+312113012101
+220121222030
+112332202101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+296.28
+*22*1*******
+112*023*****
+221221002***
+0311222310**
+21001303211*
+222303001132
+310210013132
+233111322013
+331101000321
+212113012101
+220121222030
+112332202101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [E7] in 2.91s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 100 on this move #####
+INPUT for random:
+12
+4
+299.92
+*2**********
+112***3*****
+222***002***
+031*122310**
+211*0103211*
+220*22001132
+312223013132
+230113322013
+333000000321
+212303012101
+220221222030
+112332202101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B2] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+293.37
+************
+*22***3*****
+222***002***
+031*122310**
+211*0103211*
+220*22001132
+312223013132
+230113322013
+333000000321
+212303012101
+220221222030
+112332202101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I10] in 3.4s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 49 on this move #####
+INPUT for random:
+12
+4
+299.88
+************
+*22*********
+222*********
+031*1*30*0**
+211*0203*11*
+220*21232132
+312222001132
+230113012013
+333003021321
+212300303101
+220223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A5] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+289.97
+************
+**2*********
+*22*********
+*21*1*30*0**
+231*0203*11*
+010*21232132
+312222001132
+230113012013
+333003021321
+212300303101
+220223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [J5] in 2.49s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 25 on this move #####
+INPUT for random:
+12
+4
+299.83
+************
+**2*********
+*22*********
+*21*1*30****
+231*0203****
+010*2123**32
+312222002032
+230113012013
+333003021321
+212300303101
+220223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+287.48
+************
+**2*********
+**2*********
+*21*1*30****
+*21*0203****
+*30*2123**32
+212222002032
+010113012013
+333003021321
+232300303101
+310223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [E6] in 3.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 25 on this move #####
+INPUT for random:
+12
+4
+299.79
+************
+************
+**2*********
+*22***30****
+*21***03****
+*31*1223**32
+210*01002032
+010113012013
+333003021321
+232300303101
+310223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+284.46
+************
+************
+**2*********
+*22***30****
+*21***03****
+*31*1*23**32
+210*0*002032
+010112012013
+333001021321
+232300303101
+310223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [D9] in 3.1s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+12
+4
+299.74
+************
+************
+**2*********
+*22***30****
+*21***03****
+*31***23**32
+210***002032
+010*1*012013
+333102021321
+232311303101
+310223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+281.36
+************
+************
+**2*********
+*22***30****
+*21***03****
+*31***23***2
+210***002032
+010*1*012033
+333102021311
+232311303121
+310223012000
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [C3] in 1.59s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+12
+4
+299.7
+************
+************
+************
+******30****
+**1***03****
+*31***23***2
+210***002032
+010*1*012033
+333102021311
+232311303121
+310223012000
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H9] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+279.77
+************
+************
+************
+******3*****
+**1***00****
+*31***23***2
+210***032032
+010*1*002033
+333102011311
+232311303121
+310223012000
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [G7] in 1.26s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+12
+4
+299.66
+************
+************
+************
+************
+**1*********
+*31****0***2
+210***332032
+010*1*032033
+333102211311
+232311303121
+310223012000
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+12
+4
+278.51
+************
+************
+************
+************
+**1*********
+*31****0***2
+210***332032
+010***032033
+333102211311
+232311303121
+310223012000
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+kill -9  14564 14580 14587
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs cao896@usc.edu (O): game 2 ####################
+##### game start! #####
+INPUT for cao896@usc.edu:
+13
+7
+300
+3442354244513
+1303311323531
+2434212101525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [D12] in 9.41s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+13
+7
+300
+3***354244513
+144*311323531
+2302212101525
+4433455155046
+5654056536011
+5323231546151
+2521323433203
+2455223532511
+6101431611455
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J2] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+290.59
+3***35424*513
+144*311324531
+2302212101525
+4433455155046
+5654056536011
+5323231546151
+2521323433203
+2455223532511
+6101431611455
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [K1] in 10.46s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.97
+3***35424**13
+144*311324*31
+2302212101*25
+4433455155046
+5654056536011
+5323231546151
+2521323433203
+2455223532511
+6101431611455
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H6] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+280.13
+3***354*4**13
+144*311*24*31
+2302212201*25
+4433455355046
+5654056136011
+5323231146151
+2521323433203
+2455223532511
+6101431611455
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [F4] in 15.9s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.94
+3***3***4**13
+144*3*4*24*31
+2302251201*25
+4433412355046
+5654016136011
+5323231146151
+2521323433203
+2455223532511
+6101431611455
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+264.23
+3***3***4****
+144*3*4*24*13
+2302251201*31
+4433412355025
+5654016136046
+5323231146111
+2521323433251
+2455223532503
+6101431611411
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [K6] in 9.81s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+13
+7
+299.89
+3***3***4****
+144*3*4*24***
+2302251201*1*
+4433412355*33
+5654016136021
+5323231146045
+2521323433256
+2455223532503
+6101431611411
+6223515323163
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L10] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+254.42
+3***3***4****
+144*3*4*24***
+2302251201***
+4433412355*13
+5654016136031
+5323231146025
+2521323433246
+2455223532553
+6101431611401
+6223515323113
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [H5] in 7.7s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.84
+3***3***4****
+144*3***24***
+2302254*01***
+4433411*55*13
+5654012236031
+5323236346025
+2521323433246
+2455223532553
+6101431611401
+6223515323113
+2453131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+246.72
+****3***4****
+*44*3***24***
+3302254*01***
+1433411*55*13
+2654012236031
+4323236346025
+5521323433246
+5455223532553
+2101431611401
+2223515323113
+6453131463105
+6054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [A9] in 7.19s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+13
+7
+299.8
+****3***4****
+****3***24***
+*442254*01***
+*303411*55*13
+3434012236031
+1653236346025
+2321323433246
+4525223532553
+5451431611401
+5103515323113
+6453131463105
+6054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L13] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+239.53
+****3***4****
+****3***24***
+*442254*01***
+*303411*55**3
+34340122360*1
+1653236346015
+2321323433236
+4525223532523
+5451431611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [F6] in 9.66s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 1 on this move #####
+INPUT for random:
+13
+7
+299.75
+****3***4****
+****3***24***
+*4422*4*01***
+*303451*55**3
+34340122360*1
+1653216346015
+2321323433236
+4525223532523
+5451431611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E9] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+229.87
+********4****
+****3***24***
+*4423*4*01***
+*303251*55**3
+34344122360*1
+1653016346015
+2321223433236
+4525323532523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [E7] in 6.68s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.71
+********4****
+********24***
+*4423*4*01***
+*3033*1*55**3
+34342*22360*1
+1653456346015
+2321013433236
+4525313532523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J5] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+223.19
+********4****
+********2****
+*4423*4*0****
+*3033*1*54**3
+34342*22310*1
+1653456345015
+2321013433236
+4525313532523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [E3] in 6.67s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.67
+********4****
+********2****
+*44***4*0****
+*302**1*54**3
+34342*22310*1
+1653456345015
+2321013433236
+4525313532523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M5] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+216.52
+********4****
+********2****
+*44***4*0****
+*302**1*54***
+34342*22310*3
+1653456345015
+2321013433236
+4525313532523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I7] in 8.91s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.65
+*************
+*************
+*44***4*4****
+*302**1*2****
+34342*22040*3
+1653456351015
+2321013435236
+4525313542523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C4] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+207.61
+*************
+*************
+*4****4*4****
+*342**1*2****
+34342*22040*3
+1653456351015
+2321013435236
+4525313542523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [F7] in 9.61s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4 on this move #####
+INPUT for random:
+13
+7
+299.61
+*************
+*************
+*4****4*4****
+*342**1*2****
+34342*22040*3
+16534*6351015
+23210*3435236
+4525353542523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J6] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+198
+*************
+*************
+*4****4*4****
+*342**1*2****
+34342*220*0*3
+16534*6354015
+23210*3435236
+4525353542523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [G5] in 6.09s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4 on this move #####
+INPUT for random:
+13
+7
+299.59
+*************
+*************
+*4******4****
+*342**4*2****
+34342*1*0*0*3
+16534*6354015
+23210*3435236
+4525353542523
+5451231611441
+5103515323153
+6453131463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E11] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+191.91
+*************
+*************
+*4******4****
+*342**4*2****
+3434**1*0*0*3
+16532*6354015
+23214*3435236
+4525053542523
+5451331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [K5] in 6.61s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4 on this move #####
+INPUT for random:
+13
+7
+299.56
+*************
+*************
+*4******4****
+*342**4*2****
+3434**1*0***3
+16532*6354*15
+23214*3435236
+4525053542523
+5451331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+185.3
+*************
+*************
+*4******4****
+*34***4*2****
+3432**1*0***3
+16542*6354*15
+23234*3435236
+4525053542523
+5451331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [G7] in 9.21s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4 on this move #####
+INPUT for random:
+13
+7
+299.52
+*************
+*************
+*4******4****
+*34*****2****
+3432****0***3
+16542*4354*15
+23234*1435236
+4525056542523
+5451331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+176.09
+*************
+*************
+********4****
+*44*****2****
+3332****0***3
+14542*4354*15
+26234*1435236
+4325056542523
+5451331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [A5] in 6.14s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.47
+*************
+*************
+********4****
+********2****
+*442****0***3
+14542*4354*15
+26234*1435236
+4325056542523
+5451331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+169.95
+*************
+*************
+********4****
+********2****
+*4*2****0***3
+14442*4354*15
+26534*1435236
+4325056542523
+5421331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [B5] in 5.78s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+13
+7
+299.42
+*************
+*************
+********4****
+********2****
+********0***3
+1**22*4354*15
+26534*1435236
+4325056542523
+5421331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+164.17
+*************
+*************
+********4****
+********2****
+********0***3
+1***2*4354*15
+26524*1435236
+4325056542523
+5421331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [C8] in 4.65s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4 on this move #####
+INPUT for random:
+13
+7
+299.38
+*************
+*************
+********4****
+********2****
+********0***3
+1***2*4354*15
+26*24*1435236
+43*5056542523
+5451331611441
+5103215323153
+6453531463105
+6054243254511
+1426263040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+159.52
+*************
+*************
+********4****
+********2****
+********0***3
+1***2**354*15
+26*24**435236
+43*5054542523
+5451331611441
+5103216323153
+6453531463105
+6054245254511
+1426261040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [A9] in 4.17s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4 on this move #####
+INPUT for random:
+13
+7
+299.34
+*************
+*************
+********4****
+********2****
+********0***3
+****2**354*15
+*6*24**435236
+13*5054542523
+2451331611441
+4103216323153
+6453531463105
+6054245254511
+1426261040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G12] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+155.35
+*************
+*************
+********4****
+********2****
+********0***3
+****2**354*15
+*6*24**435236
+13*505*542523
+2451334611441
+4103211323153
+6453536463105
+6054241254511
+1426261040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [E9] in 3.32s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4 on this move #####
+INPUT for random:
+13
+7
+299.3
+*************
+*************
+********4****
+********2****
+********0***3
+*******354*15
+*6*22**435236
+13*54**542523
+2451054611441
+4103211323153
+6453536463105
+6054241254511
+1426261040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+152.03
+*************
+*************
+********4****
+********2****
+********0***3
+*******354*15
+*6*22**435236
+13*54**542523
+24*1054611441
+4153211323153
+6453536463105
+6054241254511
+1426261040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [C10] in 3.34s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.26
+*************
+*************
+********4****
+********2****
+********0***3
+*******354*15
+*6*22**435236
+13*54**542523
+24*1054611441
+41*3211323153
+64*3536463105
+60*4241254511
+1426261040406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J13] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+148.69
+*************
+*************
+********4****
+********2****
+********0***3
+*******35**15
+*6*22**434236
+13*54**545523
+24*1054612441
+41*3211321153
+64*3536463105
+60*4241253511
+1426261044406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [J10] in 3.69s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+13
+7
+299.23
+*************
+*************
+********4****
+********2****
+********0***3
+*******35**15
+*6*22**43**36
+13*54**544*23
+24*1054615241
+41*3211322553
+64*3536463405
+60*4241253511
+1426261044406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J12] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+13
+7
+145
+*************
+*************
+********4****
+********2****
+********0***3
+*******35**15
+*6*22**43**36
+13*54**54**23
+24*105461*241
+41*3211324553
+64*3536465405
+60*4241252511
+1426261044406
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+*** Killing lingering child process [sh] ***
+kill -9  3158 3164 3170 14564
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs cao896@usc.edu (X): game 3 ####################
+##### game start! #####
+INPUT for random:
+20
+5
+300
+22134113013333023311
+34300430203323211434
+41141222332103434314
+21320232421024421332
+32113311431430432212
+23313212331211021131
+11213313233301101121
+21031023130142412322
+20211322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for cao896@usc.edu:
+20
+5
+300
+2**34113013333023311
+3*100430203323211434
+42341222332103434314
+24120232421024421332
+31313311431430432212
+21113212331211021131
+12313313233301101121
+23231023130142412322
+21011322321223303234
+01222213111003202200
+10440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [M16] in 71.71s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 100 on this move #####
+INPUT for random:
+20
+5
+299.96
+2**341130133******11
+3*100430203333***334
+4234122233212302*414
+24120232421003213332
+31313311431424431312
+21113212331230424231
+12313313233311431121
+23231023130101022122
+21011322321242101334
+01222213111023411200
+10440434142303302214
+42342023101002203441
+40323210344442212423
+11034332131242103302
+01303112212423223123
+33132131310101122002
+42324141320233111313
+21133431321140301410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L20] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+20
+5
+228.29
+2**3411301********11
+3*100430203333***334
+4234122233332302*414
+24120232422103213332
+31313311431024431312
+21113212331430424231
+12313313231211431121
+23231023133301022122
+21011322320142101334
+01222213111223411200
+10440434141003302214
+42342023102302203441
+40323210341042212423
+11034332134442103302
+01303112211223223123
+33132131312401122002
+42324141320133111313
+21133431320240301410
+44241311221132331132
+33123241101221321210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [K2] in 82.88s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 100 on this move #####
+INPUT for random:
+20
+5
+299.92
+2**34113**********11
+3*10043001*******334
+4234122220**2*02*414
+2412023242210*213332
+31313311431024431312
+21113212331430424231
+12313313231211431121
+23231023133301022122
+21011322320142101334
+01222213111223411200
+10440434141003302214
+42342023102302203441
+40323210341042212423
+11034332134442103302
+01303112211223223123
+33132131312401122002
+42324141320133111313
+21133431320240301410
+44241311221132331132
+33123241101221321210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I4] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+20
+5
+145.41
+2**34113**********11
+3*100430*1*******334
+42341222*0**2*02*414
+2412023202210*213332
+31313311231024431312
+21113212331430424231
+12313313231211431121
+23231023133301022122
+21011322320142101334
+01222213111223411200
+10440434141003302214
+42342023102302203441
+40323210341042212423
+11034332134442103302
+01303112211223223123
+33132131312401122002
+42324141320133111313
+21133431320240301410
+44241311221132331132
+33123241101221321210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [N16] in 63.25s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 81 on this move #####
+INPUT for random:
+20
+5
+299.87
+2**34113**********11
+3*100430*1********34
+42341222*0**2****314
+2412023202210**2*432
+3131331123102*01*312
+2111321233143423*331
+1231331323121042*221
+23231023133301433122
+21011322320141421134
+01222213111222004300
+10440434141003111214
+42342023102303402241
+40323210341042301423
+11034332134442211402
+01303112211222202323
+33132131312403123102
+42324141320133222013
+21133431320240303310
+44241311221132333432
+33123241101221322210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for cao896@usc.edu:
+20
+5
+82.16
+2**34113**********11
+3*100430**********34
+42341222****2****314
+24120232****0**2*432
+313133110*212*01*312
+2111321221103423*331
+1231331320141042*221
+23231023121201433122
+21011322320141421134
+01222213111222004300
+10440434141003111214
+42342023102303402241
+40323210341042301423
+11034332134442211402
+01303112211222202323
+33132131312403123102
+42324141320133222013
+21133431320240303310
+44241311221132333432
+33123241101221322210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [N13] in 60.57s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 49 on this move #####
+INPUT for random:
+20
+5
+299.82
+2**34113**********11
+3*100430**********34
+42341222*********314
+24120232****2**2*432
+313133110*2*0**1*312
+2111321221112**3*331
+1231331320103*02*221
+2323102312141*233122
+21011322320204421134
+01222213111140404300
+10440434141221411214
+42342023102001002241
+40323210341302101423
+11034332134043411402
+01303112211443302323
+33132131312403123102
+42324141320133222013
+21133431320240303310
+44241311221132333432
+33123241101221322210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+20
+5
+21.59
+2***4113**********11
+3*130430**********34
+42301222*********314
+24140232****2**2*432
+313233110*2*0**1*312
+2111321221112**3*331
+1231331320103*02*221
+2321102312141*233122
+21031322320204421134
+01212213111140404300
+10420434141221411214
+42342023102001002241
+40343210341302101423
+11024332134043411402
+01303112211443302323
+33132131312403123102
+42324141320133222013
+21133431320240303310
+44241311221132333432
+33123241101221322210
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+kill -9  3158 14564 26878 26884 26887
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs cao896@usc.edu (O): game 4 ####################
+##### game start! #####
+INPUT for cao896@usc.edu:
+11
+5
+300
+33122210301
+42013222100
+33230103234
+32242211422
+23221130133
+43330243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I5] in 3.24s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 100 on this move #####
+INPUT for random:
+11
+5
+300
+331222*****
+4201321**01
+33230120*00
+32242202*34
+23221113*22
+43330231333
+20123140133
+14322423223
+22423233430
+01313342241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+296.76
+33122******
+4201321**01
+33230220*00
+32242102*34
+23221213*22
+43330131333
+20123240133
+14322123223
+22423433430
+01313242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I6] in 3.53s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 36 on this move #####
+INPUT for random:
+11
+5
+299.96
+33122******
+4201321****
+33230220***
+32242102*0*
+23221213*01
+43330131*30
+20123240124
+14322123222
+22423433430
+01313242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C1] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+293.23
+33*22******
+4201321****
+33230220***
+32242102*0*
+23221213*01
+43330131*30
+20123240124
+14322123222
+22423433430
+01313242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [D7] in 5.63s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+11
+5
+299.92
+33*********
+420*221****
+332*3220***
+32220102*0*
+23212213*01
+43331131*30
+20140240124
+14323123222
+22433433430
+01313242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+287.6
+33*********
+420*221****
+332*3220***
+32220102***
+23212213***
+43331131*01
+20140240*00
+14323123134
+22433433430
+01313242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [E8] in 5.84s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 16 on this move #####
+INPUT for random:
+11
+5
+299.87
+33*********
+420**21****
+332**220***
+322**102***
+23222213***
+43313131*01
+20130240*00
+14342123134
+22421433430
+01310242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K9] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+281.76
+33*********
+420**21****
+332**220***
+322**102***
+23222213***
+43313131*0*
+20130240*01
+14342123130
+22421433434
+01310242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [C3] in 3.11s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 49 on this move #####
+INPUT for random:
+11
+5
+299.83
+3**********
+43****1****
+32***220***
+33***202***
+230**113***
+43313131*0*
+20130240*01
+14342123130
+22421433434
+01310242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+278.65
+3**********
+43*********
+32***21****
+33***22****
+230**100***
+43313112*0*
+20130233*01
+14342141130
+22421420434
+01310242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [A3] in 2.59s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 36 on this move #####
+INPUT for random:
+11
+5
+299.78
+***********
+***********
+3****21****
+4****22****
+23***100***
+42013112*0*
+20130233*01
+14342141130
+22421420434
+01310242241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F10] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+276.06
+***********
+***********
+3*****1****
+4****22****
+23***200***
+42013112*0*
+20130133*01
+14342241130
+22421120434
+01310442241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [F4] in 2.31s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+11
+5
+299.73
+***********
+***********
+3**********
+4*****1****
+23****00***
+42013112*0*
+20130133*01
+14342241130
+22421120434
+01310442241
+34244323113
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K11] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+273.75
+***********
+***********
+3**********
+4*****1****
+23****00***
+42013112*0*
+20130133*0*
+14342241131
+22421120430
+01310442244
+34244323111
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [F6] in 1.9s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+11
+5
+299.68
+***********
+***********
+3**********
+4**********
+23****10***
+42013*02*0*
+20130*33*0*
+14342241131
+22421120430
+01310442244
+34244323111
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+271.85
+***********
+***********
+3**********
+4**********
+23****1****
+42013*00*0*
+20130*32*0*
+14342243*31
+22421120430
+01310442244
+34244323111
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I11] in 1.55s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 9 on this move #####
+INPUT for random:
+11
+5
+299.63
+***********
+***********
+3**********
+4**********
+23****1****
+42013*00***
+20130*32*0*
+14342243*0*
+22421120*31
+01310442430
+34244323244
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B8] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+11
+5
+270.3
+***********
+***********
+3**********
+4**********
+2*****1****
+43013*00***
+22130*32*0*
+10342243*0*
+22421120*31
+01310442430
+34244323244
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+kill -9  3158 14564 26878 69442 69457 69465
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs cao896@usc.edu (X): game 5 ####################
+##### game start! #####
+INPUT for random:
+23
+4
+300
+31121210112330212111231
+13121121123003212311321
+11203320212330301211201
+32202212223222111113032
+00322132210132112100211
+23322222221122222202000
+12201222120122101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P19] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+300
+311212101123302*2111231
+13121121123003212311321
+11203320212330311211201
+32202212223222101113032
+00322132210132112100211
+23322222221122212202000
+12201222120122121212011
+10212130121310101113221
+02122122132233300333111
+22000221333322331120100
+32222310312211132103221
+11121112323223231122133
+11120120313233221200112
+31222210223011112113122
+21221000201200310022123
+21212102131331011011211
+12222232122121301110113
+33211112112211331022222
+11002221121122313110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [B9] in 65.34s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 529 on this move #####
+INPUT for random:
+23
+4
+299.95
+******101123302*2111231
+3*****21123003212311321
+1****220212330311211201
+1****112223222101113032
+31**1332210132112100211
+03**1222221122212202000
+21123122120122121212011
+12122230121310101113221
+10202222132233300333111
+03202121333322331120100
+32321110312211132103221
+10322212323223231122133
+11202320313233221200112
+31210110223011112113122
+21121100201200310022123
+21000002131331011011211
+11111132122121301110113
+33111112112211331022222
+11002221121122313110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+234.66
+******10112330**2111231
+3*****21123003*12311321
+1****220212330211211201
+1****112223222201113032
+31**1332210132312100211
+03**1222221122112202000
+21123122120122121212011
+12122230121310201113221
+10202222132233300333111
+03202121333322331120100
+32321110312211132103221
+10322212323223231122133
+11202320313233221200112
+31210110223011112113122
+21121100201200310022123
+21000002131331011011211
+11111132122121301110113
+33111112112211331022222
+11002221121122313110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [A12] in 59.36s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 324 on this move #####
+INPUT for random:
+23
+4
+299.91
+*******0112330**2111231
+******11123003*12311321
+******20212330211211201
+******22223222201113032
+3****212210132312100211
+1****132221122112202000
+1***1322120122121212011
+3***1220121310201113221
+0**23132132233300333111
+21122221333322331120100
+13102220312211132103221
+11202112323223231122133
+02221110313233221200112
+30322220223011112113122
+33302310201200310022123
+22210102131331011011211
+20221102122121301110113
+33000032112211331022222
+11002221121122313110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q23] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+175.3
+*******0112330***111231
+******11123003**2311321
+******20212330212211201
+******22223222211113032
+3****212210132301100211
+1****132221122112202000
+1***1322120122112212011
+3***1220121310221113221
+0**23132132233301333111
+21122221333322300120100
+13102220312211131103221
+11202112323223232122133
+02221110313233231200112
+30322220223011121113122
+33302310201200312022123
+22210102131331010011211
+20221102122121311110113
+33000032112211301022222
+11002221121122331110131
+21122122032312113302101
+13303130132311313102122
+11210212311121201112132
+20120213330122110322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [G3] in 50.76s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 289 on this move #####
+INPUT for random:
+23
+4
+299.87
+**********2330***111231
+**********3003**2311321
+**********2330212211201
+**********3222211113032
+3******0110132301100211
+1****211121122112202000
+1***1110110122112212011
+3***1330111310221113221
+0**23132132233301333111
+21122221333322300120100
+13102220312211131103221
+11202112323223232122133
+02221110313233231200112
+30322220223011121113122
+33302310201200312022123
+22210102131331010011211
+20221102122121311110113
+33000032112211301022222
+11002221121122331110131
+21122122032312113302101
+13303130132311313102122
+11210212311121201112132
+20120213330122110322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+124.54
+**********2330***111231
+**********3003**2311321
+**********2330212211201
+**********3222211113032
+3******0110132301100211
+1****211121122112202000
+1***1110110122112212011
+3***1330111310221113221
+0**23132132233301333111
+2**22221333322300120100
+13*02220312211131103221
+11202112323223232122133
+02221110313233231200112
+30322220223011121113122
+33302310201200312022123
+22210102131331010011211
+20221102122121311110113
+33000032112211301022222
+11002221121122331110131
+21122122032312113302101
+13303130132311313102122
+11210212311121201112132
+20120213330122110322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I5] in 46.37s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 225 on this move #####
+INPUT for random:
+23
+4
+299.83
+***********330***111231
+**********2003**2311321
+**********3330212211201
+**********2222211113032
+3*********3132301100211
+1******0**0122112202000
+1****2*0**1122112212011
+3****330*20310221113221
+0**23132*32233301333111
+2**22221333322300120100
+13*02220312211131103221
+11202112323223232122133
+02221110313233231200112
+30322220223011121113122
+33302310201200312022123
+22210102131331010011211
+20221102122121311110113
+33000032112211301022222
+11002221121122331110131
+21122122032312113302101
+13303130132311313102122
+11210212311121201112132
+20120213330122110322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G19] in 0.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+78.17
+***********330***111231
+**********2003**2311321
+**********3330212211201
+**********2222211113032
+3*********3132301100211
+1*********0122112202000
+1******0**1122112212011
+3****2*0*20310221113221
+0****3*0*32233301333111
+2**2*132333322300120100
+13*23231312211131103221
+11202220323223232122133
+02202122313233231200112
+30322110223011121113122
+33321210201200312022123
+22202320131331010011211
+20212112122121311110113
+33020102112211301022222
+11001002121122331110131
+21100131032312113302101
+13303130132311313102122
+11210212311121201112132
+20120213330122110322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [R1] in 47.51s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 196 on this move #####
+INPUT for random:
+23
+4
+299.77
+***********330******231
+**********2003******321
+**********33302*****201
+**********22222*23*3032
+3*********3132302200211
+1*********0122112202000
+1******0**1122112212011
+3****2*0*20310221113221
+0****3*0*32233301333111
+2**2*132333322300120100
+13*23231312211131103221
+11202220323223232122133
+02202122313233231200112
+30322110223011121113122
+33321210201200312022123
+22202320131331010011211
+20212112122121311110113
+33020102112211301022222
+11001002121122331110131
+21100131032312113302101
+13303130132311313102122
+11210212311121201112132
+20120213330122110322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P16] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 144 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+30.66
+***********330******231
+**********2003******321
+**********33302*****201
+**********22222*****032
+3*********31323****3211
+1*********01221**3*0000
+1******0**11221*22*2011
+3****2*0*20310202202221
+0****3*0*32233312203111
+2**2*132333322312113100
+13*23231312211121310221
+11202220323223201133133
+02202122313233200122112
+30322110223011131100122
+33321210201200332223123
+22202320131331031102211
+20212112122121321010113
+33020102112211302022222
+11001002121122330020131
+21100131032312113302101
+13303130132311313102122
+11210212311121201112132
+20120213330122110322013
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+kill -9  3158 14564 26878 69442 145663 145672 145689
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs cao896@usc.edu (O): game 6 ####################
+##### game start! #####
+INPUT for cao896@usc.edu:
+16
+3
+300
+2021111101212121
+1210122122101112
+1201121211112212
+2121200112111200
+1111120021022111
+1211001111111112
+2121220112220011
+1111122011012111
+1111112100200012
+0110010121111100
+2102102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [D1] in 6.7s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 1296 on this move #####
+INPUT for random:
+16
+3
+300
+********01212121
+******2*22101112
+******1211112212
+*****20112111200
+2****20021022111
+1*2**01111111112
+1*1*220112220011
+200*002011012111
+2220222100200012
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F7] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+16
+3
+293.3
+********01212121
+******2*22101112
+******1211112212
+******0112111200
+2****20021022111
+1*2**21111111112
+1*1**00112220011
+200*002011012111
+2220222100200012
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [J5] in 5.07s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 529 on this move #####
+INPUT for random:
+16
+3
+299.95
+****************
+**********212***
+******2***101***
+******1*011121*1
+2****202221111*2
+1*2**20111022222
+1*1**00012220210
+200*002022012012
+2220222100200002
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 144 on this move #####
+INPUT for cao896@usc.edu:
+16
+3
+288.23
+****************
+****************
+******2***2*2***
+******1***111***
+2****2020*102***
+1*2**201211111*1
+1*1**00012010110
+200*002011012012
+2220222100200002
+0220020121111100
+2202102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [J10] in 4.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 484 on this move #####
+INPUT for random:
+16
+3
+299.91
+****************
+****************
+******2*********
+******1*****2***
+2****20*****1***
+1*2**20*****2**1
+1*1**00***211110
+200*0022**100112
+222022210*112002
+022002002*110000
+220210201*012220
+0211122111001021
+2020010102222121
+1102011221000210
+1110212000002012
+0022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L9] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for cao896@usc.edu:
+16
+3
+284.21
+****************
+****************
+******2*********
+******1*****2***
+2****20*****1***
+1*2**20*****2**1
+1*1**00*****1110
+200*0022****0112
+222022210***2002
+022002002*210000
+220210201*002220
+0211122111001021
+2020010102222121
+1102011221000210
+1110212000002012
+0022010220101112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [K14] in 3.36s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 100 on this move #####
+INPUT for random:
+16
+3
+299.87
+****************
+****************
+******2*********
+******1*********
+2****20*****2***
+1*2**20*****1**1
+1*1**00*****2110
+200*002*****1112
+22202222****0002
+022002010***2000
+220210202***0220
+021112201*2*2021
+202001011*011121
+1102011101002210
+1110212222202012
+0022010221121112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for cao896@usc.edu:
+16
+3
+280.85
+****************
+****************
+******2*********
+******1*********
+2****20*****2***
+1*2**20*****1**1
+1*1**00*****2**0
+200*002*****11*2
+22202222****01*2
+022002010***2010
+220210202***0010
+021112201*2*2001
+202001011*011101
+1102011101002210
+1110212222202012
+0022010221121112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [A8] in 2.99s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 81 on this move #####
+INPUT for random:
+16
+3
+299.83
+****************
+****************
+******2*********
+******1*********
+*****20*****2***
+*****20*****1**1
+*****00*****2**0
+2*2*002*****11*2
+1*102222****01*2
+1*0002010***2010
+0*0210202***0010
+001112201*2*2001
+202001011*011101
+1102011101002210
+1110212222202012
+0022010221121112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+16
+3
+277.86
+****************
+****************
+****************
+******2*********
+*****21*****2***
+*****20*****1**1
+*****00*****2**0
+2*2*000*****11*2
+1*102222****01*2
+1*0002210***2010
+0*0210202***0010
+001112201*2*2001
+202001011*011101
+1102011101002210
+1110212222202012
+0022010221121112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I12] in 4.1s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 81 on this move #####
+INPUT for random:
+16
+3
+299.79
+****************
+****************
+****************
+****************
+******2*****2***
+******1*****1**1
+******0*****2**0
+2*2*0*0*****11*2
+1*10220*****01*2
+1*00022*****2010
+0*021022****0010
+001110210*2*2001
+202002202*011101
+1102020001002210
+1110202222202012
+0022020221121112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for cao896@usc.edu:
+16
+3
+273.76
+****************
+****************
+****************
+****************
+******2*****2***
+******1*****1**1
+******0*****2**0
+2*2*0*0*****11*2
+1*10220*****01*2
+1*00022*****2010
+0*021022****0010
+001110210***2001
+202002202***1101
+11020200012*2210
+1110202222212012
+0022020221121112
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  3158 14564 18568 18569 18577 26878 69442 145663
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs cao896@usc.edu (X): game 7 ####################
+##### game start! #####
+INPUT for random:
+24
+4
+300
+223112331223322130102230
+110231320011021111321212
+032211201231000122122000
+111221121121130322112132
+022221011113120011222202
+123202222222321321012120
+112322233203211212322230
+000202231102011122020230
+212222022101321122231201
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [T3] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 225 on this move #####
+INPUT for cao896@usc.edu:
+24
+4
+300
+223112331223322130****30
+1102313200110211111***12
+0322112012310001223***00
+1112211211211303221***32
+0222210111131200111**202
+123202222222321321002220
+112322233203211212311030
+000202231102011122010130
+212222022101321122231101
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [F6] in 105.66s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 361 on this move #####
+INPUT for random:
+24
+4
+299.97
+22**********322130****30
+113****31*230211111***12
+03011**202110001223***00
+11223*3010311303221***32
+02121*3212211200111**202
+122222211113321321002220
+113221133103211212311030
+002201031102011122010130
+210301022101321122231101
+121011311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O10] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+24
+4
+194.34
+22**********32*130****30
+113****31*230221111***12
+03011**202110011223***00
+11223*3010311303221***32
+02121*3212211200111**202
+122222211113320321002220
+113221133103211212311030
+002201031102011122010130
+210301022101321122231101
+121011311133111122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [D18] in 99.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 225 on this move #####
+INPUT for random:
+24
+4
+299.92
+22**********32*130****30
+11*****31*230221111***12
+03*****202110011223***00
+113****010311303221***32
+020****212211200111**202
+122***311113320321002220
+11111*333103211212311030
+00223*231102011122010130
+213212122101321122231101
+122221011133111122123310
+200221002103311322223202
+321201310312201230313322
+201301332311313210112212
+212013121033231121223221
+012223012222101312211111
+100223323103123030002312
+222102223312211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M1] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+24
+4
+95.28
+22***********2*130****30
+11*****31*230221111***12
+03*****202110011223***00
+113****010311303221***32
+020****212211200111**202
+122***311113320321002220
+11111*333103211212311030
+00223*231102011122010130
+213212122101321122231101
+122221011133111122123310
+200221002103311322223202
+321201310312201230313322
+201301332311313210112212
+212013121033231121223221
+012223012222101312211111
+100223323103123030002312
+222102223312211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I4] in 90.36s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 196 on this move #####
+INPUT for random:
+24
+4
+299.88
+22***********2*130****30
+11*********30221111***12
+03********210011223***00
+113****3**111303221***32
+020****2**311200111**202
+122***30**23320321002220
+11111*321*03211212311030
+00223*230*02011122010130
+213212133201321122231101
+122221022033111122123310
+200221002203311322223202
+321201310312201230313322
+201301332311313210112212
+212013121033231121223221
+012223012222101312211111
+100223323103123030002312
+222102223312211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+24
+4
+4.92
+22***********2*1*0****30
+11*********30221311***12
+03********210011123***00
+113****3**111303221***32
+020****2**311200211**202
+122***30**23320311002220
+11111*321*03211222311030
+00223*230*02011112010130
+213212133201321122231101
+122221022033111122123310
+200221002203311322223202
+321201310312201220313322
+201301332311313230112212
+212013121033231111223221
+012223012222101322211111
+100223323103123030002312
+222102223312211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+*** Killing lingering child process [sh] ***
+kill -9  3158 14564 18568 26878 69442 135465 135466 135467 145663
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs cao896@usc.edu (O): game 8 ####################
+##### game start! #####
+INPUT for cao896@usc.edu:
+15
+3
+300
+121111111111211
+022212112122120
+211102100121222
+120222112120111
+102102101111211
+021112111011011
+120110121111121
+100220022020110
+212200101211011
+211001101001212
+111211011011111
+211012111111111
+001211221010010
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [C1] in 2.8s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 4096 on this move #####
+INPUT for random:
+15
+3
+300
+12*************
+0222*2*********
+211102*********
+120222********1
+102102******2*0
+021112******1*2
+120110*0****211
+100220*0*0**121
+21220002*022221
+211001122221011
+111211100020010
+211012002020212
+001211222000020
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N10] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 64 on this move #####
+INPUT for cao896@usc.edu:
+15
+3
+297.2
+12*************
+0222*2*********
+211102*********
+120222*********
+102102******2**
+021112******1**
+120110*0****2**
+100220*0*0**1*1
+21220002*0222*0
+2110011222210*2
+111211100020020
+211012002020222
+001211222000020
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [B9] in 3.2s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 625 on this move #####
+INPUT for random:
+15
+3
+299.97
+***************
+***************
+1**************
+0**2***********
+2**1*2******2**
+1**2*2******1**
+12*102*0****2**
+022122*0*0**1*1
+111102*2*0222*0
+120210*222210*2
+202210000020020
+221020002020222
+220202222000020
+000002000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M13] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 361 on this move #####
+INPUT for cao896@usc.edu:
+15
+3
+294
+***************
+***************
+1**************
+0**2***********
+2**1***********
+1**2***********
+12*10**********
+022122******2*1
+111102*0****1*0
+120212*0**2*2*2
+202212*2202*120
+221022*2202*222
+220202222222220
+000002000221101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+kill -9  3158 14564 18568 26878 69442 135465 145663 148380 148381 148382
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs cao896@usc.edu (X): game 9 ####################
+##### game start! #####
+INPUT for random:
+22
+5
+300
+1021112000321014143212
+3023144233132332133423
+0213222213132112221403
+2022211214224423320221
+2240334130211323332201
+4143414210410130134313
+3030331222401204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P2] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 25 on this move #####
+INPUT for cao896@usc.edu:
+22
+5
+300
+102111200032101***3212
+302314423313233*1*3423
+0213222213132114141403
+2022211214224423330221
+2240334130211323332201
+4143414210410130134313
+3030331222401204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [P4] in 78.57s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 169 on this move #####
+INPUT for random:
+22
+5
+299.96
+102111200032101***3212
+302314423313233***3423
+021322221313211***1403
+202221121422442***0221
+2240334130211324**2201
+4143414210410130**4313
+3030331222401204**1303
+3101324312200042141014
+0241423242324234124310
+2142120222124110112123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+22
+5
+221.43
+**2111200032101***3212
+102314423313233***3423
+301322221313211***1403
+022221121422442***0221
+2040334130211324**2201
+2243414210410130**4313
+4130331222401204**1303
+3001324312200042141014
+3141423242324234124310
+0242120222124110112123
+2123432304422312121131
+4303403130113302133414
+1211111202342203430313
+4244133303333141242131
+2331234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [H6] in 92.45s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 121 on this move #####
+INPUT for random:
+22
+5
+299.92
+**21112****2101***3212
+1023144***33233***3423
+3013222*0*13211***1403
+0222211*3*12442***0221
+2040334010211324**2201
+2243414213210130**4313
+4130331233401204**1303
+3001324214400042141014
+3141423110324234124310
+0242120340124110112123
+2123432304422312121131
+4303403130113302133414
+1211111202342203430313
+4244133303333141242131
+2331234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [V12] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+22
+5
+128.98
+**21112****2101***321*
+1023144***33233***3422
+3013222*0*13211***1403
+0222211*3*12442***0223
+2040334010211324**2201
+2243414213210130**4311
+4130331233401204**1303
+3001324214400042141013
+3141423110324234124314
+0242120340124110112120
+2123432304422312121133
+4303403130113302133411
+1211111202342203430313
+4244133303333141242131
+2331234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [G17] in 61.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 144 on this move #####
+INPUT for random:
+22
+5
+299.89
+**2111******101***321*
+102314******233***3422
+301322******211***1403
+0222212*0*32442***0223
+2040334*3*131324**2201
+224341201*130130**4311
+4130331210221204**1303
+3001324233210042141013
+3141424213414234124314
+0242121114404110112120
+2123434340302312121133
+4303403300123302133411
+1211110134422203430313
+4244132200123141242131
+2331233302312214323134
+4221121203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q14] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+22
+5
+67.92
+**2111******101***321*
+102314******233***3422
+301322******211***1403
+0222212*0*32442***0223
+2040334*3*131324**2201
+224341201*130130**4311
+4130331210221204**1303
+3001324233210042*41013
+3141424213414234124314
+0242121114404110112120
+2123434340302312121133
+4303403300123302133411
+1211110134422203130313
+4244132200123141442131
+2331233302312214323134
+4221121203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [D20] in 59.34s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 121 on this move #####
+INPUT for random:
+22
+5
+299.86
+************101***321*
+**2**1******233***3422
+*02**4******211***1403
+1011122*0*32442***0223
+3223114*3*131324**2201
+004323201*130130**4311
+2242211210221204**1303
+2130334233210042*41013
+4003424213414234124314
+3140321114404110112120
+3241324340302312121133
+0121433300123302133411
+2302100134422203130313
+4213412200123141442131
+1243433302312214323134
+4331131203343221113443
+2224123021132133012021
+4141234033413103442222
+4331134234323331010042
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J22] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+22
+5
+8.58000000000001
+************101***321*
+**2**1******233***3422
+*02**4******211***1403
+1011122*0*32442***0223
+3223114*3*131324**2201
+004323201*130130**4311
+224221121*221204**1303
+2130334230210042*41013
+4003424213414234124314
+3140321113404110112120
+3241324344302312121133
+0121433300123302133411
+2302100130422203130313
+4213412204123141442131
+1243433300312214323134
+4331131202343221113443
+2224123023132133012021
+4141234031413103442222
+4331134233323331010042
+1422303234320220331140
+4220041342021132111222
+2424211003342422112041
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+kill -9  3158 14564 18568 26878 69442 135465 145663 148380 150145 150146 150147
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs cao896@usc.edu (O): game 10 ####################
+##### game start! #####
+INPUT for cao896@usc.edu:
+23
+4
+300
+10322011122130200122100
+21133212112202111113110
+21011213010313022202212
+11220312310312100333023
+02112212113123221212023
+11311121122313111011021
+12103013112223222230211
+11200222122121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [F8] in 68.4s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 625 on this move #####
+INPUT for random:
+23
+4
+300
+1**********130200122100
+2*3******2*202111113110
+20122****12313022202212
+110330**112312100333023
+012112*1110123221212023
+11120212010313111011021
+12312313323223222230211
+11111212112121232102110
+32203112122210223121312
+31300011112022211132332
+11011023123310133321132
+13112110012322012313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H11] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+231.6
+1**********130200122100
+2*3******2*202111113110
+20122****12313022202212
+110330**112312100333023
+012112**110123221212023
+11120211010313111011021
+12312312323223222230211
+11111213112121232102110
+32203112122210223121312
+31300012112022211132332
+11011021123310133321132
+13112110012322012313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [A4] in 61.22s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 169 on this move #####
+INPUT for random:
+23
+4
+299.97
+***********130200122100
+*********2*202111113110
+*********12313022202212
+**3*20**112312100333023
+1*1232**110123221212023
+2*031211010313111011021
+20210312323223222230211
+02322213112121232102110
+32203112122210223121312
+31300012112022211132332
+11011021123310133321132
+13112110012322012313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [U11] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+170.38
+***********13020012**00
+*********2*202111112110
+*********12313022203112
+**3*20**112312100332223
+1*1232**110123221213023
+2*031211010313111012021
+20210312323223222231011
+02322213112121232100210
+32203112122210223122112
+31300012112022211131332
+11011021123310133322332
+13112110012322012313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [O19] in 59.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 169 on this move #####
+INPUT for random:
+23
+4
+299.95
+***********13********00
+*********2*200*0****110
+*********12312*1*122112
+**3*20**112313220113223
+1*1232**110122101202023
+2*031211010313022333021
+20210312323223110212011
+02322213112123221011210
+32203112122211131230112
+31300012112020222102332
+11011021123312212121332
+13112110012320233132210
+22210331131312211323213
+12211201213020123311223
+21221212121301012033010
+32013320200211011321022
+00021113021123303322320
+12032113223111311213032
+01220321031110022211220
+31222223021221002322020
+23103022322311112113302
+13122102323121110021333
+21113212123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I8] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+110.94
+***********13********00
+***********200*0****110
+**********2312*1*122112
+**3*20***22313220113223
+1*1232***10122101202023
+2*03121**10313022333021
+20210311*13223110212011
+02322212112123221011210
+32203113122211131230112
+31300012022020222102332
+11011022323312212121332
+13112110012320233132210
+22210331131312211323213
+12211201213020123311223
+21221212121301012033010
+32013320200211011321022
+00021113021123303322320
+12032113223111311213032
+01220321031110022211220
+31222223021221002322020
+23103022322311112113302
+13122102323121110021333
+21113212123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [C19] in 51.16s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 144 on this move #####
+INPUT for random:
+23
+4
+299.93
+***********13********00
+***********200*0****110
+**********2312*1*122112
+*********22313220113223
+1***20***10122101202023
+2*3*32***10313022333021
+201212***13223110212011
+020303**112123221011210
+3221221*122211131230112
+31323111022020222102332
+11200012323312212121332
+13301013012320233132210
+22012112131312211323213
+12110322213020123311223
+21211210121301012033010
+32211231200211011321022
+00223301021123303322320
+12011112223111311213032
+01022120031110022211220
+31030313021221002322020
+23103013322311112113302
+13122101323121110021333
+21113213123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [R8] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+59.78
+***********13********00
+***********200*0****110
+**********2312*1**22112
+*********22313220113223
+1***20***10122101102023
+2*3*32***10313022233021
+201212***13223110312011
+020303**112123221211210
+3221221*122211131230112
+31323111022020222102332
+11200012323312212121332
+13301013012320233132210
+22012112131312211323213
+12110322213020123311223
+21211210121301012033010
+32211231200211011321022
+00223301021123303322320
+12011112223111311213032
+01022120031110022211220
+31030313021221002322020
+23103013322311112113302
+13122101323121110021333
+21113213123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [N20] in 48.4s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 144 on this move #####
+INPUT for random:
+23
+4
+299.91
+*********************00
+********************110
+**********213*****22112
+*********2220**00113223
+1***20***1031**11102023
+2*3*32***10310222233021
+201212***13122100312011
+020303**112313021211210
+3221221*122222111230112
+31323111022123222102332
+11200012323213132121332
+13301013012023223132210
+22012112131311211323213
+12110322213320233311223
+21211210121312212033010
+32211231200020121321022
+00223301021302013322320
+12011112223210011213032
+01022120031121302211220
+31030313021111312322020
+23103013322113022113302
+13122101323221000021333
+21113213123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I19] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for cao896@usc.edu:
+23
+4
+11.38
+*********************00
+********************110
+**********213*****22112
+*********2220**00113223
+1***20***1031**11102023
+2*3*32***10310222233021
+201212***13122100312011
+020303***12313021211210
+3221221**22222111230112
+3132311*122123222102332
+11200011123213132121332
+13301012012023223132210
+22012113331311211323213
+12110322013320233311223
+21211212121312212033010
+32211230200020121321022
+00223301121302013322320
+12011111223210011213032
+01022122031121302211220
+31030313221111312322020
+23103013322113022113302
+13122101323221000021333
+21113213123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  3158 6525 6526 6527 14564 18568 26878 69442 135465 145663 148380 150145
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs cao896@usc.edu (X): game 11 ####################
+##### game start! #####
+INPUT for random:
+25
+5
+300
+3230134313333142312011333
+2222010334430430422210211
+2013320413310403142333242
+3221342103213111132113131
+2100011422043111223031232
+2102322312041330131141312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [U6] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+25
+5
+300
+32301343133331423120*1333
+2222010334430430422210211
+2013320413310403142313242
+3221342103213111132133131
+2100011422043111223011232
+2102322312041330131131312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### cao896@usc.edu plays [I8] in 197.3s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### cao896@usc.edu scores 225 on this move #####
+INPUT for random:
+25
+5
+299.98
+32301343******423120*1333
+2222010313***130422210211
+2013320434***403142313242
+3221342113*3*411132133131
+210001140333*111223011232
+2102322322413130131131312
+2123212312310323241232312
+3223312024240410130214000
+3301243241043203303113103
+3224402321023023103221142
+0420012041121211321120122
+3131223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D12] in 0.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_cao896@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for cao896@usc.edu:
+25
+5
+102.7
+323*1343******423120*1333
+2220010313***130422210211
+2012320434***403142313242
+3223342113*3*411132133131
+210101140333*111223011232
+2100322322413130131131312
+2122212312310323241232312
+3223312024240410130214000
+3303243241043203303113103
+3221402321023023103221142
+0424012041121211321120122
+3130223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_cao896@usc.edu.txt -f "%U" java homework > /dev/null 2>&1 on cao896@usc.edu #####
+##### Killing cao896@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [java] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  3158 6525 14564 18568 21246 21247 21248 26878 69442 135465 145663 148380 150145
+##### GAME OVER: cao896@usc.edu ran over time limit by 12s #####
+
+
+########## GRAND WINNER ROUND 1 IS random BY 11 vs 0 GAMES ##########

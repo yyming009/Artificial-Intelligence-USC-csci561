@@ -1,0 +1,108 @@
+package homework;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.InputStream;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.Map;
+import java.util.Scanner;
+
+public class homework {
+	
+	static int numOfQuery;
+	static int numOfKb;
+	static String[] query;
+	static String[] kb;
+	
+	static LinkedList<Map<String, LinkedList<String>>> compareList = new LinkedList();
+
+	public static void main(String[] args) {
+		
+		String pathName = "input.txt";
+		File file = new File(pathName);		
+		
+		Scanner input = null;
+		try {
+			input = new Scanner(file);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		
+		//get the number of queries
+		numOfQuery = Integer.parseInt(input.nextLine());
+		query = new String[numOfQuery];
+		//store each query of each line into query array
+		for (int i = 0; i < numOfQuery && input.hasNextLine(); ++i) {
+			query[i] = input.nextLine();
+			//System.out.println(query[j]);
+		}
+
+		//get the number of kb
+		numOfKb = Integer.parseInt(input.nextLine());
+		kb = new String[numOfKb];
+		//store each kb of each line into query array
+		for(int j = 0; j < numOfKb && input.hasNextLine(); ++j) { 
+		    kb[j] = input.nextLine();
+			//System.out.println(kb[j]);
+		}
+
+		for (int j = 0; j < numOfKb; ++j) {
+			bulidSearchMap(kb[j]);
+		}
+	}
+	
+	private static void bulidSearchMap(String qry) {
+		String s = "";
+		for (int i = 0; i < qry.length(); ++i) {
+			if (qry.charAt(i) != ' ') {
+				s += (qry.charAt(i));
+			}
+		}
+		//System.out.println(s);
+		
+		Map<String, LinkedList<String>> tempMap = new HashMap();
+		
+		String[] orDivide = s.split("\\|");
+		for (int i = 0; i < orDivide.length; ++i) {
+			String sep = orDivide[i];
+			char[] char_sep = sep.toCharArray();
+			LinkedList<String> tempList;
+			
+			String key="";
+			for (char ch : char_sep) {
+				if (ch == '(') {
+					break;
+				}
+				key += ch;
+			}
+			
+			if(tempMap.containsKey(key)){
+				tempList = tempMap.get(key);
+				tempList.add(sep);
+			}
+			else{
+				tempList =new LinkedList();
+				tempList.add(sep);
+				tempMap.put(key,tempList);
+			}
+		}
+		compareList.add(tempMap);
+		System.out.println(compareList);
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

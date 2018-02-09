@@ -1,0 +1,4588 @@
+#################### ROUND 1: random (X) vs ngolesta@usc.edu (O): game 1 ####################
+##### game start! #####
+INPUT for ngolesta@usc.edu:
+12
+4
+300
+122212302012
+212101031132
+021322232133
+231323021111
+210012222021
+322303002200
+210210013222
+333111322322
+231101000221
+312113012122
+220121222032
+112332202102
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [H4] in 126.24s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 324 on this move #####
+INPUT for random:
+12
+4
+300
+12221*******
+2121023*****
+021321002***
+2313222310**
+21001303211*
+322303001132
+210210013132
+333111322013
+231101000321
+312113012101
+220121222030
+112332202101
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 100 on this move #####
+INPUT for ngolesta@usc.edu:
+12
+4
+173.76
+12**********
+212***3*****
+022***002***
+231*122310**
+21120103211*
+320122001132
+212323013132
+330313322013
+233000000321
+312303012101
+220221222030
+112332202101
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [I10] in 98.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 49 on this move #####
+INPUT for random:
+12
+4
+299.95
+12**********
+212*********
+022*********
+231*1*30*0**
+21120203*11*
+320121232132
+212322001132
+330313012013
+233003021321
+312300303101
+220223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+12
+4
+75.7
+12**********
+212*********
+022*********
+231***30*0**
+211***03*11*
+320212232132
+212101001132
+330322012013
+233323021321
+312313303101
+220223012030
+112331000101
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### Killing ngolesta@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  128716 128726 128735
+##### GAME OVER: ngolesta@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (O) vs ngolesta@usc.edu (X): game 2 ####################
+##### game start! #####
+INPUT for random:
+13
+7
+300
+3442354244513
+1303311323531
+2434212101525
+4653455155046
+5321056536011
+5525231546151
+2451323433203
+2103223532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E8] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+13
+7
+300
+3442**4244513
+13033*1323531
+2434352101525
+4653215155046
+5321416536011
+5525051546151
+2451253433203
+2103333532511
+6223431611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [G7] in 157.75s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 49 on this move #####
+INPUT for random:
+13
+7
+299.96
+344****244513
+130****323531
+24323*4101525
+46533*1155046
+5324252536011
+5523415546151
+2451016433203
+2105251532511
+6221451611455
+6454515323163
+2056131463105
+2423243254531
+1333263040436
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+13
+7
+142.25
+3******244513
+144****323531
+230*3*4101525
+443*3*1155046
+5652252536011
+5323415546151
+2524016433203
+2453251532511
+6101451611455
+6225515323163
+2451131463105
+2054243254531
+1426263040436
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### Killing ngolesta@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+kill -9  126053 126061 126069 128716
+##### GAME OVER: ngolesta@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs ngolesta@usc.edu (O): game 3 ####################
+##### game start! #####
+INPUT for ngolesta@usc.edu:
+20
+5
+300
+22134113013333023311
+34300430203323211434
+41141222332103434314
+21320232421024421332
+32113311431430432212
+23313212331211021131
+11213313233301101121
+21031023130142412322
+20211322321223303234
+03322213111003202200
+13440434142302213414
+42342023101042103441
+40323210344442222323
+11034332131223121102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [O10] in 29.67s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 81 on this move #####
+INPUT for random:
+20
+5
+300
+2213411301333****311
+3430043020332***3434
+4114122233210**21314
+21320232421023014332
+32113311431433231212
+23313212331213422131
+11213313233304431121
+21031023130140421322
+20211322321221002234
+03322213111001113200
+13440434142302402414
+42342023101043303441
+40323210344443113323
+11034332131223101102
+01303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+270.33
+**13411301333****311
+2*30043020332***3434
+3214122233210**21314
+44320232421023014332
+21113311431433231212
+31313212331213422131
+22213313233304431121
+13031023130140421322
+21211322321221002234
+21322213111001113200
+00440434142302402414
+13342023101043303441
+43323210344443113323
+42034332131223101102
+00303112212401111023
+33132131310122202202
+42324141320233222313
+21133431321140322410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [M16] in 28.85s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+20
+5
+299.96
+**1341130133******11
+2*30043020333****334
+3214122233212****414
+4432023242100****332
+21113311431423*23312
+31313212331233011231
+22213313233313234121
+13031023130104421122
+21211322321240432334
+21322213111021421200
+00440434142301001214
+13342023101002112441
+43323210344443403423
+42034332131243302302
+00303112212423113123
+33132131310101103002
+42324141320233111313
+21133431321140301410
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [T18] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+241.48
+**1341130133******1*
+2*30043020333****331
+3214122233212****414
+4432023242100****334
+21113311431423*23312
+31313212331233011232
+22213313233313234121
+13031023130104421121
+21211322321240432332
+21322213111021421204
+00440434142301001210
+13342023101002112444
+43323210344443403421
+42034332131243302303
+00303112212423113122
+33132131310101103003
+42324141320233111312
+21133431321140301413
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [Q14] in 28.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 1 on this move #####
+INPUT for random:
+20
+5
+299.91
+**1341130133******1*
+2*30043020333****331
+3214122233212****414
+4432023242100****334
+21113311431423*2*312
+31313212331233013232
+22213313233313231121
+13031023130104424121
+21211322321240431332
+21322213111021422204
+00440434142301001210
+13342023101002111444
+43323210344443402421
+42034332131243303303
+00303112212423113122
+33132131310101103003
+42324141320233111312
+21133431321140301413
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E17] in 0.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+213.44
+**13*1130133******1*
+2*30443020333****331
+3214022233212****414
+4432123242100****334
+21110311431423*2*312
+31313212331233013232
+22213313233313231121
+13033023130104424121
+21211322321240431332
+21321213111021422204
+00442434142301001210
+13340023101002111444
+43322210344443402421
+42033332131243303303
+00304112212423113122
+33133131310101103003
+42322141320233111312
+21133431321140301413
+44241311221232331132
+33123241104421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [H16] in 36.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 49 on this move #####
+INPUT for random:
+20
+5
+299.85
+**13*1***133******1*
+2*30441*00333****331
+3214023*23212****414
+4432122*32100****334
+2111033*431423*2*312
+31313213431233013232
+22213310333313231121
+13033012230104424121
+21211322121240431332
+21321221311021422204
+00442412142301001210
+13340033101002111444
+43322223144443402421
+42033312331243303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [R12] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+177.4
+**13*1***133********
+2*30441*00333*****1*
+3214023*23212*****31
+4432122*32100****314
+2111033*431423*2*434
+31313213431233013312
+22213310333313231332
+13033012230104424221
+21211322121240431121
+21321221311021422132
+00442412142301001304
+13340033101002111210
+43322223144443402221
+42033312331243303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [B5] in 33.67s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 36 on this move #####
+INPUT for random:
+20
+5
+299.8
+*****1***133********
+2*1*441*00333*****1*
+3*3*023*23212*****31
+4*13122*32100****314
+2230033*431423*2*434
+34343213431233013312
+22223310333313231332
+13033012230104424221
+21211322121240431121
+21321221311021422132
+00442412142301001304
+13340033101002111210
+43322223144443402221
+42033312331243303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O12] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+143.73
+*****1***133********
+2*1*441*00333*****1*
+3*3*023*23212*****31
+4*13122*32100****314
+2230033*431423***434
+34343213431233*2*312
+2222331033331301*332
+13033012230104233221
+21211322121240421121
+21321221311021434132
+00442412142301421304
+13340033101002002210
+43322223144443402221
+42033312331243303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [J5] in 32.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 49 on this move #####
+INPUT for random:
+20
+5
+299.76
+*****1**************
+2*1*441***333*****1*
+3*3*023*0*332*****31
+4*13122*2*210****314
+2230033*311023***434
+34343213401433*2*312
+2222331043121301*332
+13033012220104233221
+21211322121240421121
+21321221311021434132
+00442412142301421304
+13340033101002002210
+43322223144443402221
+42033312331243303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E3] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+111.69
+*****1**************
+2*1**41***333*****1*
+3*3*423*0*332*****31
+4*13122*2*210****314
+2230033*311023***434
+34343213401433*2*312
+2222331043121301*332
+13033012220104233221
+21211322121240421121
+21321221311021434132
+00442412142301421304
+13340033101002002210
+43322223144443402221
+42033312331243303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [J13] in 30.92s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 25 on this move #####
+INPUT for random:
+20
+5
+299.71
+*****1**************
+2*1**41***********1*
+3*3*423*0*33******31
+4*13122*2*333****314
+2230033*3*2123***434
+34343213411003*2*312
+2222331040142301*332
+13033012231234233221
+21211322120110421121
+21321221321201434132
+00442412111041421304
+13340033142322002210
+43322223101003402221
+42033312331203303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P7] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+80.77
+*****1**************
+2*1**41***********1*
+3*3*423*0*33******31
+4*13122*2*333****314
+2230033*3*2123***434
+34343213411003***312
+2222331040142302*332
+13033012231234233221
+21211322120110421121
+21321221321201434132
+00442412111041421304
+13340033142322002210
+43322223101003402221
+42033312331203303303
+00304133112423113122
+33133114210101103003
+42322133320233111312
+21133440321140301413
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [R18] in 30.56s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 1 on this move #####
+INPUT for random:
+20
+5
+299.66
+*****1**************
+2*1**41***********1*
+3*3*423*0*33******31
+4*13122*2*333*****14
+2230033*3*2123***334
+34343213411003***412
+2222331040142302*332
+13033012231234233321
+21211322120110421221
+21321221321201434132
+00442412111041421104
+13340033142322002310
+43322223101003402221
+42033312331203303203
+00304133112423113322
+33133114210101103103
+42322133320233111012
+21133440321140301313
+44241332321232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I19] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 25 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+50.21
+*****1**************
+2*1**4************1*
+3*3*421***33******31
+4*13123***333*****14
+2230032***2123***334
+3434323*011003***412
+2222331320142302*332
+13033010331234233321
+21211312420110421221
+21321222421201434132
+00442421211041421104
+13340012142322002310
+43322233301003402221
+42033323131203303203
+00304112112423113322
+33133133110101103103
+42322114320233111012
+21133440121140301313
+44241332221232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [E6] in 30.09s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 25 on this move #####
+INPUT for random:
+20
+5
+299.62
+********************
+2*1**1************1*
+3*3**41***33******31
+4*1**23***333*****14
+2233*22***2123***334
+3430433*011003***412
+2224121320142302*332
+13020010331234233321
+21211312420110421221
+21321222421201434132
+00442421211041421104
+13340012142322002310
+43322233301003402221
+42033323131203303203
+00304112112423113322
+33133133110101103103
+42322114320233111012
+21133440121140301313
+44241332221232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L9] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+20.12
+********************
+2*1**1************1*
+3*3**41***3*******31
+4*1**23***33******14
+2233*22***2333***334
+3430433*011123***412
+2224121320100302*332
+13020010331424233321
+21211312420230421221
+21321222421201434132
+00442421211041421104
+13340012142322002310
+43322233301003402221
+42033323131203303203
+00304112112423113322
+33133133110101103103
+42322114320233111012
+21133440121140301313
+44241332221232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [K3] in 7.89s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+20
+5
+299.58
+********************
+2*1**1************1*
+3*3**41***********31
+4*1**23***********14
+2233*22***2******334
+3430433*01112****412
+2224121320100*02*332
+13020010331424233321
+21211312420230421221
+21321222421201434132
+00442421211041421104
+13340012142322002310
+43322233301003402221
+42033323131203303203
+00304112112423113322
+33133133110101103103
+42322114320233111012
+21133440121140301313
+44241332221232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N14] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+12.23
+********************
+2*1**1************1*
+3*3**41***********31
+4*1**23***********14
+2233*22***2******334
+3430433*01112****412
+2224121320100**2*332
+1302001033142*033321
+2121131242023*221221
+2132122242120*434132
+00442421211044421104
+13340012142320402310
+43322233301001002221
+42033323131201403203
+00304112112422113322
+33133133110101103103
+42322114320233111012
+21133440121140301313
+44241332221232331132
+33123242204421321210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [O15] in 7.26s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 121 on this move #####
+INPUT for random:
+20
+5
+299.53
+********************
+2*1**1************1*
+3*3**41***********31
+4*1**23***********14
+2233*22***2*******34
+3430433*01112****312
+2224121320100****432
+1302001033142****321
+2121131242023**2*321
+2132122242120**3*232
+0044242121104*02*104
+13340012142324233110
+43322233301000421321
+42033323131201404203
+00304112112421401222
+33133133110102002303
+42322114320233402112
+21133440121140303013
+44241332221232333332
+33123242204421323210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [M18] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+4.97000000000002
+********************
+2*1**1************1*
+3*3**41***********31
+4*1**23***********14
+2233*22***2*******34
+3430433*0111*****312
+2224121320102****432
+1302001033140****321
+2121131242022**2*321
+2132122242123**3*232
+0044242121100*02*104
+13340012142344233110
+43322233301020421321
+42033323131201404203
+00304112112401401222
+33133133110122002303
+42322114320203402112
+21133440121130303013
+44241332221232333332
+33123242204421323210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [O18] in 7.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 81 on this move #####
+INPUT for random:
+20
+5
+299.48
+********************
+2*1**1**************
+3*3**41***********11
+4*1**23***********34
+2233*22***2*******14
+3430433*0111******32
+2224121320102****312
+1302001033140****431
+2121131242022****321
+2132122242123**2*322
+0044242121100**3*234
+13340012142344*2*100
+43322233301020*3*111
+4203332313120102*323
+00304112112401203202
+33133133110122401223
+42322114320203404302
+21133440121130401113
+44241332221232002012
+33123242204421422210
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+20
+5
+-2.46999999999998
+********************
+2*1*****************
+3*3**11***********11
+4*1**43***********34
+223**22***2*******14
+3433*23*0111******32
+2220431320102****312
+1304121033140****431
+2122001242022****321
+2131132242123**2*322
+0042122121100**3*234
+13342412142344*2*100
+43340033301020*3*111
+4203332313120102*323
+00304112112401203202
+33133133110122401223
+42322114320203404302
+21133440121130401113
+44241332221232002012
+33123242204421422210
+
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### GAME OVER: ngolesta@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs ngolesta@usc.edu (X): game 4 ####################
+##### game start! #####
+INPUT for random:
+11
+5
+300
+33122210301
+42013222100
+33230103234
+32242211422
+23221130133
+43330243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C6] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+11
+5
+300
+3***2210301
+4*123222100
+33010103234
+32232211422
+23241130133
+42220243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [E1] in 98.74s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 25 on this move #####
+INPUT for random:
+11
+5
+299.96
+3*******301
+4*123*10100
+33010103234
+32232211422
+23241130133
+42220243111
+20123123133
+14322432123
+22423241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B6] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 100 on this move #####
+INPUT for ngolesta@usc.edu:
+11
+5
+201.26
+3*******301
+4*****10100
+3***3103234
+3***0211422
+231*2130133
+43021243111
+20110123133
+14333432123
+22443241130
+01313311241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [I5] in 76.17s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+11
+5
+299.91
+3**********
+4********01
+3***311**00
+3***0200*34
+231*2113*22
+43021231333
+20110140133
+14333423223
+22443233430
+01313342241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+11
+5
+125.09
+3**********
+4********01
+3***311**00
+3***0200*34
+231*2113*22
+43021231*33
+20110140333
+14333423223
+22443233430
+01313342241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [C8] in 66s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 36 on this move #####
+INPUT for random:
+11
+5
+299.87
+3**********
+4********01
+3*****1**00
+3****100*34
+23***213*22
+431*3131*33
+20020240333
+14112123223
+22441433430
+01310242241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B8] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+11
+5
+59.09
+3**********
+4********01
+3*****1**00
+3****100*34
+2****213*22
+431*3131*33
+23020240333
+10112123223
+22441433430
+01310242241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [J6] in 62.93s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 36 on this move #####
+INPUT for random:
+11
+5
+299.83
+3**********
+4**********
+3*****1****
+3****100*0*
+2****213*01
+431*3131*30
+23020240*24
+10112123222
+22441433430
+01310242241
+34244123113
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G4] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for ngolesta@usc.edu:
+11
+5
+-3.84000000000001
+3**********
+4**********
+3**********
+3****11**0*
+2****213*01
+431*3131*30
+23020240*24
+10112123222
+22441433430
+01310242241
+34244123113
+
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### GAME OVER: ngolesta@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs ngolesta@usc.edu (O): game 5 ####################
+##### game start! #####
+INPUT for ngolesta@usc.edu:
+23
+4
+300
+31121210112330212111231
+13121121123003212311321
+11203320212330301211201
+32202212223222111113032
+00322132210132112100211
+23322222221122222202000
+12201222120122101212011
+10212130121310101113221
+02122122132233330333111
+22000221333322331120100
+32222310312211132103221
+11121112323223221122133
+11120120313233211200112
+31222210223011112113122
+21221000201200310022123
+21212102131331001011211
+12222232122121331110113
+33211112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [B9] in 38.1s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 529 on this move #####
+INPUT for random:
+23
+4
+300
+******10112330212111231
+3*****21123003212311321
+1****220212330301211201
+1****112223222111113032
+31**1332210132112100211
+03**1222221122222202000
+21123122120122101212011
+12122230121310101113221
+10202222132233330333111
+03202121333322331120100
+32321110312211132103221
+10322212323223221122133
+11202320313233211200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E8] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 100 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+261.9
+********112330212111231
+3******0123003212311321
+1*****11212330301211201
+1*****20223222111113032
+31***222210132112100211
+03***112221122222202000
+211**332120122101212011
+121*1222121310101113221
+10201120132233330333111
+03203131333322331120100
+32321110312211132103221
+10322212323223221122133
+11202320313233211200112
+31210110223011112113122
+21121100201200310022123
+21000002131331001011211
+11111132122121331110113
+33111112112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [A12] in 36.57s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 324 on this move #####
+INPUT for random:
+23
+4
+299.95
+********112330212111231
+*******0123003212311321
+*******1212330301211201
+******10223222111113032
+3*****22210132112100211
+1*****22221122222202000
+1****212120122101212011
+3****132121310101113221
+0****320132233330333111
+211*1221333322331120100
+13101130312211132103221
+11203112323223221122133
+02221110313233211200112
+30322220223011112113122
+33302310201200310022123
+22210102131331001011211
+20221102122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N9] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+225.33
+********1123****2111231
+*******0123030**2311321
+*******12123032*1211201
+******10223230211113032
+3*****22210122312100211
+1*****22221132102202000
+1****212120122111212011
+3****132121322211113221
+0****320132210120333111
+211*1221333322101120100
+13101130312211102103221
+11203112323223221122133
+02221110313233211200112
+30322220223011112113122
+33302310201200310022123
+22210102131331001011211
+20221102122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [I3] in 35.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 196 on this move #####
+INPUT for random:
+23
+4
+299.9
+**********23****2111231
+**********3030**2311321
+**********23032*1211201
+**********3230211113032
+3*******110122312100211
+1*****10121132102202000
+1****211110122111212011
+3****130111322211113221
+0****320132210120333111
+211*1221333322101120100
+13101130312211102103221
+11203112323223221122133
+02221110313233211200112
+30322220223011112113122
+33302310201200310022123
+22210102131331001011211
+20221102122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G15] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+189.89
+**********23****2111231
+**********3030**2311321
+**********23032*1211201
+**********3230211113032
+3*******110122312100211
+1******0121132102202000
+1****211110122111212011
+3****110111322211113221
+0****330132210120333111
+211*1221333322101120100
+13101120312211102103221
+11203132323223221122133
+02221110313233211200112
+30322210223011112113122
+33302320201200310022123
+22210102131331001011211
+20221102122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [R1] in 33.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 196 on this move #####
+INPUT for random:
+23
+4
+299.87
+**********23********231
+**********3030******321
+**********23032*2***201
+**********32302*23*3032
+3*******1101223*2200211
+1******0121132102202000
+1****211110122111212011
+3****110111322211113221
+0****330132210120333111
+211*1221333322101120100
+13101120312211102103221
+11203132323223221122133
+02221110313233211200112
+30322210223011112113122
+33302320201200310022123
+22210102131331001011211
+20221102122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G17] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+156.83
+**********23********231
+**********3030******321
+**********23032*2***201
+**********32302*23*3032
+3*******1101223*2200211
+1******0121132102202000
+1****2*1110122111212011
+3****1*0111322211113221
+0****310132210120333111
+211*1211333322101120100
+13101130312211102103221
+11203122323223221122133
+02221120313233211200112
+30322230223011112113122
+33302310201200310022123
+22210112131331001011211
+20221122122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [Q10] in 32.87s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 144 on this move #####
+INPUT for random:
+23
+4
+299.83
+**********23********231
+**********30********321
+**********2330******201
+**********32032****3032
+3*******1101302***00211
+1******01211223*2*02000
+1****2*11101321*2312011
+3****1*01113221*2213221
+0****310132222202233111
+211*1211333310111220100
+13101130312222111103221
+11203122323211120322133
+02221120313223202200112
+30322230223033202113122
+33302310201200320022123
+22210112131331001011211
+20221122122121331110113
+33000032112211311022222
+11002221121122303110131
+21122122032312113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N19] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+123.96
+**********23********231
+**********30********321
+**********23********201
+**********323*2****3032
+3*******1101002***00211
+1******01211333*2*02000
+1****2*11101201*2312011
+3****1*01113321*2213221
+0****310132222202233111
+211*1211333322111220100
+13101130312212111103221
+11203122323220120322133
+02221120313212202200112
+30322230223021202113122
+33302310201233320022123
+22210112131303001011211
+20221122122130331110113
+33000032112221311022222
+11002221121111303110131
+21122122032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [J9] in 31.81s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+23
+4
+299.78
+********************231
+**********23********321
+**********30********201
+**********233*2****3032
+3*********32002***00211
+1******0**01333*2*02000
+1****2*1*111201*2312011
+3****1*0*201321*2213221
+0****310111322202233111
+211*1211112222111220100
+13101130112212111103221
+11203122123220120322133
+02221120113212202200112
+30322230223021202113122
+33302310201233320022123
+22210112131303001011211
+20221122122130331110113
+33000032112221311022222
+11002221121111303110131
+21122122032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D18] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+92.15
+********************231
+**********23********321
+**********30********201
+**********233*2****3032
+3*********32002***00211
+1******0**01333*2*02000
+1******1*111201*2312011
+3****2*0*201321*2213221
+0****110111322202233111
+21***311112222111220100
+13**1230112212111103221
+111*1122123220120322133
+02103120113212202200112
+30201130223021202113122
+33222210201233320022123
+22322312131303001011211
+20300122122130331110113
+33211132112221311022222
+11222221121111303110131
+21122122032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [Q16] in 40.88s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+23
+4
+299.73
+********************231
+**********23********321
+**********30********201
+**********233*2*****032
+3*********32002****3211
+1******0**01333****0000
+1******1*111201***02011
+3****2*0*201321**302221
+0****1101113222*2213111
+21***311112222102213100
+13**1230112212112230221
+111*1122123220112123133
+02103120113212221302112
+30201130223021201220122
+33222210201233300103123
+22322312131303022012211
+20300122122130302020113
+33211132112221330022222
+11222221121111303110131
+21122122032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [U15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 25 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+51.27
+**********************1
+**********23*********31
+**********30*********21
+**********233*2******02
+3*********32002****3231
+1******0**01333****0310
+1******1*111201***02201
+3****2*0*201321**302011
+0****1101113222*2213221
+21***311112222102213010
+13**1230112212112230001
+111*1122123220112123223
+02103120113212221302132
+30201130223021201220122
+33222210201233300103223
+22322312131303022012211
+20300122122130302020113
+33211132112221330022222
+11222221121111303110131
+21122122032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [C18] in 42.54s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+23
+4
+299.69
+**********************1
+**********23*********31
+**********30*********21
+**********233*2******02
+3*********32002****3231
+1*********01333****0310
+1******0*111201***02201
+3******1*201321**302011
+0****2*01113222*2213221
+21***1*0112222102213010
+13***311112212112230001
+11***210123220112123223
+02**1132113212221302132
+301*1120223021201220122
+33103120201233300103223
+22201230131303022012211
+20222312122130302020113
+33322112112221330022222
+11300122121111303110131
+21111131032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [V16] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+8.72999999999998
+***********************
+**********23**********1
+**********30**********1
+**********233*2******31
+3*********32002****3*22
+1*********01333****0201
+1******0*111201***02330
+3******1*201321**302211
+0****2*01113222*2213001
+21***1*0112222102213211
+13***311112212112230020
+11***210123220112123011
+02**1132113212221302203
+301*1120223021201220122
+33103120201233300103132
+22201230131303022012223
+20222312122130302020223
+33322112112221330022222
+11300122121111303110131
+21111131032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [I9] in 10.35s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 169 on this move #####
+INPUT for random:
+23
+4
+299.64
+***********************
+***********3**********1
+**********20**********1
+**********333*2******31
+3*********22002****3*22
+1*********31333****0201
+1*********01201***02330
+3******0**11321**302211
+0****2*1**03222*2213001
+21***1*0**2222102213211
+13***3*0*12212112230020
+11***2*0*23220112123011
+02**1132*23212221302203
+301*1120223021201220122
+33103120201233300103132
+22201230131303022012223
+20222312122130302020223
+33322112112221330022222
+11300122121111303110131
+21111131032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+-1.62000000000002
+***********************
+***********3**********1
+**********20**********1
+**********333*2******31
+3*********22002****3*22
+1*********31333****0201
+1*********01201***02330
+3*********11321**302211
+0****2****03222*2213001
+21***1****2222102213211
+13***3*0*12212112230020
+11***2*1*23220112123011
+02**1130*23212221302203
+301*1120223021201220122
+33103120201233300103132
+22201232131303022012223
+20222312122130302020223
+33322112112221330022222
+11300122121111303110131
+21111131032311113302101
+13303130132311301102122
+11210212311121210112132
+20120213330122122322013
+
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### GAME OVER: ngolesta@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs ngolesta@usc.edu (X): game 6 ####################
+##### game start! #####
+INPUT for random:
+16
+3
+300
+2021111101212121
+1210122122101112
+1201121211112212
+2121200112111200
+1111120021022111
+1211001111111112
+2121220112220011
+1111122011012111
+1111112100200012
+0110010121111100
+2102102201122220
+0211122111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F12] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+16
+3
+300
+20211***01212121
+121011*122101112
+1201121111112212
+2121222212111200
+1111101121022111
+1211020011111112
+2121200112220011
+1111121111012111
+1111120000200012
+0110012121111100
+2102112101122220
+0211100111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [D1] in 146.35s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 961 on this move #####
+INPUT for random:
+16
+3
+299.95
+********01212121
+*******122101112
+*****21111112212
+*****22212111200
+2****01121022111
+1*2**20011111112
+1*1*200112220011
+200*021111012111
+2220220000200012
+0220012121111100
+2202112101122220
+0211100111001021
+2020010011102121
+1102011221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+16
+3
+153.65
+********01212121
+*******122101112
+*****21111112212
+*****22212111200
+2****01121022111
+1*2**20011111112
+1*1**00112220011
+200**21111012111
+222*220000200012
+0220012121111100
+2200212101122220
+0212000111001021
+2021110011102121
+1102111221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [J5] in 121.47s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 529 on this move #####
+INPUT for random:
+16
+3
+299.91
+****************
+**********212***
+*****2****101***
+*****211011121*1
+2****021221111*2
+1*2**21211022222
+1*1**00112220210
+200**20022012012
+222*220000200002
+0220012121111100
+2200212101122220
+0212000111001021
+2021110011102121
+1102111221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F7] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 64 on this move #####
+INPUT for ngolesta@usc.edu:
+16
+3
+32.18
+****************
+**********212***
+**********101***
+*****2****1121*1
+2****2**011111*2
+1*2**0*122022222
+1*1**21111220210
+200**22212012012
+222*221122200002
+0220012121111100
+2200212101122220
+0212000111001021
+2021110011102121
+1102111221110210
+1110212111012012
+0022010110101112
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### Killing ngolesta@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  121416 121420 121459 126053 128716
+##### GAME OVER: ngolesta@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs ngolesta@usc.edu (O): game 7 ####################
+##### game start! #####
+INPUT for ngolesta@usc.edu:
+24
+4
+300
+223112331223322130102230
+110231320011021111321212
+032211201231000122122000
+111221121121130322112132
+022221011113120011222202
+123202222222321321012120
+112322233203211212322230
+000202231102011122020230
+212222022101321122231201
+121012311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [F6] in 60s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 361 on this move #####
+INPUT for random:
+24
+4
+300
+22**********322130102230
+113****31*23021111321212
+03011**20211000122122000
+11223*301031130322112132
+02121*321221120011222202
+122222211113321321012120
+113221133103211212322230
+002201031102011122020230
+210301022101321122231201
+121011311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [P3] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+240
+22**********32****102230
+113****31*23022*30321212
+03011**20211000*22122000
+11223*301031130322112132
+02121*321221120011222202
+122222211113321321012120
+113221133103211212322230
+002201031102011122020230
+210301022101321122231201
+121011311133112122123310
+201223302103311322223202
+322223110312201230313322
+202103032311313210112212
+210202321033231121223221
+012202212222101312211111
+102012323103123030002312
+220312323312211323120122
+302122221211211201222203
+112111212223211101112231
+201113012332122333113133
+112312200212032321110213
+031111213200212120113301
+112321120113130120120210
+220003122221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [D18] in 57.29s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 225 on this move #####
+INPUT for random:
+24
+4
+299.96
+22**********32****102230
+11*****31*23022*30321212
+03*****20211000*22122000
+113****01031130322112132
+020****21221120011222202
+122***311113321321012120
+11111*333103211212322230
+00223*231102011122020230
+213212122101321122231201
+122221011133112122123310
+200221002103311322223202
+321201310312201230313322
+201301332311313210112212
+212013121033231121223221
+012223012222101312211111
+100223323103123030002312
+222102223312211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [U6] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 225 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+182.71
+22**********32********30
+11*****31*23022*301***12
+03*****20211000*223***00
+113****010311303221***32
+020****212211200111**202
+122***311113321321002220
+11111*333103211212311030
+00223*231102011122010130
+213212122101321122231101
+122221011133112122123310
+200221002103311322223202
+321201310312201230313322
+201301332311313210112212
+212013121033231121223221
+012223012222101312211111
+100223323103123030002312
+222102223312211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [I4] in 52.16s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 196 on this move #####
+INPUT for random:
+24
+4
+299.91
+22**********32********30
+11*********3022*301***12
+03********21000*223***00
+113****3**111303221***32
+020****2**311200111**202
+122***30**23321321002220
+11111*321*03211212311030
+00223*230*02011122010130
+213212133201321122231101
+122221022033112122123310
+200221002203311322223202
+321201310312201230313322
+201301332311313210112212
+212013121033231121223221
+012223012222101312211111
+100223323103123030002312
+222102223312211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [I16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+130.55
+22**********32********30
+11*********3022*301***12
+03********21000*223***00
+113****3**111303221***32
+020****2**311200111**202
+122***30**23321321002220
+11111*32**03211212311030
+00223*23**02011122010130
+213212131*01321122231101
+122221020233112122123310
+200221003003311322223202
+321201312212201230313322
+201301332311313210112212
+212013120333231121223221
+012223012022101312211111
+100223321203123030002312
+222102222112211323120122
+302202321211211201222203
+110202312223211101112231
+202012212332122333113133
+112312200212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [H16] in 51.73s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 144 on this move #####
+INPUT for random:
+24
+4
+299.87
+22**********32********30
+11*********3022*301***12
+03********21000*223***00
+113*******111303221***32
+020*******311200111**202
+122*******23321321002220
+11111**3**03211212311030
+00223**2**02011122010130
+21321*30**01321122231101
+12222*321233112122123310
+20022*230003311322223202
+32120*133212201230313322
+20130*022311313210112212
+212012002333231121223221
+012221310022101312211111
+100221332203123030002312
+222101121112211323120122
+302201011211211201222203
+110203312223211101112231
+202013312332122333113133
+112313300212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+78.82
+22**********32********30
+11**********022*301***12
+03*********3000*223***00
+113********11303221***32
+020*******211200111**202
+122*******11321321002220
+11111**3**33211212311030
+00223**2**23011122010130
+21321*30**02321122231101
+12222*321201112122123310
+20022*230003311322223202
+32120*133233201230313322
+20130*022302313210112212
+212012002333231121223221
+012221310022101312211111
+100221332203123030002312
+222101121112211323120122
+302201011211211201222203
+110203312223211101112231
+202013312332122333113133
+112313300212032321110213
+032323013200212120113301
+112322220113130120120210
+220003222221212120131231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [R18] in 16.98s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 169 on this move #####
+INPUT for random:
+24
+4
+299.83
+22**********32********30
+11**********022*3*****12
+03*********3000*2*****00
+113********113032*****32
+020*******21120010***202
+122*******11321322**2220
+11111**3**33211212**1030
+00223**2**230111211*0130
+21321*30**023211213*1101
+12222*321201112122103310
+20022*230003311322113202
+32120*133233201232013322
+20130*022302313212332212
+212012002333231122023221
+012221310022101310221111
+100221332203123030112312
+222101121112211321210122
+302201011211211202322203
+110203312223211100112231
+202013312332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [W13] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+61.84
+22**********32*********0
+11**********022*3*****32
+03*********3000*2*****10
+113********113032*****02
+020*******21120010***232
+122*******11321322**2200
+11111**3**33211212**1020
+00223**2**230111211*0130
+21321*30**023211213*1131
+12222*321201112122103300
+20022*230003311322113212
+32120*133233201232013302
+20130*022302313212332222
+212012002333231122023221
+012221310022101310221111
+100221332203123030112312
+222101121112211321210122
+302201011211211202322203
+110203312223211100112231
+202013312332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [C8] in 16.57s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+24
+4
+299.78
+2***********32*********0
+12**********022*3*****32
+01*********3000*2*****10
+13*********113032*****02
+01********21120010***232
+123*******11321322**2200
+120****3**33211212**1020
+012****2**230111211*0130
+201*1*30**023211213*1131
+113*3*321201112122103300
+200*1*230003311322113212
+32110*133233201232013302
+20130*022302313212332222
+212012002333231122023221
+012221310022101310221111
+100221332203123030112312
+222101121112211321210122
+302201011211211202322203
+110203312223211100112231
+202013312332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [W16] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+45.27
+2***********32**********
+12**********022*3*******
+01*********3000*2******0
+13*********113032*****32
+01********21120010****10
+123*******11321322***202
+120****3**33211212**2232
+012****2**230111211*1000
+201*1*30**023211213*0120
+113*3*321201112122101130
+200*1*230003311322113331
+32110*133233201232013200
+20130*022302313212333312
+212012002333231122022202
+012221310022101310223222
+100221332203123030112322
+222101121112211321210122
+302201011211211202322203
+110203312223211100112231
+202013312332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [X13] in 16.86s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 196 on this move #####
+INPUT for random:
+24
+4
+299.73
+2***********32**********
+12**********022*3*******
+01*********3000*2*******
+13*********113032*******
+01********21120010******
+123*******11321322******
+120****3**33211212****3*
+012****2**23011121**2210
+201*1*30**023211211*1202
+113*3*3212011121223*0030
+200*1*2300033113221*1102
+32110*133233201232103122
+20130*022302313212013330
+212012002333231122313230
+012221310022101310033300
+100221332203123030112311
+222101121112211321210100
+302201011211211202322203
+110203312223211100112231
+202013312332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J17] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 81 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+28.41
+2***********32**********
+12**********022*3*******
+01**********000*2*******
+13*********313032*******
+01*********1120010******
+123********1321322******
+120*******21211212****3*
+012*******13011121**2210
+201*1*3***333211211*1202
+113*3*33**221121223*0030
+200*1*22*2013113221*1102
+32110*101003201232103122
+20130*020203313212013330
+212012033332231122313230
+012221332303101310033300
+100221322032123030112311
+222101100223211321210100
+302201012202211202322203
+110203332223211100112231
+202013322332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [Q8] in 15.63s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+24
+4
+299.69
+2***********32**********
+12**********022*********
+01**********000*********
+13*********31303********
+01*********11200********
+123********13213********
+120*******2121123*****3*
+012*******1301112***2210
+201*1*3***3332112*1*1202
+113*3*33**221121103*0030
+200*1*22*2013113221*1102
+32110*101003201212103122
+20130*020203313231013330
+212012033332231111313230
+012221332303101310033300
+100221322032123030112311
+222101100223211321210100
+302201012202211202322203
+110203332223211100112231
+202013322332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [N5] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+12.78
+2***********3***********
+12**********0*2*********
+01**********020*********
+13*********31203********
+01*********11000********
+123********13313********
+120*******2121123*****3*
+012*******1301112***2210
+201*1*3***3332112*1*1202
+113*3*33**221121103*0030
+200*1*22*2013113221*1102
+32110*101003201212103122
+20130*020203313231013330
+212012033332231111313230
+012221332303101310033300
+100221322032123030112311
+222101100223211321210100
+302201012202211202322203
+110203332223211100112231
+202013322332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [O6] in 14.82s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+24
+4
+299.64
+2***********3***********
+12**********0***********
+01**********0***********
+13*********31***********
+01*********112**********
+123********1322*********
+120*******212003******3*
+012*******1303003***2210
+201*1*3***3332032*1*1202
+113*3*33**221122203*0030
+200*1*22*2013113221*1102
+32110*101003201212103122
+20130*020203313231013330
+212012033332231111313230
+012221332303101310033300
+100221322032123030112311
+222101100223211321210100
+302201012202211202322203
+110203332223211100112231
+202013322332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [X17] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+24
+4
+-2.03999999999998
+2***********3***********
+12**********0***********
+01**********0***********
+13*********31***********
+01*********112**********
+123********1322*********
+120*******212003********
+012*******1303003***22**
+201*1*3***3332032*1*1230
+113*3*33**221122203*0012
+200*1*22*2013113221*1100
+32110*101003201212103132
+20130*020203313231013302
+212012033332231111313220
+012221332303101310033330
+100221322032123030112330
+222101100223211321210101
+302201012202211202322213
+110203332223211100112231
+202013322332122333203133
+112313300212032323220213
+032323013200212120023301
+112322220113130120120210
+220003222221212120231231
+
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### GAME OVER: ngolesta@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs ngolesta@usc.edu (X): game 8 ####################
+##### game start! #####
+INPUT for random:
+15
+3
+300
+121111111111211
+022212112122120
+211102100121222
+120222112120111
+102102101111211
+021112111011011
+120110121111121
+100220022020110
+212200101211011
+211001101001212
+111211011011111
+211012111111111
+001211221010010
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [J1] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 4096 on this move #####
+INPUT for ngolesta@usc.edu:
+15
+3
+300
+12*************
+0222*2*********
+211102*********
+120222********1
+102102******2*0
+021112******1*2
+120110*0****211
+100220*0*0**121
+21220002*022221
+211001122221011
+111211100020010
+211012002020212
+001211222000020
+111112000220101
+011121021102212
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [B9] in 153.44s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 625 on this move #####
+INPUT for random:
+15
+3
+299.95
+***************
+***************
+1**************
+0**2**********1
+2**1*2******2*0
+1**2*2******1*2
+12*102*0****211
+022122*0*0**121
+111102*2*022221
+120210*22221011
+202210000020010
+221020002020212
+220202222000020
+000002000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A9] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for ngolesta@usc.edu:
+15
+3
+146.56
+***************
+***************
+***************
+**************1
+1****2******2*0
+0****2******1*2
+2**202*0****211
+12*122*0*0**121
+122202*2*022221
+020210*22221011
+202210000020010
+221020002020212
+220202222000020
+000002000220101
+002221021102212
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### Killing ngolesta@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  119329 119339 119344 121416 126053 128716
+##### GAME OVER: ngolesta@usc.edu ran over time limit by 12s #####
+#################### ROUND 1: random (X) vs ngolesta@usc.edu (O): game 9 ####################
+##### game start! #####
+INPUT for ngolesta@usc.edu:
+22
+5
+300
+1021112000321014143212
+3023144233132332133423
+0213222213132112221403
+2022211214224423320221
+2240334130211323332201
+4143414210410130134313
+3030331222401204331303
+3101324312200042321014
+0241423242324234334310
+2142120222124110312123
+4323432304422312121131
+1203403130113302133414
+4211111202342203430313
+2344133303333141242131
+1131234201112214323134
+4221124023423221113443
+4142331034322133012021
+1330031232313103442222
+4424201111013331010042
+2223343231110220331140
+3333311343121132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [G17] in 45.18s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 144 on this move #####
+INPUT for random:
+22
+5
+300
+102111******1014143212
+302314*00***2332133423
+021322*2303*2112221403
+2022212213124423320221
+2240334213131323332201
+4143412134230130134313
+3030331210221204331303
+3101324220410042321014
+0241424312414234334310
+2142121242204110312123
+4323434222302312121131
+1203403302123302133414
+4211110134422203430313
+2344132200123141242131
+1131233302312214323134
+4221121203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C12] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+254.82
+10*111******1014143212
+302314*00***2332133423
+022322*2303*2112221403
+2012212213124423320221
+2220334213131323332201
+4143412134230130134313
+3040331210221204331303
+3131324220410042321014
+0201424312414234334310
+2142121242204110312123
+4343434222302312121131
+1223403302123302133414
+4211110134422203430313
+2344132200123141242131
+1131233302312214323134
+4221121203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [P4] in 45.02s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 144 on this move #####
+INPUT for random:
+22
+5
+299.95
+10*111******101***3212
+302314*00***233***3423
+022322*2303*2114**1403
+2012212213124422**0221
+2220334213131322*42201
+4143412134230130*34313
+3040331210221204121303
+3131324220410042121014
+0201424312414234224310
+2142121242204110112123
+4343434222302312121131
+1223403302123302133414
+4211110134422203430313
+2344132200123141242131
+1131233302312214323134
+4221121203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K11] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+209.8
+10*111******101***3212
+302314*00***233***3423
+022322*230**2114**1403
+2012212213324422**0221
+2220334213131322*42201
+4143412134130130*34313
+3040331210221204121303
+3131324220210042121014
+0201424312414234224310
+2142121242404110112123
+4343434222202312121131
+1223403302123302133414
+4211110134422203430313
+2344132200123141242131
+1131233302312214323134
+4221121203343221113443
+4142333021132133012021
+1330034033413103442222
+4424204234323331010042
+2223343232320220331140
+3333311343021132111222
+3423331002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [D20] in 45.11s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 121 on this move #####
+INPUT for random:
+22
+5
+299.9
+************101***3212
+*0***1*00***233***3423
+102**4*230**2114**1403
+3221122213324422**0221
+0013114213131322*42201
+2223232134130130*34313
+2142211210221204121303
+4040334220210042121014
+3133424312414234224310
+3200321242404110112123
+0141324222202312121131
+2341433302123302133414
+4222100134422203430313
+1213412200123141242131
+4343433302312214323134
+2131131203343221113443
+1224123021132133012021
+4141234033413103442222
+4331134234323331010042
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [D15] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+164.69
+************101***3212
+*0***1*00***233***3423
+102**4*230**2114**1403
+322*122213324422**0221
+001*114213131322*42201
+2221232134130130*34313
+2143211210221204121303
+4043334220210042121014
+3132424312414234224310
+3200321242404110112123
+0143324222202312121131
+2340433302123302133414
+4221100134422203430313
+1211412200123141242131
+4342433302312214323134
+2131131203343221113443
+1224123021132133012021
+4141234033413103442222
+4331134234323331010042
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [J9] in 44.51s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+22
+5
+299.86
+************101***3212
+*0***1******233***3423
+102**4**0***2114**1403
+322*12203**24422**0221
+001*11421*331322*42201
+222123221*130130*34313
+2143211230121204121303
+4043334113210042121014
+3132424223214234224310
+3200321214404110112123
+0143324340402312121131
+2340433300123302133414
+4221100134422203430313
+1211412200123141242131
+4342433302312214323134
+2131131203343221113443
+1224123021132133012021
+4141234033413103442222
+4331134234323331010042
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [A11] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+120.18
+************101***3212
+*0***1******233***3423
+*02**4**0***2114**1403
+122*12203**24422**0221
+301*11421*331322*42201
+022123221*130130*34313
+2143211230121204121303
+2043334113210042121014
+4132424223214234224310
+3200321214404110112123
+3143324340402312121131
+2340433300123302133414
+4221100134422203430313
+1211412200123141242131
+4342433302312214323134
+2131131203343221113443
+1224123021132133012021
+4141234033413103442222
+4331134234323331010042
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [S17] in 44.38s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 49 on this move #####
+INPUT for random:
+22
+5
+299.82
+************101*******
+*0***1******233****2**
+*02**4**0***2114**3412
+122*12203**24422**3423
+301*11421*331322*41203
+022123221*130130*30221
+2143211230121204122301
+2043334113210042124313
+4132424223214234221003
+3200321214404110111314
+3143324340402312124110
+2340433300123302132123
+4221100134422203431431
+1211412200123141243314
+4342433302312214320113
+2131131203343221112131
+1224123021132133013434
+4141234033413103443043
+4331134234323331010041
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [C18] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+75.8
+************101*******
+*0***1******233****2**
+*0***4**0***2114**3412
+122*12203**24422**3423
+302*11421*331322*41203
+021123221*130130*30221
+2123211230121204122301
+2043334113210042124313
+4142424223214234221003
+3230321214404110111314
+3103324340402312124110
+2340433300123302132123
+4241100134422203431431
+1221412200123141243314
+4312433302312214320113
+2141131203343221112131
+1234123021132133013434
+4121234033413103443043
+4331134234323331010041
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [P11] in 43.6s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 4 on this move #####
+INPUT for random:
+22
+5
+299.78
+************101*******
+*0***1******233****2**
+*0***4**0***211***3412
+122*12203**2442***3423
+302*11421*331324*41203
+021123221*130132*30221
+2123211230121202122301
+2043334113210040124313
+4142424223214234221003
+3230321214404112111314
+3103324340402314124110
+2340433300123300132123
+4241100134422203431431
+1221412200123141243314
+4312433302312214320113
+2141131203343221112131
+1234123021132133013434
+4121234033413103443043
+4331134234323331010041
+1422303232320220331140
+4220041343021132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L19] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+32.2
+************101*******
+*0***1******233****2**
+*0***4**0***211***3412
+122*12203***442***3423
+302*11421*3*1324*41203
+021123221*1*0132*30221
+2123211230121202122301
+2043334113230040124313
+4142424223234234221003
+3230321214424112111314
+3103324340412314124110
+2340433300113300132123
+4241100134402203431431
+1221412200103141243314
+4312433302322214320113
+2141131203323221112131
+1234123021122133013434
+4121234033413103443043
+4331134234343331010041
+1422303232330220331140
+4220041343011132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [L15] in 14.48s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+22
+5
+299.73
+**********************
+*0***1********1****2**
+*0***4**0***103***3412
+122*12203***231***3423
+302*11421*3*2124*41203
+021123221*1*4422*30221
+21232112301*1332122301
+20433341132*0100124313
+41424242232*1244221003
+3230321214420032111314
+3103324340434214124110
+2340433300134110132123
+4241100134422303431431
+1221412200113301243314
+4312433302312244320113
+2141131203303111112131
+1234123021103133013434
+4121234033413103443043
+4331134234343331010041
+1422303232330220331140
+4220041343011132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E13] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+17.72
+**********************
+*0***1********1****2**
+*0***4**0***103***3412
+122**2203***231***3423
+302*11421*3*2124*41203
+021*13221*1*4422*30221
+212*2112301*1332122301
+20412341132*0100124313
+41433242232*1244221003
+3233421214420032111314
+3102324340434214124110
+2340333300134110132123
+4243400134422303431431
+1220412200113301243314
+4312433302312244320113
+2141131203303111112131
+1234123021103133013434
+4121234033413103443043
+4331134234343331010041
+1422303232330220331140
+4220041343011132111222
+2424211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [C20] in 13.55s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 25 on this move #####
+INPUT for random:
+22
+5
+299.69
+**********************
+*****1********1****2**
+*0***4**0***103***3412
+10***2203***231***3423
+32**11421*3*2124*41203
+00**13221*1*4422*30221
+222*2112301*1332122301
+212*2341132*0100124313
+40113242232*1244221003
+3123421214420032111314
+3243324340434214124110
+2142333300134110132123
+4330400134422303431431
+1203412200113301243314
+4240433302312244320113
+2342131203303111112131
+1121123021103133013434
+4214234033413103443043
+4141134234343331010041
+1331303232330220331140
+4420041343011132111222
+2434211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E13] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+4.17000000000001
+**********************
+*****1********1****2**
+*0***4**0***103***3412
+10***2203***231***3423
+32***1421*3*2124*41203
+00***3221*1*4422*30221
+222**112301*1332122301
+212*1341132*0100124313
+40111242232*1244221003
+3123221214420032111314
+3243224340434214124110
+2142333300134110132123
+4330400134422303431431
+1203312200113301243314
+4240333302312244320113
+2342131203303111112131
+1121123021103133013434
+4214234033413103443043
+4141134234343331010041
+1331303232330220331140
+4420041343011132111222
+2434211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [M16] in 13.47s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 36 on this move #####
+INPUT for random:
+22
+5
+299.64
+**********************
+*****1*************2**
+*0***4**0*****1***3412
+10***2203****03***3423
+32***1421*3**314*41203
+00***3221*1**122*30221
+222**112301*1422122301
+212*1341132*2330124313
+40111242232*2104221003
+3123221214424242111314
+3243224340431034124110
+2142333300130210132123
+4330400134421113431431
+1203312200110301243314
+4240333302314304320113
+2342131203304241112131
+1121123021102113013434
+4214234033413133443043
+4141134234342101010041
+1331303232330220331140
+4420041343011132111222
+2434211002342422112041
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 49 on this move #####
+INPUT for ngolesta@usc.edu:
+22
+5
+-9.29999999999999
+**********************
+*******************2**
+*0******0*****1***3412
+10***1**3****03***3423
+32***4201*3**314*41203
+00***2421*1**122*30221
+222**122301*1422122301
+212**312132*2330124313
+401**141232*2104221003
+3121134214424242111314
+3243121240431034124110
+2143224300130210132123
+4332223334421113431431
+1200330100110301243314
+4240402202314304320113
+2342111203304241112131
+1121123021102113013434
+4214234033413133443043
+4141134234342101010041
+1331303232330220331140
+4420041343011132111222
+2434211002342422112041
+
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### GAME OVER: ngolesta@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (O) vs ngolesta@usc.edu (X): game 10 ####################
+##### game start! #####
+INPUT for random:
+23
+4
+300
+10322011122130200122100
+21133212112202111113110
+21011213010313022202212
+11220312310312100333023
+02112212113123221212023
+11311121122313111011021
+12103013112223222230211
+11200222122121232102110
+31311032213210223121312
+32012122022022211132332
+12220222211310133321132
+13122220222322012313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [Q12] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+300
+1032201112213020*122100
+21133212112202110113110
+21011213010313021202212
+11220312310312102333023
+02112212113123220212023
+11311121122313111011021
+12103013112223221230211
+11200222122121232102110
+31311032213210222121312
+32012122022022213132332
+12220222211310131321132
+13122220222322013313210
+22212321132310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [F8] in 51.63s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 625 on this move #####
+INPUT for random:
+23
+4
+299.96
+1**********13020*122100
+2*3******2*202110113110
+20122****12313021202212
+110330**112312102333023
+012112*1110123220212023
+11120212010313111011021
+12312313323223221230211
+11111212112121232102110
+32203112122210222121312
+31300011112022213132332
+11011023123310131321132
+13112110012322013313210
+22210331131310021031213
+12211201213021313323223
+21221212121301311321010
+32013320200213002212022
+00021113021121012213320
+12032113223110122321032
+01220321031111200112220
+31222223021221211023020
+23103022322312222231302
+13122102323121112021333
+21113212123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [H23] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 144 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+248.37
+1**********13020*122100
+2********2*202110113110
+20*******12313021202212
+113*2***112312102333023
+011230**110123220212023
+110312**010313111011021
+122102**323223221230211
+111223*1112121232102110
+32311212122210222121312
+31113113112022213132332
+11200012123310131321132
+13301012012322013313210
+22012111131310021031213
+12110323213021313323223
+21211210121301311321010
+32211231200213002212022
+00223301021121012213320
+12011112223110122321032
+01022120031111200112220
+31030313021221211023020
+23103013322312222231302
+13122101323121112021333
+21113213123111232222110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [O19] in 49.43s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 169 on this move #####
+INPUT for random:
+23
+4
+299.91
+1**********13*******100
+2********2*200*0***2110
+20*******12312*1*123212
+113*2***11231322*112023
+011230**110122100203023
+110312**010313021332021
+122102**323223112211211
+111223*1112123220010110
+32311212122211131232312
+31113113112020221101332
+11200012123312212122132
+13301012012320232131210
+22012111131312213323213
+12110323213020121311223
+21211210121301013033010
+32211231200211011321022
+00223301021123303322320
+12011112223111311213032
+01022120031110022211220
+31030313021221002322020
+23103013322311112113302
+13122101323121110021333
+21113213123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G10] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 81 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+198.94
+1**********13*******100
+2********2*200*0***2110
+20*******12312*1*123212
+113*2****1231322*112023
+01123***110122100203023
+11031***110313021332021
+122100**023223112211211
+111222**312123220010110
+323112*1122211131232312
+311133*2112020221101332
+112002*3123312212122132
+133010*2112320232131210
+220120*2031312213323213
+12110323213020121311223
+21211210121301013033010
+32211231200211011321022
+00223301021123303322320
+12011112223111311213032
+01022120031110022211220
+31030313021221002322020
+23103013322311112113302
+13122101323121110021333
+21113213123111231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [N20] in 44.7s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 144 on this move #####
+INPUT for random:
+23
+4
+299.88
+1*******************100
+2********2*********2110
+20*******1213****123212
+113*2****1220**0*112023
+01123***11031**10203023
+11031***110310221332021
+122100**023122102211211
+111222**312313020010110
+323112*1122222111232312
+311133*2112123221101332
+112002*3123213132122132
+133010*2112023222131210
+220120*2031311213323213
+12110323213320231311223
+21211210121312213033010
+32211231200020121321022
+00223301021302013322320
+12011112223210011213032
+01022120031121302211220
+31030313021111312322020
+23103013322113022113302
+13122101323221000021333
+21113213123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F23] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+154.24
+1*******************100
+2********2*********2110
+20*******1213****123212
+113*2****1220**0*112023
+01123***11031**10203023
+11031***110310221332021
+12210***023122102211211
+111220**312313020010110
+323112*1122222111232312
+311132*2112123221101332
+112003*3123213132122132
+133012*2112023222131210
+220120*2031311213323213
+12110023213320231311223
+21211310121312213033010
+32211231200020121321022
+00223201021302013322320
+12011312223210011213032
+01022120031121302211220
+31030113021111312322020
+23103313322113022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [A4] in 45.17s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+23
+4
+299.83
+********************100
+*********2*********2110
+*********1213****123212
+****2****1220**0*112023
+1**23***11031**10203023
+2*331***110310221332021
+20010***023122102211211
+022220**312313020010110
+323112*1122222111232312
+311132*2112123221101332
+112003*3123213132122132
+133012*2112023222131210
+220120*2031311213323213
+12110023213320231311223
+21211310121312213033010
+32211231200020121321022
+00223201021302013322320
+12011312223210011213032
+01022120031121302211220
+31030113021111312322020
+23103313322113022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [R14] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+109.07
+********************100
+*********2*********2110
+*********1213*****23212
+****2****1220**0**12023
+1**23***11031**1*103023
+2*331***110310220132021
+20010***023122101211211
+022220**312313022310110
+323112*1122222110232312
+311132*2112123221001332
+112003*3123213131222132
+133012*2112023222131210
+220120*2031311212123213
+12110023213320231111223
+21211310121312213033010
+32211231200020121321022
+00223201021302013322320
+12011312223210011213032
+01022120031121302211220
+31030113021111312322020
+23103313322113022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [D9] in 45.26s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+23
+4
+299.78
+********************100
+*********2*********2110
+*********1213*****23212
+*********1220**0**12023
+****2***11031**1*103023
+****3***110310220132021
+1*321***023122101211211
+2*0300**312313022310110
+202122*1122222110232312
+023232*2112123221001332
+322003*3123213131222132
+333012*2112023222131210
+220120*2031311212123213
+12110023213320231111223
+21211310121312213033010
+32211231200020121321022
+00223201021302013322320
+12011312223210011213032
+01022120031121302211220
+31030113021111312322020
+23103313322113022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [L10] in 0.03s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+63.81
+********************100
+*********2*********2110
+*********12*3*****23212
+*********1210**0**12023
+****2***11021**1*103023
+****3***110310220132021
+1*321***023322101211211
+2*0300**312113022310110
+202122*1122322110232312
+023232*2112223221001332
+322003*3123213131222132
+333012*2112023222131210
+220120*2031311212123213
+12110023213320231111223
+21211310121312213033010
+32211231200020121321022
+00223201021302013322320
+12011312223210011213032
+01022120031121302211220
+31030113021111312322020
+23103313322113022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [O12] in 14.78s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+23
+4
+299.75
+********************100
+*********2*********2110
+*********12*3*****23212
+*********1210*****12023
+****2***11021**0*103023
+****3***11031**1*132021
+1*321***023320*2*211211
+2*0300**312112*00310110
+202122*1122323*21232312
+023232*2112222212001332
+322003*3123213120222132
+333012*2112023031131210
+220120*2031313111123213
+12110023213321231111223
+21211310121310113033010
+32211231200020121321022
+00223201021302013322320
+12011312223210011213032
+01022120031121302211220
+31030113021111312322020
+23103313322113022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E18] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 4 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+49.03
+********************100
+*********2*********2110
+*********12*3*****23212
+*********1210*****12023
+********11021**0*103023
+****2***11031**1*132021
+1*3*3***023320*2*211211
+2*0210**312112*00310110
+202302*1122323*21232312
+023122*2112222212001332
+322233*3123213120222132
+333002*2112023031131210
+220010*2031313111123213
+12112023213321231111223
+21210310121310113033010
+32211231200020121321022
+00211201021302013322320
+12023312223210011213032
+01022120031121302211220
+31030113021111312322020
+23103313322113022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [K19] in 14.76s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 81 on this move #####
+INPUT for random:
+23
+4
+299.7
+********************100
+*********2*********2110
+*********1********23212
+*********1********12023
+********112*3**0*103023
+****2***112*0**1*132021
+1*3*3***02011**2*211211
+2*0210**31021**00310110
+202302*1123320*21232312
+023122*2112312212001332
+322233*3122123120222132
+333002*2112322031131210
+220010*2033213111123213
+12112023212223231111223
+21210310121013113033010
+32211231203321121321022
+00211201021310013322320
+12023312220320011213032
+01022120031002302211220
+31030113023310312322020
+23103313322223022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E14] in 0.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+34.27
+********************100
+*********2*********2110
+*********1********23212
+*********1********12023
+********112*3**0*103023
+********112*0**1*132021
+1*3*2***02011**2*211211
+2*0230**31021**00310110
+202312*1123320*21232312
+023102*2112312212001332
+322223*3122123120222132
+333032*2112322031131210
+220000*2033213111123213
+12111023212223231111223
+21210310121013113033010
+32211231203321121321022
+00211201021310013322320
+12023312220320011213032
+01022120031002302211220
+31030113023310312322020
+23103313322223022113302
+13122001323221000021333
+21113113123320231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [J20] in 14.09s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+23
+4
+299.64
+********************100
+*******************2110
+******************23212
+******************12023
+********1******0*103023
+********122****1*132021
+1*3*2***012****2*211211
+2*0230**310*3**00310110
+202312*1110100*21232312
+023102*2113212212001332
+322223*3122313120222132
+333032*2112322031131210
+220000*2022113111123213
+12111023213323231111223
+21210310122223113033010
+32211231211211121321022
+00211201033020013322320
+12023312211310011213032
+01022120020322302211220
+31030113001310312322020
+23103313323023022113302
+13122001323301000021333
+21113113133310231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [O18] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+20.18
+********************100
+*******************2110
+******************23212
+******************12023
+********1******0*103023
+********122****1*132021
+1*3*2***012****2*211211
+2*0230**310*3**00310110
+202312*111010**21232312
+023102*211321**12001332
+322223*3122310*20222132
+333032*2112322231131210
+220000*2022113111123213
+12111023213322031111223
+21210310122223113033010
+32211231211213221321022
+00211201033023113322320
+12023312211311111213032
+01022120020322302211220
+31030113001310312322020
+23103313323023022113302
+13122001323301000021333
+21113113133310231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [Q12] in 12.73s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 100 on this move #####
+INPUT for random:
+23
+4
+299.6
+********************100
+********************110
+*******************2212
+******************23023
+********1*********12023
+********122****0**03021
+1*3*2***012****1**32211
+2*0230**310*3**2*111110
+202312*111010**0*110312
+023102*211321**2*232332
+322223*3122310*10301132
+333032*2112322*21222210
+220000*2022113232031213
+12111023213322030223223
+21210310122223113033010
+32211231211213221321022
+00211201033023113322320
+12023312211311111213032
+01022120020322302211220
+31030113001310312322020
+23103313323023022113302
+13122001323301000021333
+21113113133310231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [F14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 36 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+7.45000000000001
+********************100
+********************110
+*******************2212
+******************23023
+********1*********12023
+********122****0**03021
+1*******012****1**32211
+2*3*2***310*3**2*111110
+200*3**111010**0*110312
+022210*211321**2*232332
+323302*3122310*10301132
+332122*2112322*21222210
+223233*2022113232031213
+12111223213322030223223
+21210310122223113033010
+32211231211213221321022
+00211201033023113322320
+12023312211311111213032
+01022120020322302211220
+31030113001310312322020
+23103313323023022113302
+13122001323301000021333
+21113113133310231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [W6] in 12.23s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 121 on this move #####
+INPUT for random:
+23
+4
+299.56
+***********************
+********************1**
+********************1*0
+*******************2200
+********1**********3012
+********122****0**22013
+1*******012****1**13023
+2*3*2***310*3**2**02220
+200*3**111010**0**30322
+022210*211321**2*232332
+323302*3122310*10301132
+332122*2112322*21222210
+223233*2022113232031213
+12111223213322030223223
+21210310122223113033010
+32211231211213221321022
+00211201033023113322320
+12023312211311111213032
+01022120020322302211220
+31030113001310312322020
+23103313323023022113302
+13122001323301000021333
+21113113133310231031110
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [E10] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+23
+4
+-4.77999999999999
+***********************
+********************1**
+********************1*0
+*******************2200
+********1**********3012
+********122****0**22013
+1*******012****1**13023
+2*3*****310*3**2**02220
+200*2**111010**0**30322
+022230*211321**2*232332
+323302*3122310*10301132
+332122*2112322*21222210
+223233*2022113232031213
+12111223213322030223223
+21210310122223113033010
+32211231211213221321022
+00211201033023113322320
+12023312211311111213032
+01022120020322302211220
+31030113001310312322020
+23103313323023022113302
+13122001323301000021333
+21113113133310231031110
+
+##### No output.txt found. Making a bogus one... #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### GAME OVER: ngolesta@usc.edu loses because of illegal move [A0] #####
+Server said: FAIL
+#################### ROUND 1: random (X) vs ngolesta@usc.edu (O): game 11 ####################
+##### game start! #####
+INPUT for ngolesta@usc.edu:
+25
+5
+300
+3230134313333142312011333
+2222010334430430422210211
+2013320413310403142333242
+3221342103213111132113131
+2100011422043111223031232
+2102322312041330131141312
+2123212324122423241232312
+3223312033321210130214000
+3301243241323003303113103
+3224402321333323103221142
+0420012041343211321120122
+3131223410403422232222140
+4444332022433411011341110
+2303222322030321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [I8] in 99.47s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 225 on this move #####
+INPUT for random:
+25
+5
+300
+32301343******42312011333
+2222010313***130422210211
+2013320434***403142333242
+3221342113*3*411132113131
+210001140333*111223031232
+2102322322413130131141312
+2123212312310323241232312
+3223312024240410130214000
+3301243241043203303113103
+3224402321023023103221142
+0420012041121211321120122
+3131223410422422232222140
+4444332022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333430244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G16] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+25
+5
+200.53
+323013*3******42312011333
+2222014313***130422210211
+2013320434***403142333242
+3221340113*3*411132113131
+210001240333*111223031232
+2102321322413130131141312
+2123212312310323241232312
+3223312024240410130214000
+3301242241043203303113103
+3224403321023023103221142
+0420012041121211321120122
+3131222410422422232222140
+4444333022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333432244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [Q3] in 99.18s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 64 on this move #####
+INPUT for random:
+25
+5
+299.96
+323013*3*********12011333
+2222014313*******22210211
+2013320434****42342333242
+3221340113*3*130432113131
+210001240333*403223031232
+2102321322413430131141312
+2123212312310323241232312
+3223312024240410130214000
+3301242241043203303113103
+3224403321023023103221142
+0420012041121211321120122
+3131222410422422232222140
+4444333022441411011341110
+2303222322000321011233141
+4102442034101101320302333
+1333432244301404314201101
+1412231321330411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [K16] in 0.06s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 9 on this move #####
+INPUT for ngolesta@usc.edu:
+25
+5
+101.35
+323013*3*********12011333
+2222014313*******22210211
+2013320434****42342333242
+3221340113***130432113131
+2100012403*3*403223031232
+2102321322*33430131141312
+2123212312310323241232312
+3223312024410410130214000
+3301242241343203303113103
+3224403321243023103221142
+0420012041021211321120122
+3131222410022422232222140
+4444333022121411011341110
+2303222322440321011233141
+4102442034401101320302333
+1333432244001404314201101
+1412231321100411421132321
+3121011041220002241211013
+3204233212123043431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [L15] in 32.17s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 81 on this move #####
+INPUT for random:
+25
+5
+299.9
+323013*3*********12011333
+2222014313*******22210211
+2013320434*****2342333242
+3221340113****40432113131
+2100012403****33223031232
+2102321322***100131141312
+2123212312***433241232312
+3223312024333420130214000
+3301242241430313303113103
+3224403321310403103221142
+0420012041213221321120122
+3131222410043012232222140
+4444333022041221011341110
+2303222322122411011233141
+4102442034421421320302333
+1333432244420304314201101
+1412231321141101421132321
+3121011041221412241211013
+3204233212123443431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [G5] in 0.05s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+25
+5
+69.18
+323013*3*********12011333
+222201*313*******22210211
+2013324434*****2342333242
+3221340113****40432113131
+2100010403****33223031232
+2102321322***100131141312
+2123212312***433241232312
+3223312024333420130214000
+3301242241430313303113103
+3224403321310403103221142
+0420012041213221321120122
+3131222410043012232222140
+4444333022041221011341110
+2303222322122411011233141
+4102442034421421320302333
+1333432244420304314201101
+1412231321141101421132321
+3121011041221412241211013
+3204233212123443431133222
+2121403020113230213134141
+2341232103230301331300021
+1301323123213131232113313
+3422203124222213242031414
+2432132013312134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [K21] in 32.11s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 49 on this move #####
+INPUT for random:
+25
+5
+299.85
+323013*3*********12011333
+222201*313*******22210211
+2013324434*****2342333242
+3221340113****40432113131
+2100010403****33223031232
+2102321322****00131141312
+2123212312***133241232312
+3223312024***420130214000
+3301242241*3*413303113103
+3224403321*33303103221142
+0420012041310421321120122
+3131222410410212232222140
+4444333022343021011341110
+2303222322243211011233141
+4102442034021421320302333
+1333432244022404314201101
+1412231321121301421132321
+3121011041440112241211013
+3204233212421443431133222
+2121403020121430213134141
+2341232103213201331300021
+1301323123133331232113313
+3422203124110113242031414
+2432132013313134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [S14] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 16 on this move #####
+INPUT for ngolesta@usc.edu:
+25
+5
+37.07
+323013*3***********011333
+222201*313*********210211
+2013324434*****2312333242
+3221340113****40422113131
+2100010403****33242031232
+2102321322****00132141312
+2123212312***133223232312
+3223312024***420131214000
+3301242241*3*413341113103
+3224403321*33303130221142
+0420012041310421303120122
+3131222410410212203222140
+4444333022343021021341110
+2303222322243211032233141
+4102442034021421320302333
+1333432244022404314201101
+1412231321121301421132321
+3121011041440112241211013
+3204233212421443431133222
+2121403020121430213134141
+2341232103213201331300021
+1301323123133331232113313
+3422203124110113242031414
+2432132013313134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### ngolesta@usc.edu plays [W9] in 32.1s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### ngolesta@usc.edu scores 81 on this move #####
+INPUT for random:
+25
+5
+299.81
+323013*3***********01***3
+222201*313*********21**31
+2013324434*****2312331*12
+3221340113****40422110*41
+2100010403****33242033*32
+2102321322****00132143*32
+2123212312***133223231312
+3223312024***420131211210
+3301242241*3*413341112203
+3224403321*33303130224102
+0420012041310421303123242
+3131222410410212203220320
+4444333022343021021342340
+2303222322243211032233041
+4102442034021421320302333
+1333432244022404314201101
+1412231321121301421132321
+3121011041440112241211013
+3204233212421443431133222
+2121403020121430213134141
+2341232103213201331300021
+1301323123133331232113313
+3422203124110113242031414
+2432132013313134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### SUCCESS: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on random #####
+##### random plays [B18] in 0.04s #####
+##### Running: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### SUCCESS: python3 /lab/tmpi1/u/fruitrage-competition/server/task1_outputcheck.py input.txt output.txt > server_next.txt on run_1_random_ngolesta@usc.edu #####
+##### random scores 1 on this move #####
+INPUT for ngolesta@usc.edu:
+25
+5
+4.96999999999999
+3*3013*3***********01***3
+222201*313*********21**31
+2213324434*****2312331*12
+3021340113****40422110*41
+2200010403****33242033*32
+2102321322****00132143*32
+2123212312***133223231312
+3123312024***420131211210
+3201242241*3*413341112203
+3324403321*33303130224102
+0220012041310421303123242
+3431222410410212203220320
+4144333022343021021342340
+2403222322243211032233041
+4302442034021421320302333
+1133432244022404314201101
+1312231321121301421132321
+3421011041440112241211013
+3204233212421443431133222
+2121403020121430213134141
+2341232103213201331300021
+1301323123133331232113313
+3422203124110113242031414
+2432132013313134222124430
+1214213411301341122130123
+
+##### Running: /usr/bin/time -o time_1_random_ngolesta@usc.edu.txt -f "%U" python3 homework3.py > /dev/null 2>&1 on ngolesta@usc.edu #####
+##### Killing ngolesta@usc.edu after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  29011 29025 29033 119329 121416 126053 128716
+##### GAME OVER: ngolesta@usc.edu ran over time limit by 12s #####
+
+
+########## GRAND WINNER ROUND 1 IS random BY 11 vs 0 GAMES ##########
